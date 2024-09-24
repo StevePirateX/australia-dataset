@@ -81,7 +81,7 @@
     <Use>Warning Indications in Windows</Use>
     <Name>BrightYellow</Name>
     <R>255</R>
-    <G>102</G>
+    <G>182</G>
     <B>0</B>
   </Colour>
   <Colour id="Custom">
@@ -244,9 +244,9 @@
   <Colour id="GroundBackground">
     <Use>A-SMGCS Background</Use>
     <Name>Grey</Name>
-    <R>10</R>
-    <G>23</G>
-    <B>29</B>
+    <R>5</R>
+    <G>13</G>
+    <B>15</B>
   </Colour>
 	<Colour id="Jurisdiction">
 		<Use>Jurisdiction</Use>
@@ -403,11 +403,11 @@
 		<B>0</B>
 	</Colour>
   <Colour id="SecondaryMap">
-		<Use>Alternative System Map</Use>
+		<Use>Alternative System Map e.g. sectors, Compass Rose</Use>
 		<Name>BlueGrey</Name>
-		<R>40</R>
-		<G>10</G>
-		<B>10</B>
+		<R>34</R>
+		<G>96</G>
+		<B>56</B>
 	</Colour>
   <Colour id="GroundRunway">
     <Use>A-SMGCS Runway</Use>
@@ -440,9 +440,9 @@
   <Colour id="GroundOther">
     <Use>A-SMGCS Information / Other</Use>
     <Name>Cream</Name>
-    <R>0</R>
-    <G>0</G>
-    <B>0</B>
+    <R>70</R>
+    <G>50</G>
+    <B>180</B>
     </Colour>
 	<Colour id="DynamicTools">
 		<Use>Dynamic Tool In Use</Use>
