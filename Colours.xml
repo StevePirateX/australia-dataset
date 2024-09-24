@@ -80,8 +80,8 @@
   <Colour id="WindowWarning">
     <Use>Warning Indications in Windows</Use>
     <Name>BrightYellow</Name>
-    <R>160</R>
-    <G>100</G>
+    <R>255</R>
+    <G>102</G>
     <B>0</B>
   </Colour>
   <Colour id="Custom">
@@ -144,7 +144,7 @@
 		<Use>Warning Indications</Use>
 		<Name>BrightYellow</Name>
 		<R>255</R>
-		<G>180</G>
+		<G>102</G>
 		<B>0</B>
 	</Colour>
   <Colour id="VSCSBackground">
@@ -251,9 +251,9 @@
 	<Colour id="Jurisdiction">
 		<Use>Jurisdiction</Use>
 		<Name>LightGreen</Name>
-		<R>255</R>
+		<R>0</R>
 		<G>255</G>
-		<B>255</B>
+		<B>0</B>
 	</Colour>
   <Colour id="GhostJurisdiction">
     <Use>GhostJurisdiction</Use>
@@ -265,9 +265,9 @@
   <Colour id="PostJurisdiction">
 		<Use>PostJurisdiction</Use>
 		<Name>Black</Name>
-		<R>200</R>
-		<G>200</G>
-		<B>200</B>
+		<R>0</R>
+		<G>166</G>
+		<B>0</B>
 	</Colour>
   <Colour id="JurisdictionIQL">
 		<Use>JurisdictionIQL</Use>
@@ -280,15 +280,15 @@
 		<Use>HandOver</Use>
 		<Name>Salmon</Name>
 		<R>255</R>
-		<G>205</G>
-		<B>105</B>
+		<G>141</G>
+		<B>42</B>
 	</Colour>
   <Colour id="Announced">
 		<Use>Announced</Use>
 		<Name>Blue</Name>
-		<R>170</R>
-		<G>255</G>
-		<B>255</B>
+		<R>140</R>
+		<G>239</G>
+		<B>140</B>
 	</Colour>
   <Colour id="NonJurisdictionIQL">
 		<Use>NonJurisdictionIQL</Use>
@@ -300,21 +300,21 @@
   <Colour id="NonJurisdiction">
 		<Use>Non Jurisdiction Tracks and Strips</Use>
 		<Name>Black</Name>
-		<R>110</R>
-		<G>220</G>
-		<B>200</B>
+		<R>140</R>
+		<G>200</G>
+		<B>162</B>
 	</Colour>
   <Colour id="NonJurisdictionLabel">
 		<Use>Non Jurisdiction Labels</Use>
 		<Name>VeryDarkGrey</Name>
-		<R>110</R>
-		<G>220</G>
-		<B>200</B>
+		<R>112</R>
+		<G>173</G>
+		<B>140</B>
 	</Colour>
   <Colour id="CFLHighlight">
 		<Use>New CFL Selection</Use>
 		<Name>White</Name>
-		<R>160</R>
+		<R>255</R>
 		<G>255</G>
 		<B>255</B>
 	</Colour>
@@ -328,9 +328,9 @@
   <Colour id="Route">
     <Use>Graphic Route</Use>
     <Name>Lavender</Name>
-    <R>196</R>
-    <G>171</G>
-    <B>196</B>
+    <R>52</R>
+    <G>131</G>
+    <B>96</B>
   </Colour>
   <Colour id="StaticTools">
 		<Use>BRL,PETO,NonRVSM,LATC,ETO</Use>
@@ -391,9 +391,9 @@
   <Colour id="PrimaryMap">
 		<Use>System Maps</Use>
 		<Name>DarkGrey</Name>
-		<R>12</R>
-		<G>72</G>
-		<B>150</B>
+		<R>62</R>
+		<G>70</G>
+		<B>89</B>
 	</Colour>
   <Colour id="Infill">
 		<Use>Filled Area Map</Use>
