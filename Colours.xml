@@ -18,8 +18,8 @@
 		<Use>Strip Text</Use>
 		<Name>OffWhite</Name>
 		<R>180</R>
-		<G>230</G>
-		<B>255</B>
+		<G>255</G>
+		<B>230</B>
 	</Colour>
 	<Colour id="PopupASDWindowBorderFocused">
 		<Use>Popup ASD Window borders when focused</Use>
@@ -94,7 +94,7 @@
   <Colour id="Preactive">
 		<Use>Preactive Tracks and Strips</Use>
 		<Name>White</Name>
-		<R>255</R>
+		<R>200</R>
 		<G>255</G>
 		<B>255</B>
 	</Colour>
@@ -349,9 +349,9 @@
   <Colour id="GroundArrival">
     <Use>A-SMGCS Arrival</Use>
     <Name>Buff</Name>
-    <R>0</R>
-    <G>150</G>
-    <B>230</B>
+    <R>255</R>
+    <G>0</G>
+    <B>150</B>
   </Colour>
   <Colour id="GroundUnknown">
     <Use>A-SMGCS Aircraft</Use>
@@ -370,8 +370,8 @@
   <Colour id="GroundLocal">
     <Use>A-SGCMS Local</Use>
     <Name>Pink</Name>
-    <R>255</R>
-    <G>100</G>
+    <R>0</R>
+    <G>255</G>
     <B>255</B>
   </Colour>
 	<Colour id="PRDArea">
