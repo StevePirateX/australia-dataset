@@ -17,9 +17,9 @@
   <Colour id="StripText">
 		<Use>Strip Text</Use>
 		<Name>OffWhite</Name>
-		<R>180</R>
-		<G>255</G>
-		<B>230</B>
+		<R>74</R>
+		<G>223</G>
+		<B>235</B>
 	</Colour>
 	<Colour id="PopupASDWindowBorderFocused">
 		<Use>Popup ASD Window borders when focused</Use>
@@ -206,9 +206,6 @@
   <Colour id="VSCSButtonDepressed">
     <Use>VSCS Generic Buttons</Use>
     <Name>DarkGrey</Name>
-<!--    <R>90</R>
-    <G>90</G>
-    <B>90</B>-->
 	<R>50</R>
 	<G>50</G>
 	<B>50</B>
@@ -258,9 +255,9 @@
   <Colour id="GhostJurisdiction">
     <Use>GhostJurisdiction</Use>
     <Name>LightYellow</Name>
-    <R>45</R>
-    <G>204</G>
-    <B>181</B>
+	<R>160</R>
+	<G>238</G>
+	<B>255</B>
   </Colour>
   <Colour id="PostJurisdiction">
 		<Use>PostJurisdiction</Use>
@@ -300,9 +297,9 @@
   <Colour id="NonJurisdiction">
 		<Use>Non Jurisdiction Tracks and Strips</Use>
 		<Name>Black</Name>
-		<R>140</R>
-		<G>200</G>
-		<B>162</B>
+		<R>112</R>
+		<G>173</G>
+		<B>140</B>
 	</Colour>
   <Colour id="NonJurisdictionLabel">
 		<Use>Non Jurisdiction Labels</Use>
