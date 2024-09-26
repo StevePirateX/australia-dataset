@@ -156,7 +156,7 @@
   </Colour>
   <Colour id="VSCSHotline">
     <Use>Closed VSCS Hotlines</Use>
-    <Name>Yellow</Name>
+    <Name>Orange</Name>
     <R>180</R>
     <G>114</G>
     <B>0</B>
@@ -171,9 +171,9 @@
   <Colour id="VSCSColdline">
     <Use>VSCS Closed Coldlines</Use>
     <Name>CyanBlue</Name>
-    <R>12</R>
-    <G>90</G>
-    <B>30</B>
+    <R>10</R>
+    <G>65</G>
+    <B>11</B>
   </Colour>
   <Colour id="VSCSOpenColdline">
     <Use>VSCS Open and (flashing) Ringing Coldlines</Use>
