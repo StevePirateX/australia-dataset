@@ -144,7 +144,7 @@
 		<Use>Warning Indications</Use>
 		<Name>BrightYellow</Name>
 		<R>255</R>
-		<G>102</G>
+		<G>182</G>
 		<B>0</B>
 	</Colour>
   <Colour id="VSCSBackground">
@@ -258,9 +258,9 @@
   <Colour id="GhostJurisdiction">
     <Use>GhostJurisdiction</Use>
     <Name>LightYellow</Name>
-    <R>250</R>
-    <G>255</G>
-    <B>200</B>
+    <R>45</R>
+    <G>204</G>
+    <B>181</B>
   </Colour>
   <Colour id="PostJurisdiction">
 		<Use>PostJurisdiction</Use>
