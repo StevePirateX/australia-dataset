@@ -17,9 +17,12 @@
   <Colour id="StripText">
 		<Use>Strip Text</Use>
 		<Name>OffWhite</Name>
-		<R>74</R>
+		<!--<R>74</R>
 		<G>223</G>
-		<B>235</B>
+		<B>235</B>-->
+		<R>169</R>
+		<G>209</G>
+		<B>142</B>
 	</Colour>
 	<Colour id="PopupASDWindowBorderFocused">
 		<Use>Popup ASD Window borders when focused</Use>
