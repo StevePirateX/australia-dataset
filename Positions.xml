@@ -114,7 +114,7 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Inverell" Type="ASD" DefaultCenter="-273810.000+1531547.000" DefaultRange="1200" VisibilityRange="600" MagneticVariation="-10.16" Rotation="0">
+    <Position Name="Inverell" Type="ASD" DefaultCenter="-273810.000+1531547.000" DefaultRange="1200" VisibilityRange="600" MagneticVariation="-11.2" Rotation="0">
       <Sectors>
         <Sector Name="INL" />
         <Sector Name="DOS" />
@@ -160,7 +160,7 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Keppel" Type="ASD" DefaultCenter="-240656.000+1495402.000" DefaultRange="1200" VisibilityRange="600">
+    <Position Name="Keppel" Type="ASD" DefaultCenter="-240656.000+1495402.000" DefaultRange="1200" VisibilityRange="600" MagneticVariation="-9.22" Rotation="0">
       <Sectors>
         <Sector Name="KPL" />
         <Sector Name="CVN" />
@@ -390,7 +390,7 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Kennedy" Type="ASD" DefaultCenter="-164428.000+1470710.000" DefaultRange="1100" VisibilityRange="600" MagneticVariation="-7.51" Rotation="0">
+    <Position Name="Kennedy" Type="ASD" DefaultCenter="-164428.000+1470710.000" DefaultRange="1100" VisibilityRange="600" MagneticVariation="-6.87" Rotation="0">
       <Sectors>
         <Sector Name="KEN" />
         <Sector Name="TBP" />
@@ -659,7 +659,7 @@
       <Map Name="East Sale/ASMGCS_YMES_BLD" />
     </Maps>
   </Position>
-  <Position Name="YMEN" Type="ASMGCS" ASMGCSAirport="YMEN" DefaultCenter="-37.728056+144.901944" DefaultRange="2" MagneticVariation="-11.84" Rotation="0">
+  <Position Name="YMEN" Type="ASMGCS" ASMGCSAirport="YMEN" DefaultCenter="-37.728056+144.901944" DefaultRange="2" MagneticVariation="-11.85" Rotation="0">
     <Maps>
       <Map Name="Melbourne/ASMGCS_YMEN_RWY" />
       <Map Name="Melbourne/ASMGCS_YMEN_APR" />
@@ -892,7 +892,7 @@
         <Map Name="Rockhampton/ASMGCS_YBRK_BLD" />
       </Maps>
     </Position>
-    <Position Name="YMHB" Type="ASMGCS" ASMGCSAirport="YMHB" DefaultCenter="-42.838889+147.510278" DefaultRange="2" MagneticVariation="-15.62" Rotation="0">
+    <Position Name="YMHB" Type="ASMGCS" ASMGCSAirport="YMHB" DefaultCenter="-42.838889+147.510278" DefaultRange="2" MagneticVariation="-15.63" Rotation="0">
       <Maps>
         <Map Name="Hobart/ASMGCS_YMHB_RWY" />
         <Map Name="Hobart/ASMGCS_YMHB_APR" />
@@ -1434,39 +1434,7 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
-    <!--<Position Name="Avalon TCU" Type="ASD" DefaultCenter="-38.039444+144.469444" DefaultRange="100" VisibilityRange="150" MagneticVariation="-11.6">
-      <Sectors>
-        <Sector Name="MAV" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>-3740.4+14450.6</Point>
-      </ManualVisibility>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Melbourne/ML_COAST" />
-        <Map Name="Melbourne/ML_TCU" />
-        <Map Name="Melbourne/AV_RWY18" />
-        <Map Name="ALL_SECTORS" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="YMAV" Frequency="118.2" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="YMAV" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="6000">
-        <AdditionalLevels>1600,1900,2300,2600,2700,2900,3100,3700,3300,4100,4700</AdditionalLevels>
-      </CFL>
-      <ArrivalLists>
-        <Airport Name="YMAV" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Avalon Approach</Line>
-        <Line>ATIS available on 118.2</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-    </Position> -->
+    
     <Position Name="East Sale TCU" Type="ASD" DefaultCenter="-38.098889+147.149444" DefaultRange="220" MagneticVariation="-13.01" Rotation="0">
       <Sectors>
         <Sector Name="ESA" />
@@ -1721,7 +1689,7 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Canberra TCU" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="150" VisibilityRange="100" MagneticVariation="-12.64" Rotation="0">
+    <Position Name="Canberra TCU" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="150" VisibilityRange="100" MagneticVariation="-12.65" Rotation="0">
       <Sectors>
         <Sector Name="CAE" />
         <Sector Name="CAW" />
@@ -2815,7 +2783,7 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Essendon Tower" Type="ASD" DefaultCenter="-37.728056+144.901944" DefaultRange="40" MagneticVariation="-11.84" Rotation="0">
+    <Position Name="Essendon Tower" Type="ASD" DefaultCenter="-37.728056+144.901944" DefaultRange="40" MagneticVariation="-11.85" Rotation="0">
       <Sectors>
         <Sector Name="EN ADC" />
         <Sector Name="EN SMC" />
@@ -3019,7 +2987,7 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Canberra Tower" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="60" MagneticVariation="-12.64" Rotation="0">
+    <Position Name="Canberra Tower" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="60" MagneticVariation="-12.65" Rotation="0">
       <Sectors>
         <Sector Name="CB ADC" />
         <Sector Name="CB SMC" />
