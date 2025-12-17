@@ -128,7 +128,7 @@ def modify_positions_xml(input_file):
                method='xml',
                short_empty_elements=True)
 
-    print(f"Successfully updated {len(all_positions)} positions in {input_file} with magnetic variation calculated and rotation = 0")
+    print(f"Successfully updated {len(all_positions)} positions in {input_file} with magnetic variation calculated and set all rotations to have north as up")
 
 
 def modify_profile_xml(input_file):
