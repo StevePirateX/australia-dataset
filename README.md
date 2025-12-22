@@ -1,4 +1,57 @@
-# Eurocat Australia Dataset
+# Eurocat Australia Dataset - Custom
+
+This is my customised setup of the Eurocat Australia Dataset. It allows me to control using a style that I prefer but also allows for easy customisation for anyone.
+
+A new branch should be created for applied custom changes for a given AIRAC. This keeps the master branch clean for any changes between the original repository and this repo.
+
+## How to apply custom changes
+
+The "pygeomag" python package is required to be installed. This can be installed using `pip install pygeomag`.
+
+After setting up the required files, use `python apply_custom_changes.py` to process and apply the modifications. If applying to an existing dataset (i.e. the original fork of this project), the required files should be copied over to the root of the dataset folder:
+
+### Required Files
+
+- `apply_custom_changes.py` - the python script that applies the changes
+- `Colours-Custom.xml` - definitions of the colours that will be changed
+- `WorldMagneticModel/WMM.COF` - World Magnetic Model (WMM) that enables calculation the magnetic variation for a given location
+
+### File Setup
+
+#### Colours
+
+Custom colours should be defined in the `Colours-Custom.xml` file. Not colours used in the original need to be defined - only the desired changes need to be defined.
+
+For example:
+
+```xml
+<?xml version='1.0' encoding='utf-8'?>
+<Colours>
+    <Colour id="GenericText">
+        <Use>Window Text</Use>
+        <Name>DarkRed</Name>
+        <R>20</R>
+        <G>255</G>
+        <B>30</B>
+    </Colour>
+</Colours>
+```
+
+#### World Magnetic Model
+
+The World Magnetic Model Coefficients File is required to calculate the magnetic variation. The World Magnetic Model can be downloaded and updated from: https://www.ncei.noaa.gov/products/world-magnetic-model. It is valid for 5 years with the initial year shown on the first line of the coefficients file.
+
+The coefficient file should be located at `WorldMagneticModel/WMM.COF`.
+
+
+## What has been changed?
+
+- **Colours**: In this version I have set a darker style set of colours making it easier on the eyes to control in the dark)
+- **Magnetic variation**: This assists in vectoring aircraft so when using the bearing (as well as the maps) it shows in degrees magnetic allowing for a more accurate heading to be given to an aircraft. This is based on the World Magnetic Model (WMM) and applies the magnetic variation for the time of year of when the changes are applied  
+- **Rotation**: By default, most ground maps have been rotated based on the tower location and to help with screen space (I assume). My preference is to have the ground maps align with the air maps as well as the airport charts which improves usability and cohesiveness across displays
+___
+
+# Original Eurocat Australia ReadMe
 This is the default profile dataset for vatSys.
 
 ## Aeronautical Information Management
@@ -207,7 +260,7 @@ Airports may be defined whenever you wish to remove reliance on Navigraph define
 
 ```xml
 <Airport ICAO="YABA" Position="-345636.000+1174832.000" Elevation="233">
-		<Runway Name="14" Position="-345639.000+1174835.000">
-		<Runway Name="32" Position="-345642.000+1174838.000">
+		<Runway Name="14" Position="-345639.000+1174835.000" />
+		<Runway Name="32" Position="-345642.000+1174838.000" />
 </Airport>
 ```
