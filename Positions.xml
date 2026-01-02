@@ -1114,7 +1114,7 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Sunshine Coast Tower" Type="ASD" DefaultCenter="-26.603333+153.091111" DefaultRange="90" MagneticVariation="-10.83" Rotation="0">
+    <Position Name="Sunshine Coast Tower" Type="ASD" DefaultCenter="-26.603333+153.091111" DefaultRange="90" MagneticVariation="-10.84" Rotation="0">
       <Sectors>
         <Sector Name="SU ADC" />
         <Sector Name="SU SMC" />
