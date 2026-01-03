@@ -1,0 +1,135 @@
+name: Sync and Patch
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Add upstream
+      run: |
+        git remote add upstream https://github.com/vatSys/australia-dataset.git || true
+        git fetch upstream --tags
+
+    - name: Configure git identity
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Sync with upstream
+      run: |
+        git checkout --track origin/master
+        git rebase upstream/master master
+        git push origin
+
+    - name: Get latest tag
+      id: latest
+      run: |
+        LATEST_TAG=$(git tag -l '[0-9][0-9][0-9][0-9][a-z]' --sort=-creatordate --merged master | head -n1)
+        echo "Latest release tag: $LATEST_TAG"
+        echo "tag=$LATEST_TAG" >> $GITHUB_OUTPUT
+
+    - name: Get current tag
+      id: current
+      run: |
+        CURRENT_TAG=$(git tag -l '[0-9][0-9][0-9][0-9][a-z]' --sort=-creatordate --merged origin/custom-profile | head -n1)
+        echo "Current tag: $CURRENT_TAG"
+        echo "tag=$CURRENT_TAG" >> $GITHUB_OUTPUT
+
+    - name: Generate custom tag
+      id: custom
+      run: |
+        CUSTOM_TAG="${{ steps.latest.outputs.tag }}-custom"
+        echo "Latest release custom tag: $CUSTOM_TAG"
+        echo "tag=$CUSTOM_TAG" >> $GITHUB_OUTPUT
+
+    - name: Test current tag with latest
+      id: is_current
+      run: |
+        if [ "${{ steps.latest.outputs.tag }}" == "${{ steps.current.outputs.tag }}" ]; then
+            echo "Tags are the same - No update needed!"
+            EXISTS=true
+        else
+            echo "Tags are different - Updating profile..."
+            EXISTS=false
+        fi
+        echo "exists=$EXISTS" >> $GITHUB_OUTPUT
+
+    - name: Checkout custom-profile branch
+      id: checkout-custom-profile
+      if: steps.is_current.outputs.exists == 'false'
+      run: |
+        git checkout custom-profile
+
+    - name: Update custom-profile
+      id: update-custom-profile
+      if: steps.is_current.outputs.exists == 'false'
+      run: |
+        git checkout origin/custom-setup -- apply_custom_changes.py Colours-Custom.xml README.md ./WorldMagneticModel
+        git merge --no-commit master --strategy=ort --strategy-option=theirs
+
+    - name: Process python file
+      id: process-python-file
+      if: steps.is_current.outputs.exists == 'false'
+      run: |
+        python3 -m venv .venv
+        source .venv/bin/activate
+        pip install pygeomag
+        python3 ./apply_custom_changes.py
+        deactivate
+        rm -r .venv
+
+    - name: Commit changes 
+      id: commit-changes
+      if: steps.is_current.outputs.exists == 'false'
+      run: |
+        git add --all
+        git commit -m "Applied custom changes for ${{ steps.latest.outputs.tag }}" || "No changes."
+        git push origin
+
+    - name: Add Tag
+      id: add_tag
+      if: steps.is_current.outputs.exists == 'false'
+      run: |
+        git tag "${{ steps.custom.outputs.tag }}"
+        git push origin "${{ steps.custom.outputs.tag }}"
+        echo "Tag created: ${{ steps.custom.outputs.tag }}"
+        echo "created=true" >> $GITHUB_OUTPUT
+
+    - name: Create GitHub release
+      if: steps.is_current.outputs.exists == 'false' && steps.add_tag.outputs.created == 'true'
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.custom.outputs.tag }}
+        release_name: "${{ steps.latest.outputs.tag }} Custom"
+        body: |
+          Custom variant of upstream vatSys Australia dataset.
+    
+          **Upstream release:** ${{ steps.latest.outputs.tag }}
+          **Custom release:** ${{ steps.custom.outputs.tag }}
+        draft: false
+        prerelease: false
+        
+    - name: Create release ZIP
+      if: steps.is_current.outputs.exists == 'false' && steps.add_tag.outputs.created == 'true'
+      run: |
+        zip -r profile.zip . -x "*.git*"
+        
+    - name: Upload release asset
+      if: steps.is_current.outputs.exists == 'false' && steps.add_tag.outputs.created == 'true'
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: ${{ steps.custom.outputs.tag }}
+        files: profile.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+        
