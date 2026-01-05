@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Profile Name="Custom Australia" FullName="Custom Eurocat Australia (YMMM/YBBB)">
-	<Version AIRAC="2513" Revision="c" PublishDate="20250102" UpdateURL="" />
+	<Version AIRAC="2513" Revision="d" PublishDate="20260103" UpdateURL="" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />
