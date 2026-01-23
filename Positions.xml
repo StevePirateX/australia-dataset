@@ -2015,7 +2015,7 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Launceston TCU" Type="ASD" DefaultCenter="-413237.800+1471247.700" DefaultRange="319" VisibilityRange="150" MagneticVariation="-14.77" Rotation="0">
+    <Position Name="Launceston TCU" Type="ASD" DefaultCenter="-413237.800+1471247.700" DefaultRange="319" VisibilityRange="150" MagneticVariation="-14.78" Rotation="0">
       <Sectors>
         <Sector Name="LTA" />
       </Sectors>
