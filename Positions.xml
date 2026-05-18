@@ -3135,7 +3135,7 @@
         <Window Airport="YSWS" />
       </ATIS>
       <Strips Mode="State" Sort="Alpha" />
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="4000" />
       <ControllerInfo Callsign="WS_TWR">
         <Line>Walton Tower | PDC YSWS</Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
