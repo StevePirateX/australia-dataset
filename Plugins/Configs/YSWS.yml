@@ -12,13 +12,13 @@
 - if:
     waypoint: ["LEECE", "NWA"]
     runway: ["05"]
-    temp: ["35"]
+    temp_above: "35"
   SID: "#TONT\\dH"
 
 - if:
     waypoint: ["LEECE", "NWA"]
     runway: ["23"]
-    temp: ["35"]
+    temp_above: "35"
   SID: "#MELI\\dH"
 
 # Night SIDs (assumes UTC+10)
