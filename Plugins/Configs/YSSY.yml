@@ -3,6 +3,7 @@
 - if:
     jet: "true"
   CFL: "050"
+
 # Dual RWYs
 - if:
     atis_dep_rwy: ["34L", "34R"]
@@ -25,6 +26,7 @@
     jet: "true"
     atis_dep_rwy: ["34L", "34R"]
   runway: "34R"
+
 # SODPROPS
 - if:
     atis_dep_rwy: ["34L", "16L"]
@@ -36,7 +38,25 @@
     atis_dep_rwy: ["34L", "16L"]
     WTC: ["H", "J"]
   runway: "34L"
+
 # SIDs
+- if_not:
+    VFR: "true"
+  SID: "SY"
+
+# Non-Jets
+- if:
+    waypoint: ["KADOM", "BENBU"]
+  if_not:
+    jet: "true"
+  SID: "ANKUB"  
+
+# RWY 07
+- if:
+    jet: "true"
+    runway: ["07"]
+  SID: "FISHA"
+
 # RWY 16L
 - if:
     jet: "true"
@@ -48,26 +68,51 @@
     atis_dep_rwy: ["34L", "16L"]
     waypoint: ["WOL"]
   SID: "ABBEY"
+
 # RWY 16R
 - if:
     jet: "true"
     runway: ["16R"]
   SID: "GROOK"
+
+# RWY 25
+- if:
+    jet: "true"
+    runway: ["25"]
+    waypoint: ["CAWLY", "DIPSO", "EVONN", "NOBAR", "OLSEM", "OPTIC"]
+  SID: "AVMOV"
+- if:
+    jet: "true"
+    runway: ["25"]
+    waypoint: ["KADOM"]
+  SID: "KADOM"
+- if:
+    jet: "true"
+    runway: ["25"]
+    waypoint: ["STUIE"]
+  SID: "STUIE"
+
 # RWY 34L
 - if:
     jet: "true"
     runway: ["34L"]
-  SID: "RIC"
+    waypoint: ["NWA", "LEECE", "WOL"]
+  SID: "TONTO"
 - if:
     jet: "true"
     runway: ["34L"]
-    waypoint: ["WOL"]
-  SID: "WOL"
+    waypoint: ["CAWLY", "DIPSO", "EVONN", "NOBAR", "OLSEM", "OPTIC"]
+  SID: "AVMOV"
 - if:
     jet: "true"
     runway: ["34L"]
     waypoint: ["KADOM"]
   SID: "KADOM"
+- if:
+    jet: "true"
+    runway: ["34L"]
+    waypoint: ["STUIE"]
+  SID: "STUIE"
 
 # RWY 34R
 - if:
