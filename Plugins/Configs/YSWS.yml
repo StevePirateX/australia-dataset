@@ -17,7 +17,7 @@
 
 - if:
     runway: ["05"]
-    radial: ["250-359", "000-110"]
+    radials: ["250-359", "000-110"]
   if_not:
     jet: "true"
   SID: "#ISDI\\dD"
@@ -31,7 +31,7 @@
 
 - if:
     runway: ["23"]
-    radial: ["250-359", "000-110"]
+    radials: ["250-359", "000-110"]
   if_not:
     jet: "true"
   SID: "#LEKI\\dD"
