@@ -339,7 +339,7 @@
       -335548.350+1511018.420/-335449.744+1511003.152/-335038.000+1510455.000/-334333.000+1505617.000
     </Line>
     <Line Name="(SY) RWY34PROPS_8_SFWSPLIT" Width="1.7" Pattern="Dotted">
-      -335548.350+1511018.420/-335619.000+1505921.000
+      -335751.350+1511050.330/-340350.000+1505942.000
     </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
       <!--(SY) RWY34PROPS Labels-->
