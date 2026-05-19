@@ -11,3 +11,26 @@
     VFR: "true"
   runway: "29C"
   CFL: "030"
+
+# SIDs
+- if_not:
+    VFR: "true"
+  SID: "BK"
+
+- if:
+    radials: ["090-260"]
+  if_not:
+    VFR: "true"
+  SID: "MECKO"
+
+- if:
+    radials: ["260-359", "000-060"]
+  if_not:
+    VFR: "true"
+  SID: "URDOS"
+
+- if:
+    waypoint: ["NOLEM"]
+  if_not:
+    VFR: "true"
+  SID: "MECKO"
