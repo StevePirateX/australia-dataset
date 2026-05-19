@@ -229,6 +229,9 @@
     <Line Name="(SY) RWYSODPROPS_STUIE-SE_LINK" Width="1.7" Pattern="Dotted">
       -335449.744+1511003.152/-335614.000+1512318.000
     </Line>
+    <Line Name="(SY) RWYSODPROPS_34_8_SFWSPLIT" Width="1.7" Pattern="Dotted">
+      -335548.350+1511018.420/-335619.000+1505921.000
+    </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
       <!--(SY) RWYSODPROPS Labels-->
       <Point Name="SAN">-33.292778+151.131944</Point>
