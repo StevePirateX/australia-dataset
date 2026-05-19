@@ -8,14 +8,51 @@
 
 # Day SIDs & Radar SID assigned by default
 
+# Non-Jet SIDs (overridden later by night procedures as applicable)
+- if:
+    runway: ["05"]
+  if_not:
+    jet: "true"
+  SID: "#ADPA\\dD"
+
+- if:
+    runway: ["05"]
+    radial: ["250-359", "000-110"]
+  if_not:
+    jet: "true"
+  SID: "#ISDI\\dD"
+
+- if:
+    runway: ["05"]
+    waypoint: ["KAMBA", "NOBAR", "DIPSO"]
+  if_not:
+    jet: "true"
+  SID: "#KAMB\\dD"
+
+- if:
+    runway: ["23"]
+    radial: ["250-359", "000-110"]
+  if_not:
+    jet: "true"
+  SID: "#LEKI\\dD"
+
+- if:
+    runway: ["23"]
+    waypoint: ["EXETA", "NWA", "WOL"]
+  if_not:
+    jet: "true"
+  SID: "#REGE\\dD"
+
 # Hot SIDs
 - if:
+    jet: "true"
     waypoint: ["LEECE", "NWA"]
     runway: ["05"]
     temp_above: "35"
   SID: "#TONT\\dH"
 
 - if:
+    jet: "true"
     waypoint: ["LEECE", "NWA"]
     runway: ["23"]
     temp_above: "35"
