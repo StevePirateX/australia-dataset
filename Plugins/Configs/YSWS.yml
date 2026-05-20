@@ -1,14 +1,39 @@
-# Add RRO when OPR INFO info available
-
 - assign_dep_rwy: "true"
 - CFL: "030"
 - if:
     jet: "true"
   CFL: "040"
 
-# Day SIDs & Radar SID assigned by default
+# Default to Radar SID
+- SID: "WS"
 
-# Non-Jet SIDs (overridden later by night procedures as applicable)
+# Day Jet SIDs
+- if:
+    jet: "true"
+    waypoint: ["BENBU"]
+  SID: "#BENB\\dD"
+  
+- if:
+    jet: "true"
+    waypoint: ["CAWLY", "DIPSO", "EVONN", "NOBAR", "OLSEM", "OPTIC"]
+  SID: "#TESA\\dD"
+  
+- if:
+    jet: "true"
+    waypoint: ["PKS"]
+  SID: "#PKS\\dD"
+  
+- if:
+    jet: "true"
+    waypoint: ["TEEVE"]
+  SID: "#TEEV\\dD"
+  
+- if:
+    jet: "true"
+    waypoint: ["LEECE", "NWA"]
+  SID: "#TONT\\dD"
+
+# Day Non-Jet SIDs (overridden later by night procedures as applicable)
 - if:
     runway: ["05"]
   if_not:
@@ -113,6 +138,46 @@
     runway: ["23"]
   SID: "#REDA\\dN"
 
-# TODO: RRO SIDs
+# RRO SIDs (searches the entire ATIS for the runway nomination)
+- if:
+    atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
+    runway: ["23"]
+  SID: "WS"
+
+- if:
+    atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
+    runway: ["23"]
+    waypoint: ["KAMBA"]
+  if_not:
+      jet: "true"
+  SID: "#KAMB\\dQ"
+  
+- if:
+    atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
+    runway: ["23"]
+    waypoint: ["BENBU"]
+  SID: "#BENB\\dQ"
+  
+- if:
+    atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
+    runway: ["23"]
+    waypoint: ["CAWLY", "DIPSO", "EVONN", "NOBAR", "OLSEM", "OPTIC"]
+  SID: "#ENDE\\dQ"
+  
+- if:
+    atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
+    runway: ["23"]
+    waypoint: ["EXETA", "LEECE", "NWA"]
+  SID: "#TONT\\dQ"
+  
+- if:
+    atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
+    runway: ["23"]
+    waypoint: ["TEEVE", "PKS"]
+  SID: "#TEEV\\dQ"
+  
+- if:
+    atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
+  CFL: "100"
 
 - departures: ["118.4", "123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
