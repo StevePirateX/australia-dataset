@@ -59,6 +59,12 @@
             <Point Name="87">-345623.13+1383149.17</Point>
             <Point Name="88">-345624.36+1383149.19</Point>
             <Point Name="101">-345618.43+1383159.50</Point>
+            <!--APRON CHART - HELIPAD WEST APRON | 09-Jul-2026 (Am 187)-->
+            <Point Name="H1">-345643.18+1383117.86</Point>
+            <Point Name="H2">-345644.14+1383117.99</Point>
+            <Point Name="H3">-345645.09+1383118.20</Point>
+            <Point Name="H4">-345646.17+1383118.33</Point>
+            <Point Name="H5">-345647.00+1383118.32</Point>
 
             <!--ALBURY (YMAY)-->
             <!--GoogleEarth\YMAY Parking Coordinates | 27 JUN 23-->
