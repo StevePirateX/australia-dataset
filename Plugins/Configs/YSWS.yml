@@ -26,7 +26,7 @@
 - if:
     jet: "true"
     waypoint: ["TEEVE"]
-  SID: "#TEEV\\dD"
+  SID: "#TEVE\\dD"
   
 - if:
     jet: "true"
@@ -84,6 +84,44 @@
   SID: "#MELI\\dH"
 
 # Night SIDs (assumes UTC+10)
+
+  # 05 night SIDs
+- if:
+    time: ["1300-1930"]
+    runway: ["05"]
+  SID: "WS"
+
+- if:
+    time: ["1300-1930"]
+    waypoint: ["DIPSO", "NOBAR", "OLSEM"]
+    runway: ["05"]
+  SID: "#PASG\\dN"
+
+- if:
+    time: ["1300-1930"]
+    waypoint: ["EXETA", "LEECE", "NWA"]
+    runway: ["05"]
+  SID: "#REDA\\dN"
+
+  # 23 night SIDs
+- if:
+    time: ["1300-1930"]
+    runway: ["23"]
+  SID: "#REDA\\dN"
+
+- if:
+    time: ["1300-1930"]
+    waypoint: ["DIPSO", "NOBAR"]
+    runway: ["23"]
+  SID: "#PASG\\dN"
+
+- if:
+    time: ["1300-1930"]
+    waypoint: ["EXETA", "LEECE", "NWA"]
+    runway: ["23"]
+  SID: "#REDA\\dN"
+  
+  # Both Runways Night SIDs
 - if:
     time: ["1300-1930"]
     waypoint: ["KAMBA"]
@@ -104,39 +142,7 @@
 - if:
     time: ["1300-1930"]
     waypoint: ["TEEVE", "PKS"]
-  SID: "#TEEV\\dN"
-
-  # 05 night SIDs
-- if:
-    time: ["1300-1930"]
-    waypoint: ["DIPSO", "NOBAR", "OLSEM"]
-    runway: ["05"]
-  SID: "#PASG\\dN"
-
-- if:
-    time: ["1300-1930"]
-    waypoint: ["EXETA", "LEECE", "NWA"]
-    runway: ["05"]
-  SID: "#REDA\\dN"
-
-  # Default 23 jet night SID
-- if:
-    time: ["1300-1930"]
-    jet: "true"
-    runway: ["23"]
-  SID: "#REDA\\dN"
-
-- if:
-    time: ["1300-1930"]
-    waypoint: ["DIPSO", "NOBAR"]
-    runway: ["23"]
-  SID: "#PASG\\dN"
-
-- if:
-    time: ["1300-1930"]
-    waypoint: ["EXETA", "LEECE", "NWA"]
-    runway: ["23"]
-  SID: "#REDA\\dN"
+  SID: "#TEVE\\dN"
 
 # RRO SIDs (searches the entire ATIS for the runway nomination)
 - if:
@@ -174,7 +180,7 @@
     atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
     runway: ["23"]
     waypoint: ["TEEVE", "PKS"]
-  SID: "#TEEV\\dQ"
+  SID: "#TEVE\\dQ"
   
 - if:
     atis_regex: "RWY:\\s*05\\s+FOR\\s+ARR.*?23\\s+FOR\\s+DEP"
