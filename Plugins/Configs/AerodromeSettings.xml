@@ -1004,4 +1004,10 @@
     <AerodromeAutoFillLocation>../Configs/</AerodromeAutoFillLocation>
     <InhibitVersionCheck>true</InhibitVersionCheck>
 
+    <!-- Tells OzStrips to flag for an assigned heading for a non-radar SID -->
+    <RequireHeadingSID>
+        <SID>ANKUB</SID>
+    </RequireHeadingSID>
+
+
 </AerodromeSettings>
