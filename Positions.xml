@@ -1352,6 +1352,55 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
+    <Position Name="Walton TCU" Type="ASD" DefaultCenter="-33.883611+150.711389" DefaultRange="180" VisibilityRange="100" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="SWA" />
+        <Sector Name="SRA" />
+        <Sector Name="SBA" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>-33.883611+150.711389</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Sydney/SY_COAST" />
+        <Map Name="Sydney/SY_TCU" />
+        <Map Name="Sydney/WS_RWY05DAY" />
+        <Map Name="ALL_SECTORS" />
+        <Map Name="TMA_LL_LABELS" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="YWAL" Frequency="127.0" />
+        <Window Airport="YWAL" />
+      </ATIS>
+      <Strips Mode="State" Sort="Alpha">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+        <Window Type="State" State="HandoverIn" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="28000">
+        <AdditionalLevels>1800,2200,2500,3300,3500,4500</AdditionalLevels>
+      </CFL>
+      <ControllerInfo Callsign="BK_APP">
+        <Line>Bankstown Approach | ATIS available on 120.9</Line>
+        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="RI_APP">
+        <Line>Richmond Approach | ATIS available on 126.3</Line>
+        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="WS_APP">
+        <Line>Walton Approach | ATIS available on 127.0</Line>
+        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+      </ControllerInfo>
+    </Position>
     <Position Name="Sydney TCU" Type="ASD" DefaultCenter="-33.9461+151.1772" DefaultRange="190" VisibilityRange="100" MagneticVariation="-13">
       <Sectors>
         <Sector Name="SAS" />
