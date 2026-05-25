@@ -14015,9 +14015,9 @@ SAGLI
     <Point Name="TV2EI" Type="Fix">-380343.000+1463936.900</Point>
     <Point Name="TV3WA" Type="Fix">-382501.090+1462017.160</Point>
     <Point Name="TV3WB" Type="Fix">-382342.570+1461408.780</Point>
-    <Point Name="TV3WC" Type="Fix">-381803.010+1461254.280</Point>
+    <Point Name="TV3WC" Type="Fix">-381803.100+1461254.280</Point>
     <Point Name="TV3WF" Type="Fix">-381654.620+1462249.740</Point>
-    <Point Name="TV3WH" Type="Fix">-381100.020+1463021.450</Point>
+    <Point Name="TV3WH" Type="Fix">-381100.200+1463021.450</Point>
     <Point Name="TV3WI" Type="Fix">-382010.830+1461839.280</Point>
     <Point Name="TW2EA" Type="Fix">-273406.900+1521016.000</Point>
     <Point Name="TW2EB" Type="Fix">-273948.300+1521112.100</Point>
