@@ -1580,6 +1580,7 @@
         <Map Name="Gold Coast/CG_COAST" />
         <Map Name="Gold Coast/CG_TCU" />
         <Map Name="Gold Coast/CG_RWY32" />
+        <Map Name="Gold Coast/BA_RWY24" />
         <Map Name="ALL_SECTORS" />
         <Map Name="TMA_LL_LABELS" />
       </Maps>
@@ -3553,7 +3554,7 @@
         <Window Airport="YBNA" />
       </ATIS>
       <Strips Mode="State" Sort="Time" />
-      <CFL QuickLevel="4000" />
+      <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Ballina Tower | ATIS available on 128.65</Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
