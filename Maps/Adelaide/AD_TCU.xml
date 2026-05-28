@@ -158,7 +158,7 @@
       NOGIP
     </Line>
     <!--(AD) TCU Airspace-->
-    <Line Name="(AD) TCU-AAW/AAE_Split" Width="1.7" Pattern="Dotted">
+    <Line Name="(AD) TCU-AAW/AAE_Split" Width="2.7" Pattern="Dotted">
       -343354.000+1390513.000/-350947.000+1381254.000/-351055.733+1381413.495/-351258.320+1381708.063/-351328.000+1381805.000/-352645.000+1380716.000
     </Line>
   </Map>

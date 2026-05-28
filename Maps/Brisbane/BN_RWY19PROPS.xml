@@ -247,28 +247,28 @@
       <Point>TEGIL</Point>
     </Symbol>
     <!--(BN) RWY19PROPS Airspace-->
-    <Line Name="(BN) RWY19PROPS" Width="1.7" Pattern="Dotted">
+    <Line Name="(BN) RWY19PROPS" Width="2.7" Pattern="Dotted">
       -272311.460+1534205.560/-272146.616+1532914.160/-273805.056+1532806.763/-274729.398+1533006.351
     </Line>
-    <Line Name="(BN) RWY19PROPS_1" Width="1.7" Pattern="Dotted">
+    <Line Name="(BN) RWY19PROPS_1" Width="2.7" Pattern="Dotted">
       -271325.000+1524103.000/-271231.248+1525504.058/-272126.601+1530717.910/-272222.933+1530805.287
     </Line>
-    <Line Name="(BN) RWY19PROPS_2" Width="1.7" Pattern="Dotted">
+    <Line Name="(BN) RWY19PROPS_2" Width="2.7" Pattern="Dotted">
       -272222.933+1530805.287/-272706.563+1531637.883/-273836.412+1531641.066/-275140.536+1531243.157
     </Line>
-    <Line Name="(BN) RWY19PROPS_3_(CENTRELINE)" Width="1.7" Pattern="Dotted">
+    <Line Name="(BN) RWY19PROPS_3_(CENTRELINE)" Width="2.7" Pattern="Dotted">
       -265451.528+1532301.583/-272313.770+1530656.970/-272954.260+1530306.500/-274720.000+1525028.000
     </Line>
-    <Line Name="(BN) RWY19PROPS_4_(WACKO_SHELF)" Width="1.7" Pattern="Dotted">
+    <Line Name="(BN) RWY19PROPS_4_(WACKO_SHELF)" Width="2.7" Pattern="Dotted">
       -270237.612+1524232.849/-271231.248+1525504.058
     </Line>
-    <Line Name="(BN) RWY19PROPS_5_(DAYBO_SHELF)" Width="1.7" Pattern="Dotted">
+    <Line Name="(BN) RWY19PROPS_5_(DAYBO_SHELF)" Width="2.7" Pattern="Dotted">
       -271231.248+1525504.058/-271133.141+1525612.608/-271003.324+1525837.198/-270734.000+1530043.000/-265832.000+1530053.000/-265420.000+1525531.000
     </Line>
-    <Line Name="(BN) RWY19PROPS_6_(DENIS_SHELF)" Width="1.7" Pattern="Dotted">
+    <Line Name="(BN) RWY19PROPS_6_(DENIS_SHELF)" Width="2.7" Pattern="Dotted">
       -274852.000+1525335.000/-273854.000+1530027.000/-273735.000+1530304.000/-273749.296+1530406.600/-273803.000+1530703.000/-273749.296+1530959.400/-273708.604+1531250.404/-273602.167+1531530.786/-273518.000+1531640.000
     </Line>
-    <Line Name="(BN) RWY19PROPS_7_(LAGOB_SHELF)" Width="1.7" Pattern="Dotted">
+    <Line Name="(BN) RWY19PROPS_7_(LAGOB_SHELF)" Width="2.7" Pattern="Dotted">
       -273836.412+1531641.066/-273805.056+1532806.763
     </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">

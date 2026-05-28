@@ -90,7 +90,7 @@
       DADER
     </Line>
     <!--(CB) TCU Airspace-->
-    <Line Name="(CB) TCU-CBE/CBW_Split" Width="1.7" Pattern="Dotted">
+    <Line Name="(CB) TCU-CBE/CBW_Split" Width="2.7" Pattern="Dotted">
       -345224.081+1491137.797/-354040.022+1491141.642
     </Line>
   </Map>

@@ -219,16 +219,16 @@
       <Point>UPKID</Point>
     </Symbol>
     <!--(ML) RWY34 Airspace-->
-    <Line Name="(ML) RWY34_MAE" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY34_MAE" Width="2.7" Pattern="Dotted">
       -372537.000+1452354.000/-373340.000+1451459.000/-374036.000+1450512.000/-373945.000+1445126.000/-373941.000+1445011.000/-375003.600+1445207.800/-375134.000+1445225.000/-375103.000+1445656.000/-375021.000+1450040.000/-375120.000+1450617.000/-375200.000+1451014.000/-380114.000+1451640.000
     </Line>
-    <Line Name="(ML) RWY34_MDN" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY34_MDN" Width="2.7" Pattern="Dotted">
       -373941.000+1445011.000/-373644.000+1444936.000/-373638.000+1444746.000/-373423.000+1441315.000
     </Line>
-    <Line Name="(ML) RWY34_MDS_FUNNY_TRIANGLE" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY34_MDS_FUNNY_TRIANGLE" Width="2.7" Pattern="Dotted">
       -373941.000+1445011.000/-373638.000+1444746.000
     </Line>
-    <Line Name="(ML) RWY34_MDS_MAE" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY34_MDS_MAE" Width="2.7" Pattern="Dotted">
       -375200.000+1451014.000/-374330.900+1450642.700/-374036.000+1450512.000
     </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
