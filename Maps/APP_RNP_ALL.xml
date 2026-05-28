@@ -2552,7 +2552,6 @@
       <Point>SA2WB</Point>
       <Point>SA2WF</Point>
       <Point>SA2WI</Point>
-      <Point>LURPA</Point>
       <Point>SB3NI</Point>
       <Point>SCOEA</Point>
       <Point>SCOEB</Point>
@@ -2850,7 +2849,6 @@
       <Point>UD2EC</Point>
       <Point>UD2EF</Point>
       <Point>UD2EI</Point>
-      <Point>ANOSO</Point>
       <Point>UD2WD</Point>
       <Point>UD2WF</Point>
       <Point>UD2WI</Point>
@@ -3076,7 +3074,6 @@
       <Point>XG2SC</Point>
       <Point>XG2SF</Point>
       <Point>XG2SI</Point>
-      <Point>EPGET</Point>
       <Point>XL2SE</Point>
       <Point>XL2SG</Point>
       <Point>XL2SF</Point>
@@ -6013,7 +6010,6 @@
       <Point>RTIWG</Point>
       <Point>SA2WA</Point>
       <Point>SA2WB</Point>
-      <Point>LURPA</Point>
       <Point>SCOEA</Point>
       <Point>SCOEB</Point>
       <Point>SCOEC</Point>
@@ -6187,7 +6183,6 @@
       <Point>UB2WD</Point>
       <Point>UD2EA</Point>
       <Point>UD2EC</Point>
-      <Point>ANOSO</Point>
       <Point>UD2WD</Point>
       <Point>UO2EA</Point>
       <Point>UO2EB</Point>
@@ -6316,7 +6311,6 @@
       <Point>XG2SA</Point>
       <Point>XG2SB</Point>
       <Point>XG2SC</Point>
-      <Point>EPGET</Point>
       <Point>XL2SE</Point>
       <Point>XL2SG</Point>
       <Point>XL2WA</Point>
@@ -8459,7 +8453,6 @@
     <Line>SA2WI/SA2WF</Line>
     <Line>SA2WM/SA2WF</Line>
     <Line>SB3NA/SB3NI</Line>
-    <Line>LURPA/SB3NI</Line>
     <Line>SB3NI/SB3NF</Line>
     <Line>SB3NM/SB3NF</Line>
     <Line>SCOEA/SCOEI</Line>
@@ -8765,7 +8758,6 @@
     <Line>UD2EI/UD2EF</Line>
     <Line>UD2EM/UD2EF</Line>
     <Line>UD2WD/UD2WI</Line>
-    <Line>ANOSO/UD2WI</Line>
     <Line>UD2WI/UD2WF</Line>
     <Line>UD2WM/UD2WF</Line>
     <Line>UO2EA/UO2EI</Line>
@@ -9005,7 +8997,6 @@
     <Line>XG2SM/XG2SF</Line>
     <Line>XL2SE/XL2SI</Line>
     <Line>XL2SG/XL2SI</Line>
-    <Line>EPGET/XL2SI</Line>
     <Line>XL2SI/XL2SF</Line>
     <Line>XL2SM/XL2SF</Line>
     <Line>XL2WA/XL2WI</Line>
