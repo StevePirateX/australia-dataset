@@ -13,18 +13,14 @@
   CFL: "030"
 
 # SIDs
-- if_not:
-    VFR: "true"
-  SID: "BK"
-
 - if:
-    radials: ["090-260"]
+    radials: ["115-290"]
   if_not:
     VFR: "true"
   SID: "MECKO"
 
 - if:
-    radials: ["260-359", "000-060"]
+    radials: ["290-359", "000-115"]
   if_not:
     VFR: "true"
   SID: "URDOS"
