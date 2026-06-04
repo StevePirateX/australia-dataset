@@ -220,6 +220,18 @@
           <Point>ENBUD</Point>
         </Symbol>
         <!-- Pearce -->
+        <Symbol Type="SolidTriangle">
+          <Point>AZZAR</Point>
+          <Point>PEA304015</Point>
+          <Point>PEA356015</Point>
+          <Point>-314632.000+1154817.000</Point>
+        </Symbol>
+        <Label HasLeader="True" LabelOrientation="NE">
+          <Point Name="AZZAR">AZZAR</Point>
+          <Point Name="WESTGATE">PEA304015</Point>
+          <Point Name="NORTHGATE">PEA356015</Point>
+          <Point Name="SOUTHGATE">-314632.000+1154817.000</Point>
+        </Label>
         <!-- Wannamal Lane Right-->
         <Label HasLeader="True" LabelOrientation="N">
           <Point Name="WANNAMAL">-305539.000+1155723.000</Point>
