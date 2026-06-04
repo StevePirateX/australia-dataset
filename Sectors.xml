@@ -510,7 +510,6 @@
   </Sector>
   <Sector FullName="Walton Approach" Frequency="118.400" Callsign="WS_APP" Name="SWA">
     <Volumes>SWA,SWD_SAS_SHELF</Volumes>
-    <ResponsibleSectors>SRA,SBA</ResponsibleSectors>
   </Sector>
     <Sector FullName="Bankstown Approach" Frequency="125.800" Callsign="BK_APP" Name="SBA">
     <Volumes>SBA_1,SBA_2-3,SBA_BK</Volumes>

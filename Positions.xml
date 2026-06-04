@@ -1370,8 +1370,8 @@
         <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
-        <Editor Airport="YWAL" Frequency="127.0" />
-        <Window Airport="YWAL" />
+        <Editor Airport="YSWS" Frequency="127.0" />
+        <Window Airport="YSWS" />
       </ATIS>
       <Strips Mode="State" Sort="Alpha">
         <Window Type="State" State="Jurisdiction" Visible="true" />
