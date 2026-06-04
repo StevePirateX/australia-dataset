@@ -1428,6 +1428,7 @@
       <ATIS>
         <Editor Airport="YSSY" Frequency="118.55" />
         <Window Airport="YSSY" />
+        <Window Airport="YSWS" />
       </ATIS>
       <Strips Mode="State" Sort="Alpha">
         <Window Type="State" State="Jurisdiction" Visible="true" />
