@@ -5390,7 +5390,7 @@
   
   <!-- TCU Caps -->
   <Volume Name="BIK_SY_TMA_CAP" LowerLimit="28000" UpperLimit="60000">
-    <Boundaries>SYDNEY_APPROACH</Boundaries>
+    <Boundaries>SYDNEY_APPROACH,WALTON_APPROACH_CUSTOM,R480_RICHMOND</Boundaries>
   </Volume>
   <Volume Name="GOL_TMA_CAP" LowerLimit="7500" UpperLimit="60000">
     <Boundaries>GOL_TMA_CAP</Boundaries>
