@@ -195,6 +195,9 @@
       <Point>BIBRU</Point>
       <Point>KALKA</Point>
     </Symbol>
+    <Symbol Type="SolidStar">
+      <Point>GUTMO</Point>
+    </Symbol>
     <Symbol Type="Circle">
       <Point>WG VOR</Point>
     </Symbol>
@@ -206,7 +209,6 @@
       <Point>CULIN</Point>
       <Point>NOGOR</Point>
       <Point>DUBUS</Point>
-      <Point>GUTMO</Point>
       <Point>SCULN</Point>
       <Point>HOWLY</Point>
       <Point>MAJOR</Point>
