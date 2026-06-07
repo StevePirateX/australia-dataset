@@ -415,6 +415,47 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
+    <Position Name="Armidale" Type="ASD" DefaultCenter="-305434.000+1495443.000" DefaultRange="950" VisibilityRange="600">
+      <Sectors>
+        <Sector Name="ARL" />
+        <Sector Name="CNK" />
+        <Sector Name="DEN" />
+        <Sector Name="LIG" />
+        <Sector Name="GAH" />
+        <Sector Name="MOR" />
+        <Sector Name="RYS" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>-32.405+150.710</Point>
+        <Point>-24.802+150.787</Point>
+        <Point>-19.656+140.362</Point>
+        <Point>-32.507+140.712</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="AIRWAY_NOTES" />
+        <Map Name="ALL_CTA" />
+        <Map Name="ALL_SECTORS" />
+        <Map Name="ALL_NAVAIDS" />
+        <Map Name="COAST_ALL" />
+        <Map Name="ALL_ROUTES_HIGH" />
+        <Map Name="ALL_POINTS_HIGH" />
+        <Map Name="FIR_BDRY" />
+        <Map Name="UPPER_SECTOR_FREQS" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+        <Window Type="State" State="HandoverIn" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="10000" />
+      <ControllerInfo>
+        <Line>Brisbane Centre</Line>
+        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+      </ControllerInfo>
+    </Position>
     <Position Name="Benalla" Type="ASD" DefaultCenter="-36.595056+146.952945" DefaultRange="420" VisibilityRange="600">
       <Sectors>
         <Sector Name="BLA" />
@@ -483,47 +524,6 @@
       <CFL QuickLevel="10000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
-      </ControllerInfo>
-    </Position>
-    <Position Name="Gunnedah" Type="ASD" DefaultCenter="-305434.000+1495443.000" DefaultRange="950" VisibilityRange="600">
-      <Sectors>
-        <Sector Name="GAH" />
-        <Sector Name="ARL" />
-        <Sector Name="CNK" />
-        <Sector Name="DEN" />
-        <Sector Name="LIG" />
-        <Sector Name="MOR" />
-        <Sector Name="RYS" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>-32.405+150.710</Point>
-        <Point>-24.802+150.787</Point>
-        <Point>-19.656+140.362</Point>
-        <Point>-32.507+140.712</Point>
-      </ManualVisibility>
-      <Maps>
-        <Map Name="AIRWAY_NOTES" />
-        <Map Name="ALL_CTA" />
-        <Map Name="ALL_SECTORS" />
-        <Map Name="ALL_NAVAIDS" />
-        <Map Name="COAST_ALL" />
-        <Map Name="ALL_ROUTES_HIGH" />
-        <Map Name="ALL_POINTS_HIGH" />
-        <Map Name="FIR_BDRY" />
-        <Map Name="UPPER_SECTOR_FREQS" />
-      </Maps>
-      <Strips Mode="State" Sort="Time">
-        <Window Type="State" State="Jurisdiction" Visible="true" />
-        <Window Type="State" State="Announced" Visible="true" />
-        <Window Type="State" State="Preactive" Visible="true" />
-        <Window Type="State" State="HandoverIn" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="10000" />
-      <ControllerInfo>
-        <Line>Brisbane Centre</Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>

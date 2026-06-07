@@ -12,6 +12,7 @@
   </Sector>
   <Sector FullName="Armidale" Frequency="130.900" Callsign="BN-ARL_CTR" Name="ARL">
     <Volumes>ARL</Volumes>
+    <ResponsibleSectors>CNK,DEN,LIG,GAH,MOR,RYS</ResponsibleSectors>
   </Sector>
   <Sector FullName="Ashmore" Frequency="133.400" Callsign="BN-ASH_CTR" Name="ASH">
     <Volumes>ASH</Volumes>
@@ -87,7 +88,6 @@
   </Sector>
   <Sector FullName="Gunnedah" Frequency="121.150" Callsign="BN-GAH_CTR" Name="GAH">
     <Volumes>GAH</Volumes>
-    <ResponsibleSectors>ARL,CNK,DEN,LIG,MOR,RYS</ResponsibleSectors>
   </Sector>
   <Sector FullName="Howe" Frequency="124.950" Callsign="BN-HWE_CTR" Name="HWE">
     <Volumes>HWE</Volumes>
