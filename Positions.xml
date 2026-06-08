@@ -3543,7 +3543,7 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Learmonth Tower" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="50" MagneticVariation="-0.2">
+    <Position Name="Learmonth Tower" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="75" MagneticVariation="-0.2">
       <Sectors>
         <Sector Name="LM ADC" />
         <Sector Name="LM SMC" />
@@ -3559,7 +3559,7 @@
         <Window Airport="YPLM" />
       </ATIS>
       <Strips Mode="State" Sort="Alpha" />
-      <CFL QuickLevel="3000">
+      <CFL QuickLevel="19000">
         <AdditionalLevels>2300</AdditionalLevels>
       </CFL>
       <ControllerInfo>
