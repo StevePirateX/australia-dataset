@@ -2291,7 +2291,7 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Learmonth TCU" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="150" VisibilityRange="100" MagneticVariation="-0.2">
+    <Position Name="Learmonth TCU" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="175" VisibilityRange="100" MagneticVariation="-0.2">
       <Sectors>
         <Sector Name="LMA" />
       </Sectors>
