@@ -3271,7 +3271,7 @@
         <Line>ATIS available on 134.45</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Nowra Tower" Type="ASD" DefaultCenter="-34.948889+150.536944" DefaultRange="60" MagneticVariation="-12.8" DynamicInfill="false>
+    <Position Name="Nowra Tower" Type="ASD" DefaultCenter="-34.948889+150.536944" DefaultRange="60" MagneticVariation="-12.8" DynamicInfill="false">
       <Sectors>
         <Sector Name="NW ADC" />
         <Sector Name="NW SMC" />
