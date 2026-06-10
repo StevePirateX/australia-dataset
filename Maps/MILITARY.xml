@@ -90,6 +90,11 @@
         <Label HasLeader="True" LabelOrientation="N">
           <Point Name="NORTHERN OUT">LANOS</Point>
         </Label>
+        <Label HasLeader="True" LabelOrientation="E">
+          <Point Name="LEKEM">LEKEM</Point>
+          <Point Name="GONEB">GONEB</Point>
+          <Point Name="LANOS">LANOS</Point>
+        </Label>
         <Symbol Type="HollowTriangle">
           <Point>LEKEM</Point>
           <Point>GONEB</Point>
@@ -101,6 +106,11 @@
         </Line>
         <Label HasLeader="True" LabelOrientation="E">
           <Point Name="EASTERN OUT">TAVET</Point>
+        </Label>
+        <Label HasLeader="True" LabelOrientation="S">
+          <Point Name="VEMDA">VEMDA</Point>
+          <Point Name="KADRU">KADRU</Point>
+          <Point Name="TAVET">TAVET</Point>
         </Label>
         <Symbol Type="HollowTriangle">
           <Point>VEMDA</Point>
@@ -114,6 +124,11 @@
         <Label HasLeader="True" LabelOrientation="S">
           <Point Name="SOUTHERN OUT">NOLOX</Point>
         </Label>
+        <Label HasLeader="True" LabelOrientation="W">
+          <Point Name="SABAX">SABAX</Point>
+          <Point Name="LUTUK">LUTUK</Point>
+          <Point Name="NOLOX">NOLOX</Point>
+        </Label>
         <Symbol Type="HollowTriangle">
           <Point>SABAX</Point>
           <Point>LUTUK</Point>
@@ -125,6 +140,11 @@
         </Line>
         <Label HasLeader="True" LabelOrientation="W">
           <Point Name="SOUTHERN OUT">DUNNE</Point>
+        </Label>
+        <Label HasLeader="True" LabelOrientation="S">
+          <Point Name="DUGAD">DUGAD</Point>
+          <Point Name="LERKO">LERKO</Point>
+          <Point Name="DUNNE">DUNNE</Point>
         </Label>
         <Symbol Type="HollowTriangle">
           <Point>DUGAD</Point>
@@ -138,6 +158,11 @@
         <Label HasLeader="True" LabelOrientation="NE">
           <Point Name="LAKES IN">GIPPS</Point>
         </Label>
+        <Label HasLeader="True" LabelOrientation="SE">
+          <Point Name="OMBOR">OMBOR</Point>
+          <Point Name="TODIV">TODIV</Point>
+          <Point Name="GIPPS">GIPPS</Point>
+        </Label>
         <Symbol Type="HollowTriangle">
           <Point>OMBOR</Point>
           <Point>TODIV</Point>
@@ -149,6 +174,11 @@
         </Line>
         <Label HasLeader="True" LabelOrientation="SE">
           <Point Name="BASS IN">PUKIM</Point>
+        </Label>
+        <Label HasLeader="True" LabelOrientation="SW">
+          <Point Name="KIGAG">KIGAG</Point>
+          <Point Name="REMOT">REMOT</Point>
+          <Point Name="PUKIM">PUKIM</Point>
         </Label>
         <Symbol Type="HollowTriangle">
           <Point>KIGAG</Point>
@@ -162,6 +192,11 @@
         <Label HasLeader="True" LabelOrientation="SW">
           <Point Name="STREZLECKI IN">RUPOD</Point>
         </Label>
+        <Label HasLeader="True" LabelOrientation="NW">
+          <Point Name="TEBUM">TEBUM</Point>
+          <Point Name="PARNU">PARNU</Point>
+          <Point Name="RUPOD">RUPOD</Point>
+        </Label>
         <Symbol Type="HollowTriangle">
           <Point>TEBUM</Point>
           <Point>PARNU</Point>
@@ -174,12 +209,58 @@
         <Label HasLeader="True" LabelOrientation="NW">
           <Point Name="AVON IN">ENBUD</Point>
         </Label>
+        <Label HasLeader="True" LabelOrientation="SW">
+          <Point Name="AKVIN">AKVIN</Point>
+          <Point Name="UPSAL">UPSAL</Point>
+          <Point Name="ENBUD">ENBUD</Point>
+        </Label>
         <Symbol Type="HollowTriangle">
           <Point>AKVIN</Point>
           <Point>UPSAL</Point>
           <Point>ENBUD</Point>
         </Symbol>
+        <!-- Learmonth -->
+        <Symbol Type="SolidTriangle">
+          <Point>-214900.10+1140543.70</Point>
+          <Point>-215223.50+1141909.40</Point>
+          <Point>-220135.00+1142859.40</Point>
+          <Point>-221407.70+1143235.70</Point>
+          <Point>-222640.20+1142858.70</Point>
+          <Point>-223550.60+1141905.20</Point>
+          <Point>-223910.60+1140534.10</Point>
+          <Point>-223546.10+1135204.20</Point>
+          <Point>-222632.40+1134214.20</Point>
+          <Point>-221358.70+1133842.10</Point>
+          <Point>-220127.20+1134223.20</Point>
+          <Point>-215219.00+1135216.70</Point>
+        </Symbol>
+        <Label HasLeader="True" LabelOrientation="NE">
+          <Point Name="1">-214900.10+1140543.70</Point>
+          <Point Name="2">-215223.50+1141909.40</Point>
+          <Point Name="3">-220135.00+1142859.40</Point>
+          <Point Name="4">-221407.70+1143235.70</Point>
+          <Point Name="5">-222640.20+1142858.70</Point>
+          <Point Name="6">-223550.60+1141905.20</Point>
+          <Point Name="7">-223910.60+1140534.10</Point>
+          <Point Name="8">-223546.10+1135204.20</Point>
+          <Point Name="9">-222632.40+1134214.20</Point>
+          <Point Name="10">-221358.70+1133842.10</Point>
+          <Point Name="11">-220127.20+1134223.20</Point>
+          <Point Name="12">-215219.00+1135216.70</Point>
+        </Label>
         <!-- Pearce -->
+        <Symbol Type="SolidTriangle">
+          <Point>AZZAR</Point>
+          <Point>PEA304015</Point>
+          <Point>PEA356015</Point>
+          <Point>-314632.000+1154817.000</Point>
+        </Symbol>
+        <Label HasLeader="True" LabelOrientation="NE">
+          <Point Name="AZZAR">AZZAR</Point>
+          <Point Name="WESTGATE">PEA304015</Point>
+          <Point Name="NORTHGATE">PEA356015</Point>
+          <Point Name="SOUTHGATE">-314632.000+1154817.000</Point>
+        </Label>
         <!-- Wannamal Lane Right-->
         <Label HasLeader="True" LabelOrientation="N">
           <Point Name="WANNAMAL">-305539.000+1155723.000</Point>

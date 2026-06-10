@@ -451,7 +451,7 @@
         <Window Type="State" State="Preactive" Visible="true" />
         <Window Type="State" State="HandoverIn" Visible="true" />
       </Strips>
-      <CFL QuickLevel="10000" />
+      <CFL QuickLevel="12000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
@@ -1770,7 +1770,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Canberra/CB_COAST" />
         <Map Name="Canberra/CB_TCU" />
-        <Map Name="Canberra/CB_RWY1712" />
+        <Map Name="Canberra/CB_RWY3530" />
         <Map Name="ALL_SECTORS" />
         <Map Name="TMA_LL_LABELS" />
       </Maps>
@@ -2291,7 +2291,7 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Learmonth TCU" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="150" VisibilityRange="100" MagneticVariation="-0.2">
+    <Position Name="Learmonth TCU" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="175" VisibilityRange="100" MagneticVariation="-0.2">
       <Sectors>
         <Sector Name="LMA" />
       </Sectors>
@@ -2312,7 +2312,7 @@
         <Window Type="State" State="Preactive" Visible="true" />
         <Window Type="State" State="HandoverIn" Visible="true" />
       </Strips>
-      <CFL QuickLevel="28000">
+      <CFL QuickLevel="27000">
         <AdditionalLevels>2300</AdditionalLevels>
       </CFL>
       <ControllerInfo>
@@ -3003,7 +3003,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Canberra/CB_COAST" />
         <Map Name="Canberra/CB_TCU" />
-        <Map Name="Canberra/CB_RWY1712" />
+        <Map Name="Canberra/CB_RWY3530" />
       </Maps>
       <ATIS>
         <Editor Airport="YSCB" Frequency="127.45" />
@@ -3271,7 +3271,7 @@
         <Line>ATIS available on 134.45</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Nowra Tower" Type="ASD" DefaultCenter="-34.948889+150.536944" DefaultRange="60" MagneticVariation="-12.8">
+    <Position Name="Nowra Tower" Type="ASD" DefaultCenter="-34.948889+150.536944" DefaultRange="60" MagneticVariation="-12.8" DynamicInfill="false">
       <Sectors>
         <Sector Name="NW ADC" />
         <Sector Name="NW SMC" />
@@ -3543,7 +3543,7 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Learmonth Tower" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="50" MagneticVariation="-0.2">
+    <Position Name="Learmonth Tower" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="75" MagneticVariation="-0.2">
       <Sectors>
         <Sector Name="LM ADC" />
         <Sector Name="LM SMC" />
@@ -3559,7 +3559,7 @@
         <Window Airport="YPLM" />
       </ATIS>
       <Strips Mode="State" Sort="Alpha" />
-      <CFL QuickLevel="3000">
+      <CFL QuickLevel="19000">
         <AdditionalLevels>2300</AdditionalLevels>
       </CFL>
       <ControllerInfo>
