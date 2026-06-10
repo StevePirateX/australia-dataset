@@ -1971,7 +1971,7 @@
         <Window Type="State" State="Preactive" Visible="true" />
         <Window Type="State" State="HandoverIn" Visible="true" />
       </Strips>
-      <CFL QuickLevel="12500">
+      <CFL QuickLevel="13000">
         <AdditionalLevels>2300,4300</AdditionalLevels>
       </CFL>
       <ControllerInfo>
@@ -2850,7 +2850,7 @@
         <Window Airport="YSNW" />
       </ATIS>
       <Strips Mode="State" Sort="Alpha" />
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="10000" />
       <ControllerInfo>
         <Line>Nowra Tower | ATIS available on 125.65</Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
