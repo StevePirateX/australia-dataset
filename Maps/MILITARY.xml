@@ -58,6 +58,11 @@
           <Point>-1205.300+13109.700</Point>
           <Point>-1212.400+13116.300</Point>
           <Point>-1218.000+13118.800</Point>
+          <Point>-1145.280+13056.700</Point>
+          <Point>-1147.900+13109.050</Point>
+          <Point>-1153.760+13119.560</Point>
+          <Point>-1203.150+13128.400</Point>
+          <Point>-1214.090+13133.590</Point>
           <Point>-1149.000+13112.000</Point> <!-- WIZZOS -->
           <Point>-1153.000+13119.000</Point> <!-- MONNIES -->
           <Point>-1205.000+13130.000</Point> <!-- SHAGS -->
@@ -73,11 +78,16 @@
           <Point Name="8">-1232.300+13029.800</Point>
           <Point Name="9">-1225.800+13028.800</Point>
           <Point Name="10">-1217.200+13030.200</Point>
-          <Point Name="A">-1200.300+13055.300</Point>
-          <Point Name="B">-1202.400+13104.700</Point>
-          <Point Name="C">-1205.300+13109.700</Point>
-          <Point Name="D">-1212.400+13116.300</Point>
-          <Point Name="E">-1218.000+13118.800</Point>
+          <Point Name="A-25">-1200.300+13055.300</Point>
+          <Point Name="B-25">-1202.400+13104.700</Point>
+          <Point Name="C-25">-1205.300+13109.700</Point>
+          <Point Name="D-25">-1212.400+13116.300</Point>
+          <Point Name="E-25">-1218.000+13118.800</Point>
+          <Point Name="A-40">-1145.280+13056.700</Point>
+          <Point Name="B-40">-1147.900+13109.050</Point>
+          <Point Name="C-40">-1153.760+13119.560</Point>
+          <Point Name="D-40">-1203.150+13128.400</Point>
+          <Point Name="E-40">-1214.090+13133.590</Point>
           <Point Name="WIZZOS">-1149.000+13112.000</Point>
           <Point Name="MONNIES">-1153.000+13119.000</Point>
           <Point Name="SHAGS">-1205.000+13130.000</Point>
