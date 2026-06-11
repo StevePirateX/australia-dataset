@@ -75,6 +75,8 @@
     </Line>
     <Symbol Type="HollowTriangle">
       <Point>AKBOT</Point>
+      <Point>LEBOP</Point>
+      <Point>NESSY</Point>
     </Symbol>
     <Symbol Type="SolidStar">
       <Point>RI510</Point>
@@ -86,7 +88,6 @@
       <Point>OMBIB</Point>
       <Point>BEROW</Point>
       <Point>TESAT</Point>
-      <Point>NESSY</Point>
       <Point>NIVOT</Point>
       <Point>RUTOS</Point>
       <Point>ISBOV</Point>
@@ -97,7 +98,6 @@
       <Point>ATRIR</Point>
       <Point>STUIE</Point>
       <Point>RITSU</Point>
-      <Point>LEBOP</Point>
       <Point>RUPEM</Point>
       <Point>EPGET</Point>
       <Point>RI601</Point>
