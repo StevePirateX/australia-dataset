@@ -14969,6 +14969,7 @@ SAGLI
     <Point Name="BIV" Type="Fix">-305820.000+1504418.000</Point>
     <Point Name="BJK" Type="Fix">-350018.000+1483500.000</Point>
     <Point Name="BKD" Type="Fix">-423640.000+1474300.000</Point>
+    <Point Name="BKHR" Type="Fix">-334437.000+1505915.000</Point>
     <Point Name="BKIS" Type="Fix">-203800.000+1490400.000</Point>
     <Point Name="BKM" Type="Fix">-351630.000+1490600.000</Point>
     <Point Name="BKRL" Type="Fix">-264240.000+1255847.000</Point>
@@ -15045,6 +15046,7 @@ SAGLI
     <Point Name="CARE" Type="Fix">-375730.000+1452500.000</Point>
     <Point Name="CARIN" Type="Fix">-273000.000+1530604.000</Point>
     <Point Name="CARR" Type="Fix">-380427.000+1450710.000</Point>
+    <Point Name="CASO" Type="Fix">-335859.460+1510129.260</Point>
     <Point Name="CAST" Type="Fix">-334356.000+1510017.000</Point>
     <Point Name="CAU" Type="Fix">-375800.000+1423100.000</Point>
     <Point Name="CAV" Type="Fix">-201640.000+1484130.000</Point>
@@ -15063,6 +15065,7 @@ SAGLI
     <Point Name="CEN" Type="Fix">-192345.000+1470115.000</Point>
     <Point Name="CERB" Type="Fix">-375800.000+1450000.000</Point>
     <Point Name="CES" Type="Fix">-414130.000+1470500.000</Point>
+    <Point Name="CFCR" Type="Fix">-334528.000+1510300.000</Point>
     <Point Name="CFI" Type="Fix">-385705.000+1464208.000</Point>
     <Point Name="CGB" Type="Fix">-373610.000+1445620.000</Point>
     <Point Name="CGD" Type="Fix">-281554.000+1533506.000</Point>
@@ -15695,6 +15698,7 @@ SAGLI
     <Point Name="RENR" Type="Fix">-181900.000+1334800.000</Point>
     <Point Name="RER" Type="Fix">-295910.000+1531330.000</Point>
     <Point Name="RESC" Type="Fix">-144651.000+1315611.000</Point>
+    <Point Name="REVS" Type="Fix">-335708.930+1510053.620</Point>
     <Point Name="RGS" Type="Fix">-190250.000+1462315.000</Point>
     <Point Name="RIL" Type="Fix">-205000.000+1485400.000</Point>
     <Point Name="RIT" Type="Fix">-264500.000+1530530.000</Point>
@@ -15934,6 +15938,7 @@ SAGLI
     <Point Name="WOBR" Type="Fix">-284911.000+1532522.000</Point>
     <Point Name="WOI" Type="Fix">-350111.000+1503937.000</Point>
     <Point Name="WOOS" Type="Fix">-375948.000+1450600.000</Point>
+    <Point Name="WORC" Type="Fix">-340158.990+1510304.040</Point>
     <Point Name="WOT" Type="Fix">-250700.000+1523400.000</Point>
     <Point Name="WPE" Type="Fix">-345900.000+1164400.000</Point>
     <Point Name="WRD" Type="Fix">-374500.000+1451230.000</Point>
