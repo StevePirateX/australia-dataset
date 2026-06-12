@@ -17647,8 +17647,8 @@ SAGLI
     <STAR Name="BERN4V" Airport="YBCG" Runways="14,32">
       <Transition Name="OVREX">OVREX/VEGAH/IDNER</Transition>
       <Transition Name="VESOK">VESOK/VEGAH/IDNER</Transition>
-      <Route Runway="14">BERNI/ELDUX/VANSU/ROONY/FIKUL/CHOOK/KERRI/SAILA/NIKKI</Route>
-      <Route Runway="32">BERNI/ELDUX/VANSU/ROONY/FIKUL/JAAPI</Route>
+      <Route Runway="14">BERNI/ELDUX/VANSU/ROONY/FIKUL/CHOOK/KERRI/SAILA/NIKKI/INDEE</Route>
+      <Route Runway="32">BERNI/ELDUX/VANSU/ROONY/FIKUL/JAAPI/TERRA</Route>
     </STAR>
     <STAR Name="BERN4Y" Airport="YBCG" Runways="14">
       <Transition Name="OVREX">OVREX/VEGAH/IDNER</Transition>

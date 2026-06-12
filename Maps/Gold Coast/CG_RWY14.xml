@@ -66,7 +66,8 @@
       CHOOK/
       KERRI/
       SAILA/
-      NIKKI
+      NIKKI/
+      INDEE
     </Line>
     <Line>
       <!--Rwy14 BERN4Y.OVREX-->
@@ -119,6 +120,7 @@
       <Point>IDNER</Point>
       <Point>VESOK</Point>
       <Point>SAILA</Point>
+      <Point>INDEE</Point>
       <Point>LAMSI</Point>
       <Point>PATSU</Point>
       <Point>TELOG</Point>
@@ -150,6 +152,7 @@
       <Point>KERRI</Point>
       <Point>SAILA</Point>
       <Point>NIKKI</Point>
+      <Point>INDEE</Point>
       <Point>LAMSI</Point>
       <Point>PATSU</Point>
       <Point>TELOG</Point>
