@@ -261,7 +261,7 @@
       <Point Name="LAKE_MANCHESTER">LKON</Point>
     </Label>
     <!--LAKE_MANCHESTER-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       LKON/-272759.930+1522742.140/-272718.110+1523612.170/-272652.100+1523856.570/-272729.340+1524114.240/-272756.190+1524240.650/LMC
     </Line>
   </Map>

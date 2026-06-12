@@ -44,6 +44,18 @@
       BN VOR
     </Line>
     <Line>
+      <!--Rwy33 JEDA5A-->
+      -273311.856+1523915.228/
+      RUDEY/
+      JEDDA
+    </Line>
+    <Line>
+      <!--Rwy33 JEDA5T-->
+      -273311.856+1523915.228/
+      -273243.000+1523438.000/
+      JEDDA
+    </Line>
+    <Line>
       <!--Rwy33 MESE5A-->
       -273311.856+1523915.228/
       IMATI/
@@ -70,13 +82,22 @@
     </Line>
     <!--STARs-->
     <Line>
+      <!--Rwy33 BYRON2-->
+      SEMAJ/
+      LOTMA/
+      -274747.000+1532530.000/
+      LAGOB/
+      -274537.000+1525050.000/
+      AMB TAC/
+      BIGIX
+    </Line>
+    <Line>
       <!--Rwy33 CENTR6-->
       VIRGE/
       BOBED/
       JEZZA/
       ANKED/
-      AMB TAC/
-      BIGIX
+      AMB TAC
     </Line>
     <Line>
       <!--Rwy33 NORTH5.ADNUK-->
@@ -94,6 +115,9 @@
       BOBED
     </Line>
     <Line>
+      <!--Rwy04 BYRON2-->
+    </Line>
+    <Line>
       <!--Rwy04 CENTR6-->
     </Line>
     <Line>
@@ -104,6 +128,9 @@
     </Line>
     <Line>
       <!--Rwy04 NORTH5-->
+    </Line>
+    <Line>
+      <!--Rwy22 BYRON2-->
     </Line>
     <Line>
       <!--Rwy22 CENTR6-->
@@ -130,15 +157,20 @@
     <Symbol Type="HollowStar">
       <Point>DEBEE</Point>
       <Point>BOBOP</Point>
+      <Point>RUDEY</Point>
+      <Point>JEDDA</Point>
       <Point>IMATI</Point>
       <Point>MESED</Point>
       <Point>ENLIP</Point>
       <Point>TATEN</Point>
+      <Point>SEMAJ</Point>
+      <Point>LOTMA</Point>
+      <Point>LAGOB</Point>
+      <Point>AMB TAC</Point>
       <Point>VIRGE</Point>
       <Point>BOBED</Point>
       <Point>JEZZA</Point>
       <Point>ANKED</Point>
-      <Point>AMB TAC</Point>
       <Point>LESKO</Point>
       <Point>ADNUK</Point>
       <Point>MOSSI</Point>
@@ -150,21 +182,25 @@
       <Point>DEBEE</Point>
       <Point>BOBOP</Point>
       <Point>BN VOR</Point>
+      <Point>RUDEY</Point>
+      <Point>JEDDA</Point>
       <Point>IMATI</Point>
       <Point>MESED</Point>
       <Point>ENLIP</Point>
       <Point>TATEN</Point>
+      <Point>SEMAJ</Point>
+      <Point>LOTMA</Point>
+      <Point>LAGOB</Point>
+      <Point>AMB TAC</Point>
+      <Point>BIGIX</Point>
       <Point>VIRGE</Point>
       <Point>BOBED</Point>
       <Point>JEZZA</Point>
       <Point>ANKED</Point>
-      <Point>AMB TAC</Point>
-      <Point>BIGIX</Point>
       <Point>ADNUK</Point>
       <Point>LESKO</Point>
       <Point>MOSSI</Point>
       <Point>UNVAT</Point>
-      <Point>JEDDA</Point>
       <Point>GOMOL</Point>
       <Point>BNA NDB</Point>
       <Point>CFS VOR</Point>
