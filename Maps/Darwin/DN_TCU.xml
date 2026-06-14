@@ -154,8 +154,11 @@
       MOTRU
     </Line>
     <!--(DN) TCU Airspace-->
-    <Line Name="(DN) TCU-DAE/DAW_Split" Width="2.7" Pattern="Dotted">
-      -114535.000+1305214.000/-130515.000+1305222.000
+    <Line Name="(DN) TCU-DAE/DAW_Split_S" Width="2.7" Pattern="Dotted">
+      -130518.368+1305340.194/-122521.450+1305214.480
+    </Line>
+    <Line Name="(DN) TCU-DAE/DAW_Split_N" Width="2.7" Pattern="Dotted">
+      -122431.830+1305214.350/-114558.797+1305051.642
     </Line>
   </Map>
   <Map Type="System2" Name="DN_VFR" Priority="1" Center="-12.414722+130.876667">
