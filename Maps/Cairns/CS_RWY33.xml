@@ -221,9 +221,9 @@
     </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
       <!--(CS) RWY33 Labels-->
-      <Point Name="APP">-16.484167+146.055833</Point>
-      <Point Name="DEP">-17.101111+145.369444</Point>
-      <Point Name="DEP BCTA">-16.619167+146.167222</Point>
+      <Point Name="CS1">-16.484167+146.055833</Point>
+      <Point Name="CS2">-17.101111+145.369444</Point>
+      <Point Name="CS2 BCTA">-16.619167+146.167222</Point>
     </Label>
   </Map>
   <Map Type="System" Name="CS_RWY33_NAMES" Priority="2" Center="-16.885833+145.755278">
