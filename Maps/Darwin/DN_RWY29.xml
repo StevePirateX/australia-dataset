@@ -62,7 +62,7 @@
       RUSKA
     </Line>
     <Line>
-      <!--Rwy29 VANDI8-->
+      <!--Rwy29 VANDI9-->
       TEGIT/
       MUDMI/
       BOPNI/
@@ -177,6 +177,11 @@
       <Point>SUDLU</Point>
       <Point>NOONA</Point>
     </Symbol>
+    <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
+      <!--(DN) RWY29 Labels-->
+      <Point Name="DAW">-12.382940+130.510101</Point>
+      <Point Name="DAE">-12.465126+131.251946</Point>
+    </Label>
   </Map>
   <Map Type="System" Name="DN_RWY29_NAMES" Priority="2" Center="-12.414722+130.876667">
     <Label>
