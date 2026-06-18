@@ -1,5 +1,5 @@
 - assign_dep_rwy: "true"
-- CFL: "060"
+- CFL: "050"
 
 # SIDs
 - if_not:
