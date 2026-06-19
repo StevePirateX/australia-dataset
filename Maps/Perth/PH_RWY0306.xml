@@ -292,6 +292,7 @@
       <Point Name="PHA/PHD">-31.524444+116.269444</Point>
       <Point Name="PHD">-31.555278+115.763056</Point>
       <Point Name="PHD">-31.716389+116.455556</Point>
+      <Point Name="PHR">-32.298368+115.904811</Point>
     </Label>
   </Map>
   <Map Type="System" Name="PH_RWY0306_NAMES" Priority="2" Center="-31.940278+115.966944">
