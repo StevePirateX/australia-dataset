@@ -138,11 +138,6 @@
     </Symbol>
     <Symbol Type="SolidStar">
       <Point>KEVIN</Point>
-      <Point>DIPSO</Point>
-      <Point>EVONN</Point>
-      <Point>NOBAR</Point>
-      <Point>OLSEM</Point>
-      <Point>OPTIC</Point>
       <Point>NASHO</Point>
     </Symbol>
     <Symbol Type="Circle">
@@ -165,6 +160,11 @@
       <Point>CAWLY</Point>
       <Point>EXOVA</Point>
       <Point>PEDLU</Point>
+      <Point>DIPSO</Point>
+      <Point>EVONN</Point>
+      <Point>NOBAR</Point>
+      <Point>OLSEM</Point>
+      <Point>OPTIC</Point>
       <Point>AKMIR</Point>
       <Point>UDODU</Point>
       <Point>MUBDI</Point>

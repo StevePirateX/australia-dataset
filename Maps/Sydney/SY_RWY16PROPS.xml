@@ -178,14 +178,6 @@
       <Point>TONUX</Point>
       <Point>URDEN</Point>
     </Symbol>
-    <Symbol Type="SolidStar">
-      <Point>DIPSO</Point>
-      <Point>EVONN</Point>
-      <Point>NOBAR</Point>
-      <Point>OLSEM</Point>
-      <Point>OPTIC</Point>
-      <Point>KADOM</Point>
-    </Symbol>
     <Symbol Type="Circle">
       <Point>WOL NDB</Point>
     </Symbol>
@@ -195,6 +187,11 @@
       <Point>CAWLY</Point>
       <Point>EXOVA</Point>
       <Point>PEDLU</Point>
+      <Point>DIPSO</Point>
+      <Point>EVONN</Point>
+      <Point>NOBAR</Point>
+      <Point>OLSEM</Point>
+      <Point>OPTIC</Point>
       <Point>ANKUB</Point>
       <Point>IKORO</Point>
       <Point>NB523</Point>
@@ -204,6 +201,7 @@
       <Point>DUBSU</Point>
       <Point>BENBU</Point>
       <Point>NB540</Point>
+      <Point>KADOM</Point>
       <Point>DUNES</Point>
       <Point>DEENA</Point>
       <Point>GROOK</Point>
