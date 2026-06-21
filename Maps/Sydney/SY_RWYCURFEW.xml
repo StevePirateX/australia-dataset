@@ -114,7 +114,6 @@
       <Point>SOSIJ</Point>
     </Symbol>
     <Symbol Type="SolidStar">
-      <Point>GROOK</Point>
       <Point>KADOM</Point>
       <Point>NASHO</Point>
     </Symbol>
@@ -133,6 +132,7 @@
       <Point>NB540</Point>
       <Point>DUNES</Point>
       <Point>DEENA</Point>
+      <Point>GROOK</Point>
       <Point>OLVAG</Point>
       <Point>GUSPU</Point>
       <Point>EGOPO</Point>

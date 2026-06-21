@@ -179,13 +179,11 @@
       <Point>URDEN</Point>
     </Symbol>
     <Symbol Type="SolidStar">
-      <Point>KEVIN</Point>
       <Point>DIPSO</Point>
       <Point>EVONN</Point>
       <Point>NOBAR</Point>
       <Point>OLSEM</Point>
       <Point>OPTIC</Point>
-      <Point>GROOK</Point>
       <Point>KADOM</Point>
     </Symbol>
     <Symbol Type="Circle">
@@ -193,6 +191,7 @@
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>IDBIM</Point>
+      <Point>KEVIN</Point>
       <Point>CAWLY</Point>
       <Point>EXOVA</Point>
       <Point>PEDLU</Point>
@@ -207,6 +206,7 @@
       <Point>NB540</Point>
       <Point>DUNES</Point>
       <Point>DEENA</Point>
+      <Point>GROOK</Point>
       <Point>OLVAG</Point>
       <Point>GUSPU</Point>
       <Point>EGOPO</Point>
