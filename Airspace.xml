@@ -16087,7 +16087,7 @@ SAGLI
     <Point Name="ROM" Type="Navaid" NavaidType="NDB" Frequency="377.000">-263235.100+1484654.100</Point>
     <Point Name="SGE" Type="Navaid" NavaidType="NDB" Frequency="383.000">-280249.800+1483549.800</Point>
     <Point Name="SHT" Type="Navaid" NavaidType="NDB" Frequency="212.000">-362542.100+1452345.700</Point>
-    <Point Name="SON" Type="Navaid" NavaidType="NDB" Frequency="000.000">-153022.291+1671259.620</Point>
+    <Point Name="SON" Type="Navaid" NavaidType="NDB" Frequency="000.000">-153022.100+1671259.800</Point>
     <Point Name="SU" Type="Navaid" NavaidType="NDB" Frequency="380.000">-263531.900+1530530.200</Point>
     <Point Name="SWH" Type="Navaid" NavaidType="NDB" Frequency="407.000">-352249.800+1433225.100</Point>
     <Point Name="TNK" Type="Navaid" NavaidType="NDB" Frequency="272.000">-193839.400+1341031.200</Point>
@@ -16338,7 +16338,7 @@ SAGLI
     <Point Name="TN" Type="Navaid" NavaidType="VOR" Frequency="112.300">-143109.100+1322215.600</Point>
     <Point Name="TNK" Type="Navaid" NavaidType="VOR" Frequency="112.900">-193805.100+1341055.000</Point>
     <Point Name="TW" Type="Navaid" NavaidType="VOR" Frequency="116.000">-310357.900+1504948.900</Point>
-    <Point Name="VLI" Type="Navaid" NavaidType="VOR" Frequency="000.000">-173943.700+1681438.159</Point>
+    <Point Name="VLI" Type="Navaid" NavaidType="VOR" Frequency="000.000">-173943.700+1681438.200</Point>
     <Point Name="WG" Type="Navaid" NavaidType="VOR" Frequency="115.000">-350956.700+1472808.700</Point>
     <Point Name="WP" Type="Navaid" NavaidType="VOR" Frequency="112.800">-124024.800+1415520.900</Point>
     <Point Name="XMX" Type="Navaid" NavaidType="VOR" Frequency="112.400">-102548.800+1054121.600</Point>
