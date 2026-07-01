@@ -1,0 +1,995 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System2" Name="SY RTCC" Priority="2" Center="-3356.7667+15110.6333">
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334442.832+1501822.023/-334242.033+1501742.029</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334242.033+1501742.029/-334033.627+1501708.936</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334033.627+1501708.936/-333823.308+1501649.439</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333823.308+1501649.439/-333612.071+1501643.668</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333612.071+1501643.668/-333400.915+1501651.652</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333400.915+1501651.652/-333150.836+1501713.311</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333150.836+1501713.311/-332942.824+1501748.464</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332942.824+1501748.464/-332737.848+1501836.828</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332737.848+1501836.828/-332536.856+1501938.021</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332536.856+1501938.021/-332340.764+1502051.566</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332340.764+1502051.566/-332150.449+1502216.893</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332150.449+1502216.893/-332006.744+1502353.346</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332006.744+1502353.346/-331830.431+1502540.187</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331830.431+1502540.187/-331702.237+1502736.600</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331702.237+1502736.600/-331542.825+1502941.704</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331542.825+1502941.704/-331432.793+1503154.548</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331432.793+1503154.548/-331332.668+1503414.131</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331332.668+1503414.131/-331242.900+1503639.400</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331242.900+1503639.400/-331203.865+1503909.262</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331203.865+1503909.262/-331135.854+1504142.589</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331135.854+1504142.589/-331119.079+1504418.231</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331119.079+1504418.231/-331113.665+1504655.020</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331113.665+1504655.020/-331119.653+1504931.779</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331119.653+1504931.779/-331136.997+1505207.333</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331136.997+1505207.333/-331205.568+1505440.513</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331205.568+1505440.513/-331257.700+1505758.122</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331258.334+1505757.233/-331227.750+1510048.020</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331227.750+1510048.020/-331154.179+1510521.068</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331154.179+1510521.068/-331142.102+1511001.487</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331142.102+1511001.487/-331150.345+1511442.103</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331150.345+1511442.103/-331218.849+1511920.835</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331218.849+1511920.835/-331307.400+1512355.613</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331307.400+1512355.613/-331415.639+1512824.398</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331415.639+1512824.398/-331543.060+1513245.188</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331543.060+1513245.188/-331729.012+1513656.040</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331729.012+1513656.040/-331932.707+1514055.077</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331932.707+1514055.077/-332153.225+1514440.504</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332153.225+1514440.504/-332429.517+1514810.623</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332429.517+1514810.623/-332720.418+1515123.841</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332720.418+1515123.841/-333024.650+1515418.686</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333024.650+1515418.686/-333340.833+1515653.814</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333340.833+1515653.814/-333707.495+1515908.024</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333707.495+1515908.024/-334043.082+1520100.264</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334043.082+1520100.264/-334425.973+1520229.644</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334425.973+1520229.644/-334814.483+1520335.439</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334814.483+1520335.439/-335206.885+1520417.098</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335206.885+1520417.098/-335601.418+1520434.251</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335601.418+1520434.251/-335956.299+1520426.711</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335956.299+1520426.711/-340349.740+1520354.479</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340349.740+1520354.479/-340739.959+1520257.744</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340739.959+1520257.744/-341125.195+1520136.886</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341125.195+1520136.886/-341503.722+1515952.472</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341503.722+1515952.472/-341833.860+1515745.252</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341833.860+1515745.252/-342153.991+1515516.161</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342153.991+1515516.161/-342502.570+1515226.307</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342502.570+1515226.307/-342758.140+1514916.963</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342758.140+1514916.963/-343039.341+1514549.565</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343039.341+1514549.565/-343304.922+1514205.693</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343304.922+1514205.693/-343513.751+1513807.063</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343513.751+1513807.063/-343704.825+1513355.514</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343704.825+1513355.514/-343837.280+1512932.994</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343837.280+1512932.994/-343950.394+1512501.539</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343950.394+1512501.539/-344043.596+1512023.263</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-344043.596+1512023.263/-344116.471+1511540.337</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-344116.471+1511540.337/-344128.762+1511054.969</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-344128.762+1511054.969/-344120.372+1510609.391</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-344120.372+1510609.391/-344051.367+1510125.834</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-344051.367+1510125.834/-344001.974+1505646.513</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-344001.974+1505646.513/-343852.578+1505213.607</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343852.578+1505213.607/-343723.723+1504749.242</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343723.723+1504749.242/-343536.100+1504335.471</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343536.100+1504335.471/-343330.549+1503934.259</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343330.549+1503934.259/-343108.047+1503547.466</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343108.047+1503547.466/-342829.702+1503216.833</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342829.702+1503216.833/-342536.742+1502903.968</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342536.742+1502903.968/-342230.509+1502610.333</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342230.509+1502610.333/-341912.443+1502337.234</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341912.443+1502337.234/-341544.071+1502125.810</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341544.071+1502125.810/-341207.000+1501937.029</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341207.000+1501937.029/-340822.900+1501811.676</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340822.900+1501811.676/-340433.487+1501710.354</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340433.487+1501710.354/-340040.518+1501633.478</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340040.518+1501633.478/-335645.772+1501621.272</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335645.772+1501621.272/-335251.037+1501633.774</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335251.037+1501633.774/-334858.097+1501710.831</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334858.097+1501710.831/-334443.947+1501821.406</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332443.839+1502011.593/-332959.968+1502227.907</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332959.968+1502227.907/-334055.841+1502121.132</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334055.841+1502121.132/-334221.235+1501736.754</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335232.470+1501636.930/-334851.293+1502151.144</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334851.293+1502151.144/-333813.471+1502826.259</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333813.471+1502826.259/-333402.005+1502923.508</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333402.005+1502923.508/-332915.537+1502907.546</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332915.537+1502907.546/-332320.954+1502611.735</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332320.954+1502611.735/-331743.349+1502642.726</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340751.739+1501803.283/-340459.863+1502023.021</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340459.863+1502023.021/-335400.936+1502125.692</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335400.936+1502125.692/-334858.159+1503034.547</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334858.159+1503034.547/-334356.508+1503118.311</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334356.508+1503118.311/-334111.833+1503150.057</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334111.833+1503150.057/-333429.669+1503147.176</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333429.669+1503147.176/-332711.053+1503626.258</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332711.053+1503626.258/-332020.300+1503657.450</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332020.300+1503657.450/-331239.011+1503654.175</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333025.134+1503422.911/-333028.871+1503941.268</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333028.871+1503941.268/-332931.328+1504139.933</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332931.328+1504139.933/-332723.413+1504229.407</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332723.413+1504229.407/-332513.913+1504139.423</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332513.913+1504139.423/-332338.896+1503642.621</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332810.833+1501823.454/-333013.922+1501317.748</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333013.922+1501317.748/-333457.843+1501025.990</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333457.843+1501025.990/-334044.808+1500754.506</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334044.808+1500754.506/-334526.853+1500626.433</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334526.853+1500626.433/-335038.579+1500528.892</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335038.579+1500528.892/-335504.837+1500505.816</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335504.837+1500505.816/-335916.795+1500507.638</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335916.795+1500507.638/-340256.804+1500528.533</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340256.804+1500528.533/-340521.845+1500552.692</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340521.845+1500552.692/-340735.824+1501233.210</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340735.824+1501233.210/-341203.651+1501359.460</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341203.651+1501359.460/-341551.767+1501542.929</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341551.767+1501542.929/-341916.815+1501734.210</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341916.815+1501734.210/-342248.841+1502003.250</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342248.841+1502003.250/-342030.182+1502435.988</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342421.205+1502753.636/-342913.266+1503621.387</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342913.266+1503621.387/-343244.229+1503959.696</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343244.229+1503959.696/-343405.893+1504042.267</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343724.985+1504752.561/-343534.264+1504711.206</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343534.264+1504711.206/-343043.947+1504349.524</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-343043.947+1504349.524/-342822.090+1504004.862</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342822.090+1504004.862/-342558.902+1503834.486</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342558.902+1503834.486/-342213.459+1503437.017</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342213.459+1503437.017/-341927.780+1503259.792</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341927.780+1503259.792/-341525.625+1502825.334</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341525.625+1502825.334/-340658.821+1502902.772</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340658.821+1502902.772/-335942.582+1502757.948</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335942.582+1502757.948/-335359.308+1502903.639</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335359.308+1502903.639/-334858.145+1503034.544</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-331247.627+1505720.271/-332010.734+1504814.157</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332010.734+1504814.157/-333311.976+1504158.490</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333311.976+1504158.490/-333501.922+1504131.551</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333501.922+1504131.551/-333552.718+1504144.711</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333552.718+1504144.711/-334021.009+1504155.229</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334021.009+1504155.229/-334235.720+1503927.278</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334235.720+1503927.278/-335029.859+1503719.195</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335029.859+1503719.195/-335420.069+1503845.608</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335420.069+1503845.608/-335612.126+1503942.310</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335612.126+1503942.310/-340218.478+1503951.907</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340218.478+1503951.907/-340452.260+1504224.276</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340452.260+1504224.276/-340726.876+1504433.353</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340726.876+1504433.353/-340707.730+1505201.231</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340707.730+1505201.231/-340755.952+1505746.489</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340755.952+1505746.489/-341029.960+1510052.196</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341029.960+1510052.196/-341551.459+1510356.164</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333501.927+1504131.523/-333501.936+1504122.992</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333501.936+1504122.992/-333802.784+1503513.141</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333802.784+1503513.141/-334056.804+1503511.546</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334056.804+1503511.546/-334216.858+1503536.958</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334216.858+1503536.958/-334817.668+1503512.936</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334817.668+1503512.936/-335601.601+1503354.666</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335601.601+1503354.666/-340349.236+1503336.167</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340349.236+1503336.167/-340518.304+1503358.638</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340518.304+1503358.638/-340928.128+1503404.820</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340928.128+1503404.820/-341549.072+1503352.884</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341549.072+1503352.884/-341631.483+1503426.840</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341631.483+1503426.840/-341759.126+1503921.832</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341759.126+1503921.832/-341929.078+1504117.306</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341929.078+1504117.306/-341926.614+1504923.162</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341926.614+1504923.162/-342003.411+1505137.118</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342003.411+1505137.118/-342155.121+1505454.079</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342155.121+1505454.079/-342759.017+1505839.975</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342759.017+1505839.975/-342917.405+1505847.178</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342917.405+1505847.178/-344007.631+1505718.345</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-342758.976+1505839.785/-341935.468+1505936.177</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341935.468+1505936.177/-341853.163+1510004.334</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341853.163+1510004.334/-341551.499+1510356.363</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341551.499+1510356.363/-341406.807+1510551.980</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341406.807+1510551.980/-341034.326+1511014.965</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341034.326+1511014.965/-340533.321+1511439.917</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340533.321+1511439.917/-340346.758+1511337.783</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340346.758+1511337.783/-340245.745+1511247.782</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340245.745+1511247.782/-340129.721+1510954.822</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340129.721+1510954.822/-340033.217+1510928.481</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340033.217+1510928.481/-335928.070+1510824.000</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335928.070+1510824.000/-335848.262+1510610.175</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335848.262+1510610.175/-335645.595+1510328.676</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335645.595+1510328.676/-335628.549+1505707.779</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335628.549+1505707.779/-335506.359+1505633.092</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335506.359+1505633.092/-335402.128+1505712.829</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335402.128+1505712.829/-335203.523+1505801.164</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335203.523+1505801.164/-335211.112+1505952.624</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335211.112+1505952.624/-335255.950+1510735.037</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335255.950+1510735.037/-335353.020+1510812.320</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335353.020+1510812.320/-335515.805+1510939.290</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335515.805+1510939.290/-335551.009+1511025.270</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335551.009+1511025.270/-335723.464+1511518.391</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335723.464+1511518.391/-335623.154+1511818.639</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335623.154+1511818.639/-334959.042+1512148.634</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334959.042+1512148.634/-334800.491+1512214.981</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334800.491+1512214.981/-334130.856+1512318.092</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334130.856+1512318.092/-331825.149+1513844.267</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340451.630+1504223.741/-340554.212+1504523.839</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340554.212+1504523.839/-340435.851+1504853.472</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340435.851+1504853.472/-340412.281+1505226.896</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340412.281+1505226.896/-340306.104+1505442.220</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340306.104+1505442.220/-340253.127+1505656.997</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340253.127+1505656.997/-340402.604+1510059.193</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340402.604+1510059.193/-340533.640+1510304.157</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340533.640+1510304.157/-340957.107+1510545.909</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340957.107+1510545.909/-341409.537+1510548.827</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341241.705+1510736.808/-340801.098+1510746.555</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340801.098+1510746.555/-340542.153+1510719.265</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340542.153+1510719.265/-340430.290+1510639.140</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340430.290+1510639.140/-340346.794+1510532.982</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340346.794+1510532.982/-340321.564+1510528.189</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340321.564+1510528.189/-340220.729+1510428.732</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340220.729+1510428.732/-340129.849+1510323.054</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340129.849+1510323.054/-340103.361+1510159.495</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340103.361+1510159.495/-340101.206+1505933.119</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340101.206+1505933.119/-340048.952+1505820.517</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340048.952+1505820.517/-340103.500+1505105.727</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340103.500+1505105.727/-335935.623+1504900.807</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335935.623+1504900.807/-335906.474+1504611.435</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335906.474+1504611.435/-335704.152+1504522.796</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335704.152+1504522.796/-335333.316+1504522.740</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335333.316+1504522.740/-334904.588+1504726.970</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334904.588+1504726.970/-334748.719+1504931.070</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334748.719+1504931.070/-334803.702+1505205.628</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334803.702+1505205.628/-334531.910+1505429.758</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334531.910+1505429.758/-334157.696+1505518.280</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334157.696+1505518.280/-333830.792+1505527.561</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333830.792+1505527.561/-333622.691+1505422.520</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333622.691+1505422.520/-333222.656+1505357.094</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333222.656+1505357.094/-333119.304+1505241.397</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333119.304+1505241.397/-333151.646+1505023.768</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335333.258+1504522.695/-335249.545+1504151.081</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335249.545+1504151.081/-334928.516+1504218.140</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334928.516+1504218.140/-334228.450+1504321.957</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334228.450+1504321.957/-333904.234+1504257.861</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333904.234+1504257.861/-333611.361+1504244.321</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333611.361+1504244.321/-333315.901+1504233.689</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333315.901+1504233.689/-333028.723+1504513.622</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333028.723+1504513.622/-332938.167+1504915.210</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332938.167+1504915.210/-332832.264+1505107.978</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332832.264+1505107.978/-332736.507+1505149.018</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332736.507+1505149.018/-332656.121+1505427.830</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332656.121+1505427.830/-332743.152+1505502.076</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332743.152+1505502.076/-333016.929+1505536.775</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333016.929+1505536.775/-333156.048+1505652.678</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333156.048+1505652.678/-333417.809+1510116.537</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333417.809+1510116.537/-333440.637+1510704.173</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333440.637+1510704.173/-333312.867+1510940.736</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333312.867+1510940.736/-333314.112+1512200.368</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333314.112+1512200.368/-332929.321+1512727.765</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332929.321+1512727.765/-331636.284+1513450.540</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333616.370+1504244.647/-333449.497+1504409.154</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333449.497+1504409.154/-333259.774+1504544.729</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333259.774+1504544.729/-333237.911+1504614.389</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333237.911+1504614.389/-333152.014+1504912.155</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333152.014+1504912.155/-333151.658+1505023.771</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333151.658+1505023.771/-333329.124+1505220.378</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333329.124+1505220.378/-333508.779+1505301.619</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333508.779+1505301.619/-333555.597+1505310.674</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333555.597+1505310.674/-333811.806+1505247.812</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333811.806+1505247.812/-333913.035+1505153.558</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333913.035+1505153.558/-334026.788+1505021.245</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334026.788+1505021.245/-334117.323+1504800.054</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334117.323+1504800.054/-334246.846+1504611.070</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334246.846+1504611.070/-334228.448+1504321.964</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335417.872+1503844.651/-335144.044+1503913.064</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335144.044+1503913.064/-334926.541+1504218.470</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332010.765+1504813.937/-332018.847+1510032.784</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332018.847+1510032.784/-332245.237+1510739.046</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332245.237+1510739.046/-332225.956+1512025.907</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-332225.956+1512025.907/-331350.415+1512644.829</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-341040.895+1511006.734/-340533.988+1511006.791</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340533.988+1511006.791/-340430.938+1510940.266</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340430.938+1510940.266/-340312.471+1510832.351</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340312.471+1510832.351/-340002.564+1510448.445</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-340002.564+1510448.445/-335850.271+1510348.673</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335850.271+1510348.673/-335805.283+1510233.303</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335805.283+1510233.303/-335753.439+1510057.736</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335753.439+1510057.736/-335817.011+1505911.273</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335817.011+1505911.273/-335805.180+1505705.206</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335805.180+1505705.206/-335628.636+1505707.881</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335203.504+1505801.211/-334955.234+1505614.535</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334955.234+1505614.535/-334713.052+1505639.684</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334713.052+1505639.684/-334554.178+1505837.233</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334554.178+1505837.233/-334346.544+1505714.779</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334346.544+1505714.779/-334148.000+1505656.176</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334148.000+1505656.176/-334002.120+1505753.627</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334002.120+1505753.627/-333829.819+1505756.653</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333829.819+1505756.653/-333734.075+1505723.116</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333734.075+1505723.116/-333406.072+1505647.827</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333406.072+1505647.827/-333156.023+1505652.679</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-333314.279+1512200.064/-334214.262+1511942.761</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334214.262+1511942.761/-334615.030+1511546.393</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334615.030+1511546.393/-334731.254+1510709.741</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334731.254+1510709.741/-334756.602+1510303.798</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334756.602+1510303.798/-334735.759+1510125.964</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334735.759+1510125.964/-334554.168+1505837.208</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335227.548+1510242.411/-335000.849+1510417.040</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335000.849+1510417.040/-334943.842+1510524.553</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334943.842+1510524.553/-334857.390+1510633.503</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334857.390+1510633.503/-334913.395+1510740.448</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-334913.395+1510740.448/-335255.928+1510735.012</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335209.825+1505931.927/-335541.531+1510437.244</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335541.531+1510437.244/-335548.708+1510701.211</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335548.708+1510701.211/-335515.764+1510939.079</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335628.333+1511223.388/-335555.635+1511433.722</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335555.635+1511433.722/-335456.391+1511532.194</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335456.391+1511532.194/-335228.130+1511643.827</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335228.130+1511643.827/-334615.000+1511546.411</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335227.988+1511643.855/-335137.560+1512054.830</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335140.798+1505742.178/-335215.532+1505641.831</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335215.532+1505641.831/-335214.890+1505528.465</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335214.890+1505528.465/-335340.000+1505510.311</Point>
+    </Line>
+    <Line Pattern="Dotted" Width="1.5">
+      <Point>-335340.000+1505510.311/-335506.393+1505632.995</Point>
+    </Line>
+    <Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+      <Point Name="15">-342350.931+1511826.996</Point>
+      <Point Name="15">-334700.630+1514512.170</Point>
+      <Point Name="47">-342927.491+1503443.519</Point>
+      <Point Name="61">-335738.462+1501006.857</Point>
+      <Point Name="42">-341112.805+1502350.443</Point>
+      <Point Name="58">-333445.164+1501906.314</Point>
+      <Point Name="52">-333546.410+1502450.117</Point>
+      <Point Name="47">-332511.019+1503034.268</Point>
+      <Point Name="36">-331942.220+1504209.623</Point>
+      <Point Name="37">-332744.019+1503925.104</Point>
+      <Point Name="36">-333325.174+1503515.082</Point>
+      <Point Name="31">-335631.293+1503638.592</Point>
+      <Point Name="31">-341131.839+1505137.905</Point>
+      <Point Name="36">-342331.675+1504440.097</Point>
+      <Point Name="25">-334601.390+1504029.375</Point>
+      <Point Name="16">-333710.916+1504536.187</Point>
+      <Point Name="18">-334452.708+1504840.752</Point>
+      <Point Name="22">-335913.518+1504219.353</Point>
+      <Point Name="25">-340545.384+1505759.592</Point>
+      <Point Name="22">-340244.101+1510025.532</Point>
+      <Point Name="20">-340010.285+1510056.681</Point>
+      <Point Name="18">-340038.226+1510744.150</Point>
+      <Point Name="15">-335726.004+1510733.990</Point>
+      <Point Name="18">-335311.647+1505614.060</Point>
+      <Point Name="17">-335423.468+1510530.681</Point>
+      <Point Name="18">-335127.237+1510536.852</Point>
+      <Point Name="21">-335315.920+1511112.633</Point>
+      <Point Name="21">-334943.514+1510007.401</Point>
+      <Point Name="20">-334638.488+1511903.236</Point>
+      <Point Name="18">-335513.587+1511640.091</Point>
+      <Point Name="22">-334208.125+1510659.618</Point>
+      <Point Name="25">-332730.471+1511009.651</Point>
+      <Point Name="28">-331806.569+1511119.971</Point>
+      <Point Name="20">-335401.317+1504954.861</Point>
+    </Label>
+  </Map>
+</Maps>
