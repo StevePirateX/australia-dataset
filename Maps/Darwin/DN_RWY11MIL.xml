@@ -10,23 +10,23 @@
     <Line>
       <!--Rwy11 LIZAD3-->
       -122509.220+1305339.990/
-      -122817.315+1310323.018
+      -122816.321+1310323.353
     </Line>
     <Line>
       <!--Rwy11 LIZAD3.BOLDA-->
-      -122817.315+1310323.018/
+      -122816.321+1310323.353/
       -123254.000+1310100.000/
       -123224.000+1305018.000
     </Line>
     <Line>
       <!--Rwy11 LIZAD3.FISHO-->
-      -122817.315+1310323.018/
+      -122816.321+1310323.353/
       -122318.000+1310418.000/
       -121712.000+1305542.000
     </Line>
     <Line>
       <!--Rwy11 LIZAD3.GATE1-->
-      -122817.315+1310323.018/
+      -122816.321+1310323.353/
       -124654.000+1310730.000
     </Line>
     <!--STARs-->
@@ -193,6 +193,8 @@
     </Line>
     <Symbol Type="HollowTriangle">
       <Point>RIBNU</Point>
+      <Point>MOMAN</Point>
+      <Point>DRADO</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="DN_RWY11MIL_NAMES" Priority="2" Center="-12.414722+130.876667">
@@ -262,6 +264,8 @@
       <Point>BEBUX</Point>
       <Point>JULES</Point>
       <Point>MOTRU</Point>
+      <Point>MOMAN</Point>
+      <Point>DRADO</Point>
     </Label>
   </Map>
 </Maps>

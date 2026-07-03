@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_RWY" Name="Released_18R36L" CustomColourName="Release" Priority="0" Center="-31.940278+115.966944">
+        <Infill Name="Released_18R36L">
+          <Point>
+                -314103.866+1160054.952/
+                -314103.761+1160056.079/
+                -314007.531+1160048.606/
+                -314007.634+1160047.511/
+                -314103.866+1160054.952
+            </Point>
+        </Infill>
+    </Map>
+    <Map Type="Ground_RWY" Name="Crossing_18R36L" CustomColourName="Crossing" Priority="0" Center="-31.940278+115.966944">
+        <Infill Name="Crossing_18R36L">
+          <Point>
+                -314103.866+1160054.952/
+                -314103.761+1160056.079/
+                -314007.531+1160048.606/
+                -314007.634+1160047.511/
+                -314103.866+1160054.952
+            </Point>
+        </Infill>
+    </Map>
+    <Map Type="Ground_RWY" Name="Released_18L36R" CustomColourName="Release" Priority="0" Center="-31.940278+115.966944">
+        <Infill Name="Released_18L36R">
+          <Point>
+                -314103.397+1160059.031/
+                -314103.258+1160100.681/
+                -313927.317+1160047.928/
+                -313927.564+1160044.903/
+                -313929.650+1160045.203/
+                -313931.484+1160046.765/
+                -314103.397+1160059.031
+            </Point>
+        </Infill>
+    </Map>
+    <Map Type="Ground_RWY" Name="Crossing_18L36R" CustomColourName="Crossing" Priority="0" Center="-31.940278+115.966944">
+        <Infill Name="Crossing_18L36R">
+          <Point>
+                -314103.397+1160059.031/
+                -314103.258+1160100.681/
+                -313927.317+1160047.928/
+                -313927.564+1160044.903/
+                -313929.650+1160045.203/
+                -313931.484+1160046.765/
+                -314103.397+1160059.031
+            </Point>
+        </Infill>
+    </Map>
+    <Map Type="Ground_RWY" Name="Released_0523" CustomColourName="Release" Priority="0" Center="-31.940278+115.966944">
+        <Infill Name="Released_0523">
+          <Point>
+                -314019.757+1160030.671/
+                -314020.825+1160031.939/
+                -313941.826+1160117.117/
+                -313940.785+1160115.917/
+                -314019.757+1160030.671
+            </Point>
+        </Infill>
+    </Map>
+    <Map Type="Ground_RWY" Name="Crossing_0523" CustomColourName="Crossing" Priority="0" Center="-31.940278+115.966944">
+        <Infill Name="Crossing_0523">
+          <Point>
+                -314019.757+1160030.671/
+                -314020.825+1160031.939/
+                -313941.826+1160117.117/
+                -313940.785+1160115.917/
+                -314019.757+1160030.671
+            </Point>
+        </Infill>
+    </Map>
+</Maps>

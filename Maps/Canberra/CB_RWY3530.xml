@@ -44,13 +44,26 @@
       <!--Rwy35 HOWLY9-->
       -351726.260+1491139.990/
       GUTMO/
+      -350822.000+1491234.000/
+      -350758.000+1491224.000/
+      -350741.000+1491210.000/
+      -350724.000+1491156.000/
+      -350708.000+1491139.000/
+      -350654.000+1491115.000/
+      -350644.000+1491052.000/
       -350605.616+1490927.348/
       SCULN/
       HOWLY
     </Line>
     <Line>
       <!--Rwy35 NONUP9-->
-      -350605.616+1490927.348/
+      -350644.000+1491052.000/
+      -350634.000+1491027.000/
+      -350629.000+1490959.000/
+      -350625.000+1490930.000/
+      -350636.000+1490803.000/
+      -350649.000+1490735.000/
+      -350703.000+1490707.000/
       MAJOR/
       NONUP
     </Line>
@@ -182,6 +195,9 @@
       <Point>BIBRU</Point>
       <Point>KALKA</Point>
     </Symbol>
+    <Symbol Type="SolidStar">
+      <Point>GUTMO</Point>
+    </Symbol>
     <Symbol Type="Circle">
       <Point>WG VOR</Point>
     </Symbol>
@@ -193,7 +209,6 @@
       <Point>CULIN</Point>
       <Point>NOGOR</Point>
       <Point>DUBUS</Point>
-      <Point>GUTMO</Point>
       <Point>SCULN</Point>
       <Point>HOWLY</Point>
       <Point>MAJOR</Point>

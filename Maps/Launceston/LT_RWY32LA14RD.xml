@@ -91,6 +91,8 @@
     </Line>
     <Line>
       <!--Rwy14R VEKL2A-->
+      -413647.892+1471551.099/
+      VEKLO
     </Line>
     <Line>
       <!--Rwy14R VIMA2A-->
@@ -120,7 +122,10 @@
       <Point>MOTRA</Point>
       <Point>NUNPA</Point>
       <Point>TASUM</Point>
+      <Point>VEKLO</Point>
       <Point>VIMAP</Point>
+      <Point>NODAS</Point>
+      <Point>ELREL</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="LT_RWY32LA14RD_NAMES" Priority="2" Center="-41.545278+147.214167">
@@ -133,6 +138,7 @@
       <Point>MOTRA</Point>
       <Point>NUNPA</Point>
       <Point>TASUM</Point>
+      <Point>VEKLO</Point>
       <Point>VIMAP</Point>
       <Point>KANLI</Point>
       <Point>LATUM</Point>
@@ -150,6 +156,8 @@
       <Point>ELMOR</Point>
       <Point>GOMOM</Point>
       <Point>ISMIR</Point>
+      <Point>NODAS</Point>
+      <Point>ELREL</Point>
     </Label>
   </Map>
 </Maps>

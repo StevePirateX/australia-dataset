@@ -49,13 +49,13 @@
       OVRUL
     </Line>
     <Line>
-      <!--Rwy31 SEBV1X-->
+      <!--Rwy31 SEBV2X-->
       SEBVA/
       METUK/
       DUKEL
     </Line>
     <Line>
-      <!--Rwy31 SEBV1Z-->
+      <!--Rwy31 SEBV2Z-->
     </Line>
     <Symbol Type="HollowTriangle">
       <Point>SAKAP</Point>
@@ -108,6 +108,7 @@
       <Point>OSOTI</Point>
       <Point>GOMOL</Point>
       <Point>MAKRU</Point>
+      <Point>IGBUS</Point>
       <Point>RULUN</Point>
       <Point>SURPO</Point>
       <Point>OK VOR</Point>
