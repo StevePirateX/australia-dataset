@@ -1612,7 +1612,7 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Ballina TCU" Type="ASD" DefaultCenter="-285727.000+1532617.000" DefaultRange="145" VisibilityRange="100" MagneticVariation="-11">
+    <Position Name="Ballina TCU" Type="ASD" DefaultCenter="-285727.000+1532617.000" DefaultRange="145" VisibilityRange="100" MagneticVariation="-11.7">
       <Sectors>
         <Sector Name="BAA" />
       </Sectors>
@@ -3540,7 +3540,7 @@
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Ballina Tower" Type="ASD" DefaultCenter="-285002.000+1533345.000" DefaultRange="65" MagneticVariation="-9.2">
+    <Position Name="Ballina Tower" Type="ASD" DefaultCenter="-285002.000+1533345.000" DefaultRange="65" MagneticVariation="-11.7">
       <Sectors>
         <Sector Name="BA ADC" />
       </Sectors>
