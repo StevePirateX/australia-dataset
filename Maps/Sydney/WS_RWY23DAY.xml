@@ -158,6 +158,7 @@
     <Line>
       <!--Rwy23 UNTA1A-->
       UNTAV/
+      NB600/
       TASIK/
       DOLPA/
       ORIXI/
@@ -215,6 +216,7 @@
       <Point>REVKI</Point>
       <Point>GUPKO</Point>
       <Point>UNTAV</Point>
+      <Point>NB600</Point>
       <Point>TASIK</Point>
       <Point>DOLPA</Point>
       <Point>ORIXI</Point>
@@ -279,6 +281,7 @@
       <Point>REVKI</Point>
       <Point>GUPKO</Point>
       <Point>UNTAV</Point>
+      <Point>NB600</Point>
       <Point>TASIK</Point>
       <Point>DOLPA</Point>
       <Point>ORIXI</Point>

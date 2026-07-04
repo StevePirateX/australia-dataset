@@ -18550,7 +18550,7 @@ SAGLI
     </STAR>
     <STAR Name="UNTA1A" Airport="YSWS" Runways="05,23">
       <Route Runway="05">UNTAV/NB600/BOTVU/IKIDA/VATRU/NUGSO</Route>
-      <Route Runway="23">UNTAV/TASIK/DOLPA/ORIXI/PIBIX</Route>
+      <Route Runway="23">UNTAV/NB600/TASIK/DOLPA/ORIXI/PIBIX</Route>
     </STAR>
     <STAR Name="UNTA1B" Airport="YSWS" Runways="05">
       <Route Runway="05">UNTAV/NB600/DOLPA/PIBIX/WONGA/NUGSO</Route>
