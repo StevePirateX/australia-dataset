@@ -90,6 +90,9 @@
       DADER
     </Line>
     <!--(CB) TCU Airspace-->
+    <Line Name="(CB) TCU-DAE/DAW_Split" Width="2.7" Pattern="Dotted">
+      -114535.000+1305214.000/-130515.000+1305222.000
+    </Line>
     <Line Name="(CB) TCU-CBE/CBW_Split" Width="2.7" Pattern="Dotted">
       -345224.081+1491137.797/-354040.022+1491141.642
     </Line>
@@ -175,15 +178,15 @@
       <Point Name="SW_ROUTE">THAW</Point>
     </Label>
     <!--CITY_ONE_ROUTE-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       BKM/MTM/YSCB/RCSE/BKM
     </Line>
     <!--CITY_TWO_ROUTE-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       LGDA/CPNG/MTLR/MTM/YSCB/RCSE/LGDA
     </Line>
     <!--SW_ROUTE-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       THAW/BDGE/BIDG/COTR
     </Line>
   </Map>

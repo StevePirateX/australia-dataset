@@ -258,15 +258,15 @@
       <Point Name="OUT_GATE_WEST">-310430.500+1504517.000</Point>
     </Label>
     <!--IN_DURI_GAP-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       DUA/-310634.437+1504807.184
     </Line>
     <!--OUT_GATE_SOUTH-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       WASL/-311439.895+1504710.222/GST
     </Line>
     <!--OUT_GATE_WEST-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -310430.500+1504517.000/GWT
     </Line>
   </Map>

@@ -118,27 +118,27 @@
       <Point Name="OUT_SOUTH">YMLT</Point>
     </Label>
     <!--IN_NORTH_WEST-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       WTG/YMLT
     </Line>
     <!--IN_SOUTH-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       CJN/SYP/YMLT
     </Line>
     <!--IN_WEST-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       WSN/YMLT
     </Line>
     <!--NORTH-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       LHD/BNE/TID/YMLT
     </Line>
     <!--NORTH_EAST-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       TAP/YMLT
     </Line>
     <!--OUT_SOUTH-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       YMLT/SYP/JSL
     </Line>
   </Map>

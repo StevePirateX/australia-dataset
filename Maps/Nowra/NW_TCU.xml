@@ -76,7 +76,7 @@
       <Point Name="TRANSIT">KMA</Point>
     </Label>
     <!--TRANSIT-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       KMA/CONG/WOI/WDN/UDA
     </Line>
   </Map>

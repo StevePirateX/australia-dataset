@@ -179,8 +179,8 @@
     </Symbol>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
       <!--(DN) RWY29 Labels-->
-      <Point Name="DAW">-12.382940+130.510101</Point>
       <Point Name="DAE">-12.465126+131.251946</Point>
+      <Point Name="DAW">-12.382940+130.510101</Point>
     </Label>
   </Map>
   <Map Type="System" Name="DN_RWY29_NAMES" Priority="2" Center="-12.414722+130.876667">
