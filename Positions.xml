@@ -410,9 +410,9 @@
       <CFL QuickLevel="25000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Armidale" Type="ASD" DefaultCenter="-305434.000+1495443.000" DefaultRange="950" VisibilityRange="600">
@@ -451,9 +451,9 @@
       <CFL QuickLevel="10000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Benalla" Type="ASD" DefaultCenter="-36.595056+146.952945" DefaultRange="420" VisibilityRange="600">
@@ -487,9 +487,9 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Gundagai" Type="ASD" DefaultCenter="-33.795972+149.332500" DefaultRange="420" VisibilityRange="600">
@@ -524,9 +524,9 @@
       <CFL QuickLevel="10000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Howe" Type="ASD" DefaultCenter="-302049.482+1585027.3377" DefaultRange="1600" VisibilityRange="600">
@@ -553,9 +553,9 @@
       <CFL QuickLevel="25000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Huon" Type="ASD" DefaultCenter="-40.859861+146.245167" DefaultRange="730" VisibilityRange="600">
@@ -590,9 +590,9 @@
       <CFL QuickLevel="25000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Hyden" Type="ASD" DefaultCenter="-32.179139+116.762333" DefaultRange="1200" VisibilityRange="600">
@@ -633,9 +633,9 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Inverell" Type="ASD" DefaultCenter="-273810.000+1531547.000" DefaultRange="1200" VisibilityRange="600">
@@ -675,9 +675,9 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Kennedy" Type="ASD" DefaultCenter="-164428.000+1470710.000" DefaultRange="1100" VisibilityRange="600">
@@ -714,9 +714,9 @@
       <CFL QuickLevel="7000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Keppel" Type="ASD" DefaultCenter="-240656.000+1495402.000" DefaultRange="1200" VisibilityRange="600">
@@ -753,9 +753,9 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Manning" Type="ASD" DefaultCenter="-330134.000+1525630.000" DefaultRange="950" VisibilityRange="600">
@@ -790,9 +790,9 @@
       <CFL QuickLevel="10000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Mt Isa" Type="ASD" DefaultCenter="-194924.2967+1405500.9521" DefaultRange="2751" VisibilityRange="600">
@@ -829,9 +829,9 @@
       <CFL QuickLevel="25000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Mungo" Type="ASD" DefaultCenter="-360115.000+1434014.000" DefaultRange="785" VisibilityRange="600">
@@ -867,9 +867,9 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Onslow" Type="ASD" DefaultCenter="-243721.9113+1183247.2943" DefaultRange="1800" VisibilityRange="600">
@@ -909,9 +909,9 @@
       <CFL QuickLevel="25000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Tailem Bend" Type="ASD" DefaultCenter="-343343.9975+1374743.4216" DefaultRange="800" VisibilityRange="600">
@@ -946,9 +946,9 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Territory" Type="ASD" DefaultCenter="-1600.000+12700.000" DefaultRange="2000" VisibilityRange="600">
@@ -986,9 +986,9 @@
       <CFL QuickLevel="10000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Wollongong" Type="ASD" DefaultCenter="-37.497333+149.972889" DefaultRange="800" VisibilityRange="600">
@@ -1022,9 +1022,9 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Melbourne Centre</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
   </Group>
@@ -1059,8 +1059,8 @@
       <ControllerInfo>
         <Line>Brisbane Radio</Line>
         <Line>Position reports required. Check your Sim Zulu time is correct.</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Indian Oceanic" Type="ASD" DefaultCenter="-155400.0+0971040.0" DefaultRange="5000">
@@ -1089,8 +1089,8 @@
       <ControllerInfo>
         <Line>Brisbane Radio</Line>
         <Line>Position reports required. Check your Sim Zulu time is correct.</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
   </Group>
@@ -1127,21 +1127,21 @@
       </CFL>
       <ControllerInfo>
         <Line>Adelaide Approach | ATIS available on 134.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AD-W_APP">
         <Line>Adelaide Approach (West) | ATIS available on 134.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AD-R_DEP">
         <Line>Adelaide Centre | Class G services</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Amberley TCU" Type="ASD" DefaultCenter="-27.640556+152.711944" DefaultRange="150" MagneticVariation="-11">
@@ -1169,9 +1169,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Amberley Approach | ATIS available on 123.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="East Sale TCU" Type="ASD" DefaultCenter="-38.098889+147.149444" DefaultRange="220" MagneticVariation="-12.8">
@@ -1200,9 +1200,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Sale Approach | ATIS available on 125.4</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Melbourne TCU" Type="ASD" DefaultCenter="-3740.4+14450.6" DefaultRange="150" VisibilityRange="100" MagneticVariation="-11">
@@ -1240,27 +1240,27 @@
       </CFL>
       <ControllerInfo>
         <Line>Melbourne Approach | ATIS available on 118.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ML_DEP">
         <Line>Melbourne Departures | ATIS available on 118.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ML-S_DEP">
         <Line>Melbourne Departures (South) | ATIS available on 118.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ML-R_DEP">
         <Line>Melbourne Centre | Class G services</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Avalon TCU" Type="ASD" DefaultCenter="-38.039444+144.469444" DefaultRange="100" VisibilityRange="150" MagneticVariation="-11.6">
@@ -1292,9 +1292,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Avalon Approach | ATIS available on 118.2</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Walton TCU" Type="ASD" DefaultCenter="-33.883611+150.711389" DefaultRange="180" VisibilityRange="100" MagneticVariation="-13">
@@ -1329,21 +1329,21 @@
       </CFL>
       <ControllerInfo Callsign="BK_APP">
         <Line>Bankstown Approach | ATIS available on 120.9</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="RI_APP">
         <Line>Richmond Approach | ATIS available on 126.3</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="WS_APP">
         <Line>Walton Approach | ATIS available on 127.0</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Sydney TCU" Type="ASD" DefaultCenter="-33.9461+151.1772" DefaultRange="190" VisibilityRange="100" MagneticVariation="-13">
@@ -1386,63 +1386,63 @@
       </CFL>
       <ControllerInfo Callsign="SY_APP">
         <Line>Sydney Approach | ATIS available on 118.55</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | IVA Guide - vats.im/pac/iva</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | IVA Guide – vats.im/pac/iva</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY-N_APP">
         <Line>Sydney Approach (North) | ATIS available on 118.55</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | IVA Guide - vats.im/pac/iva</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | IVA Guide – vats.im/pac/iva</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY_DEP">
         <Line>Sydney Departures | ATIS available on 118.55</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY-N_DEP">
         <Line>Sydney Departures (North) | ATIS available on 118.55</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY-DE_APP">
         <Line>Sydney Director (East) | ATIS available on 118.55</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | IVA Guide - vats.im/pac/iva</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | IVA Guide – vats.im/pac/iva</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY-D_APP">
         <Line>Sydney Director | ATIS available on 118.55</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | IVA Guide - vats.im/pac/iva</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | IVA Guide – vats.im/pac/iva</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY-R_DEP">
         <Line>Sydney Centre | Class G services</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BK_APP">
         <Line>Bankstown Approach | ATIS available on 120.9</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="RI_APP">
         <Line>Richmond Approach | ATIS available on 126.3</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="WS_APP">
         <Line>Walton Approach | ATIS available on 127.0</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Brisbane TCU" Type="ASD" DefaultCenter="-27.648889+153.039167" DefaultRange="220" VisibilityRange="100" MagneticVariation="-11">
@@ -1482,33 +1482,33 @@
       </CFL>
       <ControllerInfo>
         <Line>Brisbane Approach | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN-S_APP">
         <Line>Brisbane Approach (South) | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN_DEP">
         <Line>Brisbane Departures | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN-S_DEP">
         <Line>Brisbane Departures (South) | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
 	  <ControllerInfo Callsign="BN-R_DEP">
         <Line>Brisbane (Radar) Centre | Class G services </Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
 	<Position Name="Gold Coast TCU" Type="ASD" DefaultCenter="-282819.000+1533029.000" DefaultRange="250" VisibilityRange="100" MagneticVariation="-11">
@@ -1546,15 +1546,15 @@
       </CFL>
       <ControllerInfo Callsign="BN-C_APP">
         <Line>Brisbane Approach (Gold Coast) | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BA_APP">
         <Line>Ballina Approach | ATIS available on 128.65</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Ballina TCU" Type="ASD" DefaultCenter="-285727.000+1532617.000" DefaultRange="145" VisibilityRange="100" MagneticVariation="-11">
@@ -1587,9 +1587,9 @@
       </CFL>
       <ControllerInfo Callsign="BA_APP">
         <Line>Ballina Approach | ATIS available on 128.65</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Canberra TCU" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="150" VisibilityRange="100" MagneticVariation="-12.5">
@@ -1620,15 +1620,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Canberra Approach | ATIS available on 127.45</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CB-W_APP">
         <Line>Canberra Approach (West) | ATIS available on 127.45</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Pearce TCU" Type="ASD" DefaultCenter="-31.330278+115.900000" DefaultRange="150" VisibilityRange="100" MagneticVariation="1.6">
@@ -1662,9 +1662,9 @@
       </CFL>
       <ControllerInfo Callsign="PE_APP">
         <Line>Pearce Approach | ATIS available on 123.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Perth TCU" Type="ASD" DefaultCenter="-31.940278+115.966944" DefaultRange="150" VisibilityRange="100" MagneticVariation="1.6">
@@ -1699,21 +1699,21 @@
       </CFL>
       <ControllerInfo>
         <Line>Perth Approach | ATIS available on 123.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PH_DEP">
         <Line>Perth Departures | ATIS available on 123.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PH-R_DEP">
         <Line>Perth Centre | Class G services </Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Cairns TCU" Type="ASD" DefaultCenter="-16.885833+145.755278" DefaultRange="150" MagneticVariation="-6.7">
@@ -1744,15 +1744,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Cairns Approach | ATIS available on 131.1</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CS-W_APP">
         <Line>Cairns Approach (West) | ATIS available on 131.1</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Townsville TCU" Type="ASD" DefaultCenter="-19.2525+146.765278" DefaultRange="150" MagneticVariation="-7">
@@ -1783,9 +1783,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Townsville Approach | ATIS available on 133.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Tindal TCU" Type="ASD" DefaultCenter="-14.521111+132.377778" DefaultRange="150" MagneticVariation="-3" DynamicInfill="true">
@@ -1813,9 +1813,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Tindal Approach | ATIS available on 124.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Darwin TCU" Type="ASD" DefaultCenter="-12.414722+130.876667" DefaultRange="200" MagneticVariation="-3">
@@ -1846,15 +1846,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Darwin Approach | ATIS available on 128.25</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="DN-W_APP">
         <Line>Darwin Approach (West) | ATIS available on 128.25</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Williamtown TCU" Type="ASD" DefaultCenter="-32.795+151.834444" DefaultRange="120" MagneticVariation="-12.4">
@@ -1884,15 +1884,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Willy Approach | ATIS available on 134.45</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="WLM-H_APP">
         <Line>Willy Approach (High) | ATIS available on 134.45</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Nowra TCU" Type="ASD" DefaultCenter="-34.948889+150.536944" DefaultRange="100" MagneticVariation="-12.8">
@@ -1921,9 +1921,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Nowra Approach | ATIS available on 125.65</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Oakey TCU" Type="ASD" DefaultCenter="-27.411389+151.735278" DefaultRange="150" MagneticVariation="-10.6">
@@ -1951,9 +1951,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Oakey Approach | ATIS available on 124.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Hobart TCU" Type="ASD" DefaultCenter="-424958.000+1473038.400" DefaultRange="319" VisibilityRange="150" MagneticVariation="-14.8">
@@ -1984,9 +1984,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Hobart Approach | ATIS available on 128.45</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Launceston TCU" Type="ASD" DefaultCenter="-413237.800+1471247.700" DefaultRange="319" VisibilityRange="150" MagneticVariation="-14.8">
@@ -2016,9 +2016,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Launceston Approach | ATIS available on 134.75</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Mackay TCU" Type="ASD" DefaultCenter="-21.293889+149.171667" DefaultRange="150" MagneticVariation="-8.4">
@@ -2052,9 +2052,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Coral Approach | ATIS available on 128.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Rockhampton TCU" Type="ASD" DefaultCenter="-23.381944+150.475278" DefaultRange="180" MagneticVariation="-9.2">
@@ -2088,9 +2088,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Coral Approach | ATIS available on 128.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Curtin TCU" Type="ASD" DefaultCenter="-17.58139+123.82833" DefaultRange="150" VisibilityRange="100" MagneticVariation="-1.7">
@@ -2120,9 +2120,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Curtin Approach | ATIS available on 134.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Learmonth TCU" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="150" VisibilityRange="100" MagneticVariation="-0.2">
@@ -2151,9 +2151,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Learmonth Approach | ATIS available on 123.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Scherger TCU" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="150" VisibilityRange="100" MagneticVariation="-4.9">
@@ -2182,9 +2182,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Scherger Approach | ATIS available on 132.25</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
   </Group>
@@ -2209,21 +2209,21 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Adelaide Tower | ATIS available on 134.5 | PDC YPAD</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AD_GND">
         <Line>Adelaide Ground | ATIS available on 134.5 | PDC YPAD</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AD_DEL">
         <Line>Adelaide Delivery | ATIS available on 134.5 | PDC YPAD</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Amberley Tower" Type="ASD" DefaultCenter="-27.640556+152.711944" DefaultRange="60" MagneticVariation="-11">
@@ -2245,21 +2245,21 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Amberley Tower | ATIS available on 123.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AMB_GND">
         <Line>Amberley Ground | ATIS available on 123.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AMB_DEL">
         <Line>Amberley Delivery | ATIS available on 123.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="East Sale Tower" Type="ASD" DefaultCenter="-38.098889+147.149444" DefaultRange="60" MagneticVariation="-12.8">
@@ -2282,21 +2282,21 @@
       <CFL QuickLevel="16000" />
       <ControllerInfo>
         <Line>Sale Tower | ATIS available on 125.4</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ES_GND">
         <Line>Sale Ground | ATIS available on 125.4</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ES_DEL">
         <Line>Sale Delivery | ATIS available on 125.4</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Essendon Tower" Type="ASD" DefaultCenter="-37.728056+144.901944" DefaultRange="40" MagneticVariation="-11.7">
@@ -2319,15 +2319,15 @@
       <CFL QuickLevel="3000" />
       <ControllerInfo>
         <Line>Essendon Tower | ATIS available on 119.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="EN_GND">
         <Line>Essendon Ground | ATIS available on 119.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Melbourne Tower" Type="ASD" DefaultCenter="-3740.4+14450.6" DefaultRange="60" MagneticVariation="-11" DynamicInfill="false">
@@ -2350,22 +2350,22 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Melbourne Tower | ATIS available on 118.0 | PDC YMML</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ML_GND">
         <Line>Melbourne Ground | ATIS available on 118.0 | PDC YMML</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
         <Line>ATIS available on 118.0</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ML_DEL">
         <Line>Melbourne Delivery | ATIS available on 118.0 | PDC YMML</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Sydney Tower" Type="ASD" DefaultCenter="-33.9461+151.1772" DefaultRange="60" MagneticVariation="-13">
@@ -2391,39 +2391,39 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo Callsign="SY_TWR">
         <Line>Sydney Tower | ATIS available on 118.55 | PDC YSSY</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY-E_TWR">
         <Line>Sydney Tower (East) | ATIS available on 118.55 | PDC YSSY</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY-W_GND">
         <Line>Sydney Ground (West) | ATIS available on 118.55 | PDC YSSY</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY_GND">
         <Line>Sydney Ground | ATIS available on 118.55 | PDC YSSY</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY-C_GND">
         <Line>Sydney Coordinator | ATIS available on 118.55 | PDC YSSY</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SY_DEL">
         <Line>Sydney Delivery | ATIS available on 118.55 | PDC YSSY</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Brisbane Tower" Type="ASD" DefaultCenter="-27.3942+153.1218" DefaultRange="60" MagneticVariation="-11" DynamicInfill="false">
@@ -2449,39 +2449,39 @@
       <CFL QuickLevel="6000" />
       <ControllerInfo>
         <Line>Brisbane Tower | ATIS available on 125.5 | PDC YBBN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN-W_TWR">
         <Line>Brisbane Tower (West) | ATIS available on 125.5 | PDC YBBN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN_GND">
         <Line>Brisbane Ground | ATIS available on 125.5 | PDC YBBN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN-N_GND">
         <Line>Brisbane Ground (North) | ATIS available on 125.5 | PDC YBBN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN-S_GND">
         <Line>Brisbane Ground (South) | ATIS available on 125.5 | PDC YBBN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN_DEL">
         <Line>Brisbane Delivery | ATIS available on 125.5 | PDC YBBN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Canberra Tower" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="60" MagneticVariation="-12.5">
@@ -2503,16 +2503,16 @@
       <CFL QuickLevel="10000" />
       <ControllerInfo>
         <Line>Canberra Tower | ATIS available on 127.45 | PDC YSCB</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
         <Line></Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CB_GND">
         <Line>Canberra Ground | ATIS available on 127.45 | PDC YSCB</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Perth Tower" Type="ASD" DefaultCenter="-31.940278+115.966944" DefaultRange="60" MagneticVariation="1.6" DynamicInfill="false">
@@ -2536,27 +2536,27 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Perth Tower | ATIS available on 123.8 | PDC YPPH</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PH_GND">
         <Line>Perth Ground | ATIS available on 123.8 | PDC YPPH</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PH-E_GND">
         <Line>Perth Ground (East) | ATIS available on 123.8 | PDC YPPH</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PH_DEL">
         <Line>Perth Delivery | ATIS available on 123.8 | PDC YPPH</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Cairns Tower" Type="ASD" DefaultCenter="-16.885833+145.755278" DefaultRange="60" MagneticVariation="-6.7">
@@ -2580,22 +2580,22 @@
       <CFL QuickLevel="6000" />
       <ControllerInfo>
         <Line>Cairns Tower | ATIS available on 131.1 | PDC YBCS</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CS_GND">
         <Line>Cairns Ground | ATIS available on 131.1 | PDC YBCS</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
         <Line>ATIS available on 131.1</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CS_DEL">
         <Line>Cairns Delivery | ATIS available on 131.1 | PDC YBCS</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Townsville Tower" Type="ASD" DefaultCenter="-19.2525+146.765278" DefaultRange="60" MagneticVariation="-7">
@@ -2618,22 +2618,22 @@
       <CFL QuickLevel="18000" />
       <ControllerInfo>
         <Line>Townsville Tower | ATIS available on 133.5 | PDC YBTL</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
         <Line></Line>
       </ControllerInfo>
       <ControllerInfo Callsign="TL_GND">
         <Line>Townsville Ground | ATIS available on 133.5 | PDC YBTL</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="TL_DEL">
         <Line>Townsville Delivery | ATIS available on 133.5 | PDC YBTL</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Tindal Tower" Type="ASD" DefaultCenter="-14.521111+132.377778" DefaultRange="100" MagneticVariation="-3">
@@ -2655,21 +2655,21 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Tindal Tower | ATIS available on 124.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="TN_GND">
         <Line>Tindal Ground | ATIS available on 124.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="TN_DEL">
         <Line>Tindal Delivery | ATIS available on 124.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Darwin Tower" Type="ASD" DefaultCenter="-12.414722+130.876667" DefaultRange="60" MagneticVariation="-3">
@@ -2692,22 +2692,22 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Darwin Tower | ATIS available on 128.25 | PDC YPDN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
         <Line></Line>
       </ControllerInfo>
       <ControllerInfo Callsign="DN_GND">
         <Line>Darwin Ground | ATIS available on 128.25 | PDC YPDN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="DN_DEL">
         <Line>Darwin Delivery | ATIS available on 128.25 | PDC YPDN</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Williamtown Tower" Type="ASD" DefaultCenter="-32.795+151.834444" DefaultRange="60" MagneticVariation="-12.4">
@@ -2730,22 +2730,22 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Willy Tower | ATIS available on 134.45 | PDC YWLM</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
         <Line></Line>
       </ControllerInfo>
       <ControllerInfo Callsign="WLM_GND">
         <Line>Willy Ground | ATIS available on 134.45 | PDC YWLM</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="WLM_DEL">
         <Line>Willy Delivery | ATIS available on 134.45 | PDC YWLM</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Nowra Tower" Type="ASD" DefaultCenter="-34.948889+150.536944" DefaultRange="60" MagneticVariation="-12.8">
@@ -2768,21 +2768,21 @@
       <CFL QuickLevel="10000" />
       <ControllerInfo>
         <Line>Nowra Tower | ATIS available on 125.65</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NW_GND">
         <Line>Nowra Ground | ATIS available on 125.65</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NW_DEL">
         <Line>Nowra Delivery | ATIS available on 125.65</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Oakey Tower" Type="ASD" DefaultCenter="-27.411389+151.735278" DefaultRange="60" MagneticVariation="-10.6">
@@ -2804,21 +2804,21 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Oakey Tower | ATIS available on 124.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="OK_GND">
         <Line>Oakey Ground | ATIS available on 124.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="OK_DEL">
         <Line>Oakey Delivery | ATIS available on 124.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Edinburgh Tower" Type="ASD" DefaultCenter="-34.702500+138.620833" DefaultRange="60" MagneticVariation="-8">
@@ -2840,15 +2840,15 @@
       <CFL QuickLevel="4000" />
       <ControllerInfo>
         <Line>Edinburgh Tower | ATIS available on 126.25</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ED_GND">
         <Line>Edinburgh Ground | ATIS available on 126.25</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Gingin Tower" Type="ASD" DefaultCenter="-31.465278+115.863333" DefaultRange="30" MagneticVariation="1.5">
@@ -2870,9 +2870,9 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Gingin Tower | ATIS available on 134.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Gold Coast Tower" Type="ASD" DefaultCenter="-28.164444+153.504722" DefaultRange="45" MagneticVariation="-11.4">
@@ -2895,22 +2895,22 @@
       <CFL QuickLevel="6000" />
       <ControllerInfo>
         <Line>Gold Coast Tower | ATIS available on 134.5 | PDC YBCG</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
         <Line></Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CG_GND">
         <Line>Gold Coast Ground | ATIS available on 134.5 | PDC YBCG</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CG_DEL">
         <Line>Gold Coast Delivery | ATIS available on 134.5 | PDC YBCG</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Pearce Tower" Type="ASD" DefaultCenter="-31.667778+116.015000" DefaultRange="60" MagneticVariation="1.5">
@@ -2933,21 +2933,21 @@
       <CFL QuickLevel="13000" />
       <ControllerInfo>
         <Line>Pearce Tower | ATIS available on 136.4</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PE_GND">
         <Line>Pearce Ground | ATIS available on 136.4</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PE_DEL">
         <Line>Pearce Delivery | ATIS available on 136.4</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Richmond Tower" Type="ASD" DefaultCenter="-33.600556+150.780833" DefaultRange="40" MagneticVariation="-12.4">
@@ -2968,15 +2968,15 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Richmond Tower | ATIS available on 126.3</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="RI_GND">
         <Line>Richmond Ground | ATIS available on 126.3</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Curtin Tower" Type="ASD" DefaultCenter="-17.58139+123.82833" DefaultRange="50" MagneticVariation="-1.7">
@@ -3001,21 +3001,21 @@
       </CFL>
       <ControllerInfo>
         <Line>Curtin Tower | ATIS available on 134.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CIN_GND">
         <Line>Curtin Ground | ATIS available on 134.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CIN_DEL">
         <Line>Curtin Delivery | ATIS available on 134.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Learmonth Tower" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="50" MagneticVariation="-0.2">
@@ -3039,15 +3039,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Learmonth Tower | ATIS available on 123.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="LM_GND">
         <Line>Learmonth Ground | ATIS available on 123.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Scherger Tower" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="50" MagneticVariation="-4.9"  DynamicInfill="false">
@@ -3071,15 +3071,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Scherger Tower | ATIS available on 132.25</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SG_GND">
         <Line>Scherger Ground | ATIS available on 132.25</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Walton Tower" Type="ASD" DefaultCenter="-335327.000+1504306.000" DefaultRange="60" MagneticVariation="-13" DynamicInfill="false">
@@ -3102,22 +3102,22 @@
       <CFL QuickLevel="4000" />
       <ControllerInfo Callsign="WS_TWR">
         <Line>Walton Tower | ATIS available on 127.0 | PDC YSWS</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
         <Line></Line>
       </ControllerInfo>
       <ControllerInfo Callsign="WS_GND">
         <Line>Walton Ground | ATIS available on 127.0 | PDC YSWS</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="WS_DEL">
         <Line>Walton Delivery | ATIS available on 127.0 | PDC YSWS</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
   </Group>
@@ -3143,15 +3143,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Albury Tower | ATIS available on 133.85</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AY_GND">
         <Line>Albury Ground | ATIS available on 133.85</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Alice Springs Tower" Type="ASD" DefaultCenter="-23.808333+133.900833" DefaultRange="120" MagneticVariation="-4.6">
@@ -3174,9 +3174,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Alice Tower | ATIS available on 123.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Broome Tower" Type="ASD" DefaultCenter="-17.949444+122.227778" DefaultRange="140" MagneticVariation="-1.7">
@@ -3201,15 +3201,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Broome Tower | ATIS available on 128.2</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BRM_GND">
         <Line>Broome Ground | ATIS available on 128.2</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Coffs Harbour Tower" Type="ASD" DefaultCenter="-30.320556+153.116389" DefaultRange="100" MagneticVariation="-12">
@@ -3233,9 +3233,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Coffs Tower | ATIS available on 130.3</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Hamilton Island Tower" Type="ASD" DefaultCenter="-20.358056+148.951667" DefaultRange="100" MagneticVariation="-8.1">
@@ -3259,9 +3259,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Hamilton Tower | ATIS available on 128.35</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Sunshine Coast Tower" Type="ASD" DefaultCenter="-26.603333+153.091111" DefaultRange="90" MagneticVariation="-10.8">
@@ -3286,15 +3286,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Sunshine Coast Tower | ATIS available on 119.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="SU_GND">
         <Line>Sunshine Coast Ground | ATIS available on 119.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Karratha Tower" Type="ASD" DefaultCenter="-20.712222+116.773333" DefaultRange="130" MagneticVariation="-0.9">
@@ -3319,15 +3319,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Karratha Tower | ATIS available on 134.55</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="KA_GND">
         <Line>Karratha Ground | ATIS available on 134.55</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Tamworth Tower" Type="ASD" DefaultCenter="-31.083889+150.846667" DefaultRange="80" MagneticVariation="-11.5">
@@ -3352,21 +3352,21 @@
       </CFL>
       <ControllerInfo>
         <Line>Tamworth Tower | ATIS available on 123.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo>
         <Line>Tamworth Tower (South) | ATIS available on 123.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="TW_GND">
         <Line>Tamworth Ground | ATIS available on 123.8</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Woomera Tower" Type="ASD" DefaultCenter="-31.14417+136.81694" DefaultRange="50" MagneticVariation="-6.5">
@@ -3390,9 +3390,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Woomera Tower | ATIS available on 118.1</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
   </Group>
@@ -3417,21 +3417,21 @@
       <CFL QuickLevel="4000" />
       <ControllerInfo>
         <Line>Archer Tower | ATIS available on 120.9</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AF-N_TWR">
         <Line>Archer Tower (North) | ATIS available on 120.9</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AF_GND">
         <Line>Archer Ground | ATIS available on 120.9</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Avalon Tower" Type="ASD" DefaultCenter="-38.039444+144.469444" DefaultRange="50" MagneticVariation="-11.6" DynamicInfill="false">
@@ -3452,9 +3452,9 @@
       <CFL QuickLevel="4000" />
       <ControllerInfo>
         <Line>Avalon Tower | ATIS available on 118.2</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Ballina Tower" Type="ASD" DefaultCenter="-285002.000+1533345.000" DefaultRange="65" MagneticVariation="-9.2">
@@ -3475,9 +3475,9 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Ballina Tower | ATIS available on 128.65</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Bankstown Tower" Type="ASD" DefaultCenter="-33.924444+150.988333" DefaultRange="30" MagneticVariation="-12.6">
@@ -3500,21 +3500,21 @@
       <CFL QuickLevel="3000" />
       <ControllerInfo>
         <Line>Bankstown Tower | ATIS available on 120.9</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BK-C_TWR">
         <Line>Bankstown Tower (Circuit) | ATIS available on 120.9</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BK_GND">
         <Line>Bankstown Ground | ATIS available on 120.9</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Camden Tower" Type="ASD" DefaultCenter="-34.040278+150.686667" DefaultRange="30" MagneticVariation="-12.5">
@@ -3536,15 +3536,15 @@
       <CFL QuickLevel="3000" />
       <ControllerInfo>
         <Line>Camden Tower | ATIS available on 125.1</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="CN_GND">
         <Line>Camden Ground | ATIS available on 125.1</Line>
-        <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
-        <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Hobart Tower" Type="ASD" DefaultCenter="-42.836111+147.510278" DefaultRange="65" MagneticVariation="-15.3">
@@ -3568,15 +3568,15 @@
       </CFL>
       <ControllerInfo>
         <Line>Hobart Tower | ATIS available on 128.45</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="HB_GND">
         <Line>Hobart Ground | ATIS available on 128.45</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Jandakot Tower" Type="ASD" DefaultCenter="-32.097500+115.881111" DefaultRange="30" MagneticVariation="1.7">
@@ -3599,21 +3599,21 @@
       <CFL QuickLevel="3000" />
       <ControllerInfo>
         <Line>Jandakot Tower | ATIS available on 128.65</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="JT-C_TWR">
         <Line>Jandakot Tower (Circuit) | ATIS available on 128.65</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="JT_GND">
         <Line>Jandakot Ground | ATIS available on 128.65</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Launceston Tower" Type="ASD" DefaultCenter="-41.545278+147.214167" DefaultRange="65" MagneticVariation="-14.4">
@@ -3636,9 +3636,9 @@
       </CFL>
       <ControllerInfo>
         <Line>Launy Tower | ATIS available on 134.75</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Mackay Tower" Type="ASD" DefaultCenter="-21.171389+149.179722" DefaultRange="65" MagneticVariation="-8.4">
@@ -3660,15 +3660,15 @@
       <CFL QuickLevel="6000" />
       <ControllerInfo>
         <Line>Mackay Tower | ATIS available on 128.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="MK_GND">
         <Line>Mackay Ground | ATIS available on 128.0</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Moorabbin Tower" Type="ASD" DefaultCenter="-37.975833+145.102222" DefaultRange="30" MagneticVariation="-11.8">
@@ -3691,15 +3691,15 @@
       <CFL QuickLevel="5000" />
       <ControllerInfo>
         <Line>Moorabbin Tower | ATIS available on 120.9</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="MB_GND">
         <Line>Moorabbin Ground | ATIS available on 120.9</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Parafield Tower" Type="ASD" DefaultCenter="-34.793333+138.633056" DefaultRange="30" MagneticVariation="-8">
@@ -3722,21 +3722,21 @@
       <CFL QuickLevel="3000" />
       <ControllerInfo>
         <Line>Parafield Tower | ATIS available on 120.9</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PF-W_TWR">
         <Line>Parafield Tower (West) | ATIS available on 120.9</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PF_GND">
         <Line>Parafield Ground | ATIS available on 120.9</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Rockhampton Tower" Type="ASD" DefaultCenter="-23.381944+150.475278" DefaultRange="65" MagneticVariation="-9.2">
@@ -3758,15 +3758,15 @@
       <CFL QuickLevel="6000" />
       <ControllerInfo>
         <Line>Rocky Tower | ATIS available on 128.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="RK_GND">
         <Line>Rocky Ground | ATIS available on 128.5</Line>
-        <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
+        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
   </Group>
@@ -3792,8 +3792,8 @@
       </ATIS>
       <ControllerInfo Callsign="SY_FMP">
         <Line>Sydney Flow</Line>
-        <Line>Tactical planning position - no control service offered</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Tactical planning position – no control service offered</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Melbourne Flow" Type="ASD" DefaultCenter="-37.6739+144.8431" DefaultRange="700" VisibilityRange="600" DynamicInfill="false">
@@ -3817,8 +3817,8 @@
       </ATIS>
       <ControllerInfo Callsign="ML_FMP">
         <Line>Melbourne Flow</Line>
-        <Line>Tactical planning position - no control service offered</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Tactical planning position – no control service offered</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Brisbane Flow" Type="ASD" DefaultCenter="-27.3845+153.1175" DefaultRange="1000" VisibilityRange="600" DynamicInfill="false">
@@ -3842,8 +3842,8 @@
       </ATIS>
       <ControllerInfo Callsign="BN_FMP">
         <Line>Brisbane Flow</Line>
-        <Line>Tactical planning position - no control service offered</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Tactical planning position – no control service offered</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Perth Flow" Type="ASD" DefaultCenter="-31.940278+115.966944" DefaultRange="900" VisibilityRange="600" DynamicInfill="false">
@@ -3867,8 +3867,8 @@
       </ATIS>
       <ControllerInfo Callsign="PH_FMP">
         <Line>Perth Flow</Line>
-        <Line>Tactical planning position - no control service offered</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Tactical planning position – no control service offered</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Adelaide Flow" Type="ASD" DefaultCenter="-34.947+138.525" DefaultRange="500" VisibilityRange="600" DynamicInfill="false">
@@ -3892,8 +3892,8 @@
       </ATIS>
       <ControllerInfo Callsign="AD_FMP">
         <Line>Adelaide Flow</Line>
-        <Line>Tactical planning position - no control service offered</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Tactical planning position – no control service offered</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Canberra Flow" Type="ASD" DefaultCenter="-35.306111+149.195833" DefaultRange="500" VisibilityRange="600" DynamicInfill="false">
@@ -3917,8 +3917,8 @@
       </ATIS>
       <ControllerInfo Callsign="CB_FMP">
         <Line>Canberra Flow</Line>
-        <Line>Tactical planning position - no control service offered</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Tactical planning position – no control service offered</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
     <Position Name="Cairns Flow" Type="ASD" DefaultCenter="-16.885833+145.755278" DefaultRange="800" VisibilityRange="600" DynamicInfill="false">
@@ -3942,8 +3942,8 @@
       </ATIS>
       <ControllerInfo Callsign="CS_FMP">
         <Line>Cairns Flow</Line>
-        <Line>Tactical planning position - no control service offered</Line>
-        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+        <Line>Tactical planning position – no control service offered</Line>
+        <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
   </Group>
