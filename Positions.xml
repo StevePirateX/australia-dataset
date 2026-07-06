@@ -675,8 +675,8 @@
       <CFL QuickLevel="9000" />
       <ControllerInfo>
         <Line>Brisbane Centre</Line>
-        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
-        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
         <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
@@ -1488,26 +1488,26 @@
       </ControllerInfo>
       <ControllerInfo Callsign="BN-S_APP">
         <Line>Brisbane Approach (South) | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
-        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
         <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN_DEP">
         <Line>Brisbane Departures | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
-        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
         <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BN-S_DEP">
         <Line>Brisbane Departures (South) | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
-        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
         <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
 	  <ControllerInfo Callsign="BN-R_DEP">
         <Line>Brisbane (Radar) Centre | Class G services </Line>
-        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
-        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
         <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
@@ -1546,8 +1546,8 @@
       </CFL>
       <ControllerInfo Callsign="BN-C_APP">
         <Line>Brisbane Approach (Gold Coast) | ATIS available on 125.5</Line>
-        <Line>Airspace, Charts, Tools – vats.im/pac/tools</Line>
-        <Line>Pilot Procedures – vats.im/pac/pilot</Line>
+        <Line>Airspace and Charts – vats.im/pac/tools | Pilot Procs – vats.im/pac/pilot</Line>
+        <Line>** New AIRAC Procedures in Place – Ensure Current Data **</Line>
         <Line>ATC Feedback – vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="BA_APP">
