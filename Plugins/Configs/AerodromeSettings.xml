@@ -724,8 +724,22 @@
         <!-- Metro D -->
         <LayoutDefinition Name="All" Type="MetroD">
             <Element Name="Preactive" Column="0" />
-            <Element Name="Taxi" Column="0" />
+            <Element Name="Engine Start" Column="0" />
+            <Element Name="Taxi" Column="1" />
             <Element Name="Holding Point" Column="1" />
+            <Element Name="Runway" Column="2" />
+            <Element Name="Circuit" Column="2" />
+            <Element Name="Arrivals" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="SMC" Type="MetroD">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Engine Start" Column="0" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="2" />
+            <Element Name="Runway" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="ADC" Type="MetroD">
+            <Element Name="Holding Point" Column="0" />
             <Element Name="Runway" Column="1" />
             <Element Name="Circuit" Column="2" />
             <Element Name="Arrivals" Column="2" />
@@ -861,10 +875,12 @@
             <Bay Name="Preactive">
                 <Type>BAY_PREA</Type>
             </Bay>
-            <Bay Name="Taxi">
+            <Bay Name="Engine Start">
                 <Type>BAY_CLEARED</Type>
                 <Type>BAY_PUSHED</Type>
                 <Type>BAY_COORDINATOR</Type>
+            </Bay>
+            <Bay Name="Taxi">
                 <Type>BAY_TAXI</Type>
             </Bay>
             <Bay Name="Holding Point">
