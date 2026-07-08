@@ -3498,7 +3498,7 @@
       </ATIS>
       <Strips Mode="State" Sort="Time" />
       <CFL QuickLevel="3000" />
-      <ControllerInfo>
+      <ControllerInfo Callsign="BK_TWR">
         <Line>Bankstown Tower | ATIS available on 120.9</Line>
         <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
         <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
