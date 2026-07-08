@@ -258,16 +258,16 @@
       <Point>UPKID</Point>
     </Symbol>
     <!--(ML) RWY27LAHSO34 Airspace-->
-    <Line Name="(ML) RWY27LAHSO34_MDN-MDS" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY27LAHSO34_MDN-MDS" Width="2.7" Pattern="Dotted">
       -373941.000+1445011.000/-374038.000+1450700.000
     </Line>
-    <Line Name="(ML) RWY27LAHSO34_MAE" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY27LAHSO34_MAE" Width="2.7" Pattern="Dotted">
       -372537.000+1452354.000/-373410.000+1450726.000/-373317.000+1445637.000/-373941.000+1445011.000
     </Line>
-    <Line Name="(ML) RWY27LAHSO34_MDN/S-(E)" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY27LAHSO34_MDN/S-(E)" Width="2.7" Pattern="Dotted">
       -373410.000+1450726.000/-374038.000+1450700.000/-374638.000+1450624.000
     </Line>
-    <Line Name="(ML) RWY27LAHSO34_MDS" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY27LAHSO34_MDS" Width="2.7" Pattern="Dotted">
       -380114.000+1451640.000/-375200.000+1451014.000/-374638.000+1450624.000/-374325.000+1450110.000/-374351.000+1445405.000/-373941.000+1445011.000/-373718.000+1441245.000
     </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">

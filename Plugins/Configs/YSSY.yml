@@ -3,6 +3,7 @@
 - if:
     jet: "true"
   CFL: "050"
+
 # Dual RWYs
 - if:
     atis_dep_rwy: ["34L", "34R"]
@@ -24,7 +25,9 @@
     waypoint: ["WOL"]
     jet: "true"
     atis_dep_rwy: ["34L", "34R"]
+    WTC: ["L", "M"]
   runway: "34R"
+
 # SODPROPS
 - if:
     atis_dep_rwy: ["34L", "16L"]
@@ -36,7 +39,25 @@
     atis_dep_rwy: ["34L", "16L"]
     WTC: ["H", "J"]
   runway: "34L"
+
 # SIDs
+- if_not:
+    VFR: "true"
+  SID: "SY"
+
+# Non-Jets
+- if:
+    waypoint: ["KADOM", "BENBU"]
+  if_not:
+    jet: "true"
+  SID: "ANKUB"  
+
+# RWY 07
+- if:
+    jet: "true"
+    runway: ["07"]
+  SID: "FISHA"
+
 # RWY 16L
 - if:
     jet: "true"
@@ -48,26 +69,51 @@
     atis_dep_rwy: ["34L", "16L"]
     waypoint: ["WOL"]
   SID: "ABBEY"
+
 # RWY 16R
 - if:
     jet: "true"
     runway: ["16R"]
   SID: "GROOK"
+
+# RWY 25
+- if:
+    jet: "true"
+    runway: ["25"]
+    waypoint: ["CAWLY", "DIPSO", "EVONN", "NOBAR", "OLSEM", "OPTIC"]
+  SID: "AVMOV"
+- if:
+    jet: "true"
+    runway: ["25"]
+    waypoint: ["KADOM"]
+  SID: "KADOM"
+- if:
+    jet: "true"
+    runway: ["25"]
+    waypoint: ["STUIE"]
+  SID: "STUIE"
+
 # RWY 34L
 - if:
     jet: "true"
     runway: ["34L"]
-  SID: "RIC"
+    waypoint: ["NWA", "LEECE", "WOL"]
+  SID: "TONTO"
 - if:
     jet: "true"
     runway: ["34L"]
-    waypoint: ["WOL"]
-  SID: "WOL"
+    waypoint: ["CAWLY", "DIPSO", "EVONN", "NOBAR", "OLSEM", "OPTIC"]
+  SID: "AVMOV"
 - if:
     jet: "true"
     runway: ["34L"]
     waypoint: ["KADOM"]
   SID: "KADOM"
+- if:
+    jet: "true"
+    runway: ["34L"]
+    waypoint: ["STUIE"]
+  SID: "STUIE"
 
 # RWY 34R
 - if:
@@ -84,54 +130,68 @@
 # RWY 25
 - if:
     runway: ["25"]
+  departures: ["129.7", "123.0", "128.3", "124.4", "126.1", "125.3", "124.55", "129.8", "133.15"]
+- if:
+    runway: ["25"]
     radials: ["290-360", "0-085"]
   departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
 - if:
     runway: ["25"]
-    radials: ["085-290"]
-  departures: ["129.7", "123.0", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+    SID: ["AVMOV"]
+  departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+- if:
+    runway: ["25"]
+    SID: ["ANKUB", "STUIE"]
+  departures: ["129.7", "123.0", "128.3", "124.4", "126.1", "125.3", "124.55", "129.8", "133.15"]
   
 # RWY 07
 - if:
     runway: ["07"]
-    radials: ["241-360", "0-066"]
   departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
 - if:
     runway: ["07"]
     radials: ["066-241"]
-  departures: ["129.7", "123.0", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+  departures: ["129.7", "123.0", "128.3", "124.4", "126.1", "125.3", "124.55", "129.8", "133.15"]
+- if:
+    runway: ["07"]
+    waypoint: ["WOL"]
+  departures: ["129.7", "123.0", "128.3", "124.4", "126.1", "125.3", "124.55", "129.8", "133.15"]
   
 # RWY 16s
 - if:
     runway: ["16L"]
-    radials: ["127-247"]
-  departures: ["129.7", "123.0", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+  departures: ["129.7", "123.0", "128.3", "124.4", "126.1", "125.3", "124.55", "129.8", "133.15"]
 - if:
     runway: ["16L"]
-    radials: ["247-360", "0-127"]
+    radials: ["296-360", "0-128"]
   departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
 - if:
     atis_dep_rwy: ["16L", "16R"]
     runway: ["16L"]
-  if_not:
-    jet: "true"
+    SID: ["SY"]
   departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
 - if:
     runway: ["16R"]
-  departures: ["129.7", "123.0", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+  departures: ["129.7", "123.0", "128.3", "124.4", "126.1", "125.3", "124.55", "129.8", "133.15"]
   
 # RWY 34s
 - if:
     runway: ["34L", "34R"]
-    radials: ["075-304"]
-  departures: ["129.7", "123.0", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+  departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
 - if:
     runway: ["34L", "34R"]
-    radials: ["304-360", "0-075"]
-  departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+    radials: ["075-304"]
+  departures: ["129.7", "123.0", "128.3", "124.4", "126.1", "125.3", "124.55", "129.8", "133.15"]
 - if:
     atis_dep_rwy: ["34L", "34R"]
     runway: ["34R"]
-  if_not:
-    jet: "true"
+    SID: ["SY"]
   departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+- if:
+    runway: ["34L"]
+    SID: ["AVMOV"]
+  departures: ["123.0", "129.7", "124.4", "128.3", "126.1", "125.3", "124.55", "129.8", "133.15"]
+- if:
+    runway: ["34L"]
+    SID: ["STUIE"]
+  departures: ["129.7", "123.0", "128.3", "124.4", "126.1", "125.3", "124.55", "129.8", "133.15"]

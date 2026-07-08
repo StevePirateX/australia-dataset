@@ -66,7 +66,8 @@
       CHOOK/
       KERRI/
       SAILA/
-      NIKKI
+      NIKKI/
+      INDEE
     </Line>
     <Line>
       <!--Rwy14 BERN4Y.OVREX-->
@@ -119,6 +120,7 @@
       <Point>IDNER</Point>
       <Point>VESOK</Point>
       <Point>SAILA</Point>
+      <Point>INDEE</Point>
       <Point>LAMSI</Point>
       <Point>PATSU</Point>
       <Point>TELOG</Point>
@@ -150,6 +152,7 @@
       <Point>KERRI</Point>
       <Point>SAILA</Point>
       <Point>NIKKI</Point>
+      <Point>INDEE</Point>
       <Point>LAMSI</Point>
       <Point>PATSU</Point>
       <Point>TELOG</Point>
@@ -158,6 +161,7 @@
       <Point>KAKVI</Point>
       <Point>ENRIM</Point>
       <Point>BANDA</Point>
+      <Point>KAPSA</Point>
       <Point>RULGU</Point>
       <Point>OMKAX</Point>
       <Point>LAGOB</Point>
@@ -182,11 +186,15 @@
       <Point>UNVAT</Point>
       <Point>JEDDA</Point>
       <Point>DULIN</Point>
-      <Point>BNA NDB</Point>
       <Point>KADSI</Point>
       <Point>UGPOT</Point>
-      <Point>ALDAR</Point>
+      <Point>LOSKU</Point>
       <Point>ARM NDB</Point>
+      <Point>ALDAR</Point>
+      <Point>GUXOT</Point>
+      <Point>OLRIP</Point>
+      <Point>IDBAB</Point>
+      <Point>UPSEL</Point>
       <Point>BESBO</Point>
       <Point>LAMUG</Point>
       <Point>SMOKA</Point>

@@ -214,27 +214,27 @@
       <Point Name="THORNTON_SOUTH">TNP</Point>
     </Label>
     <!--CLEVEDON-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       GIRU/CEN/-192137.000+1465901.000/TL VOR
     </Line>
     <!--ROLLINGSTONE-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -190250.000+1462450.000/TOOU/-191152.449+1463555.987/-191308.678+1464224.659/TL VOR
     </Line>
     <!--STUART-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       DOP/ANP/-192500.598+1464947.066/-192337.795+1464936.585/-192157.310+1464957.670/SUA/-191926.966+1464941.555/TL VOR
     </Line>
     <!--THORNTON_NORTH-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       TNP/MBC/TL VOR
     </Line>
     <!--THORNTON_SOUTH-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       TNP/MMT/-191800.000+1464000.000/TL VOR
     </Line>
     <!--UPPER_ROSS-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -193409.600+1465029.100/-192826.313+1464247.000/RRDM/TCNR/-191831.217+1464422.793/-191727.916+1464423.763/-191654.521+1464433.332/-191624.069+1464449.036/TL VOR
     </Line>
   </Map>

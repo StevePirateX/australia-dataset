@@ -1,0 +1,31 @@
+- assign_dep_rwy: "true"
+- CFL: "050"
+
+# SIDs
+- if_not:
+    VFR: "true"
+  SID: "RI"
+
+- if:
+    radials: ["180-359", "000-030"]
+  if_not:
+    VFR: "true"
+  SID: "NESSY"
+
+- if:
+    waypoint: ["BEROW", "TESAT"]
+  if_not:
+    VFR: "true"
+  SID: "BEROW"
+
+- if:
+    waypoint: ["NIVOT"]
+  if_not:
+    VFR: "true"
+  SID: "NIVOT"
+
+- if:
+    waypoint: ["RUTOS"]
+  if_not:
+    VFR: "true"
+  SID: "RUTOS"

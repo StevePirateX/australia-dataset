@@ -8,50 +8,131 @@
     </Runway>
     <!--SIDs-->
     <Line>
-      <!--Rwy10 ANKUB2-->
+      <!--Rwy10 BEROW1-->
       -333626.180+1504735.590/
-      -333642.000+1504846.000/
-      -333727.000+1504844.000/
-      -334015.000+1504833.000/
-      ANKUB
+      RI510/
+      -333736.106+1505253.054/
+      -333715.809+1505339.234/
+      -333639.000+1505407.032/
+      -333555.551+1505409.003/
+      -333517.100+1505344.631/
+      -333505.531+1505328.630/
+      RI511/
+      RI530/
+      RI531/
+      OMBIB/
+      BEROW
     </Line>
     <Line>
-      <!--Rwy10 KADOM3-->
-      -333727.000+1504844.000/
-      -333740.000+1504831.000/
-      -333748.000+1504810.000/
-      -333653.000+1504305.000/
-      KADOM
+      <!--Rwy10 BEROW1.TESAT-->
+      BEROW/
+      TESAT
     </Line>
     <Line>
-      <!--Rwy10 MUDGI3-->
-      -333642.000+1504846.000/
-      -333637.000+1504911.000/
-      -333623.000+1504930.000/
-      -333602.000+1504933.000/
-      -333544.000+1504929.000/
-      -333528.000+1504906.000/
-      -333330.000+1504334.000/
-      MUDGI
+      <!--Rwy10 NESSY1-->
+      RI511/
+      NESSY
     </Line>
     <Line>
-      <!--Rwy10 RIC4-->
+      <!--Rwy10 NIVOT1-->
+      RI530/
+      NIVOT
+    </Line>
+    <Line>
+      <!--Rwy10 RIC5-->
       -333626.180+1504735.590/
-      -333626.490+1504737.191/
-      -333713.769+1505042.039
+      -333734.400+1505200.900
+    </Line>
+    <Line>
+      <!--Rwy10 RUTOS1-->
+      RI531/
+      RUTOS
     </Line>
     <!--STARs-->
-    <Symbol Type="HollowStar">
-      <Point>ANKUB</Point>
-      <Point>KADOM</Point>
-      <Point>MUDGI</Point>
+    <Line>
+      <!--Rwy10 DIPPA1-->
+      ISBOV/
+      DIPPA/
+      TESAT/
+      LURPA/
+      PIDEG/
+      NB603/
+      ATRIR/
+      STUIE
+    </Line>
+    <Line>
+      <!--Rwy10 RITSU1-->
+      RUTOS/
+      RITSU/
+      LEBOP
+    </Line>
+    <Line>
+      <!--Rwy10 RUPEM1-->
+      RUPEM/
+      EPGET/
+      RI601/
+      AKBOT
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>AKBOT</Point>
+      <Point>LEBOP</Point>
+      <Point>NESSY</Point>
     </Symbol>
+    <Symbol Type="SolidStar">
+      <Point>RI510</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>RI511</Point>
+      <Point>RI530</Point>
+      <Point>RI531</Point>
+      <Point>OMBIB</Point>
+      <Point>BEROW</Point>
+      <Point>TESAT</Point>
+      <Point>NIVOT</Point>
+      <Point>RUTOS</Point>
+      <Point>ISBOV</Point>
+      <Point>DIPPA</Point>
+      <Point>LURPA</Point>
+      <Point>PIDEG</Point>
+      <Point>NB603</Point>
+      <Point>ATRIR</Point>
+      <Point>STUIE</Point>
+      <Point>RITSU</Point>
+      <Point>RUPEM</Point>
+      <Point>EPGET</Point>
+      <Point>RI601</Point>
+    </Symbol>
+    <!--(RI) RWY10 Airspace-->
+    <Line Name="(RI) RWY10_RICHMOND_APPROACH" Width="2.7" Pattern="Dotted">
+      -331422.000+1505212.000/-333139.000+1505948.000/-333309.000+1510030.000/-333430.712+1510056.130/-333625.298+1510108.457/-333819.927+1510056.706/-334011.113+1510021.208/-334104.000+1505953.000/-334401.000+1505535.000/-334505.000+1505400.000/-334257.000+1503844.000/-334211.000+1503641.000/-334114.000+1503427.000/-333208.000+1502909.000/-332512.000+1502508.000
+    </Line>
   </Map>
   <Map Type="System" Name="RI_RWY10_NAMES" Priority="2" Center="-33.600556+150.780833">
     <Label>
-      <Point>ANKUB</Point>
+      <Point>RI510</Point>
+      <Point>RI511</Point>
+      <Point>RI530</Point>
+      <Point>RI531</Point>
+      <Point>OMBIB</Point>
+      <Point>BEROW</Point>
+      <Point>TESAT</Point>
+      <Point>NESSY</Point>
+      <Point>NIVOT</Point>
+      <Point>RUTOS</Point>
+      <Point>ISBOV</Point>
+      <Point>DIPPA</Point>
+      <Point>LURPA</Point>
+      <Point>PIDEG</Point>
+      <Point>NB603</Point>
+      <Point>ATRIR</Point>
+      <Point>STUIE</Point>
+      <Point>RITSU</Point>
+      <Point>LEBOP</Point>
+      <Point>RUPEM</Point>
+      <Point>EPGET</Point>
+      <Point>RI601</Point>
+      <Point>AKBOT</Point>
       <Point>KADOM</Point>
-      <Point>MUDGI</Point>
       <Point>PKS VOR</Point>
       <Point>NOBAR</Point>
       <Point>ABARB</Point>
@@ -63,11 +144,8 @@
       <Point>WOL NDB</Point>
       <Point>LEECE</Point>
       <Point>CB VOR</Point>
-      <Point>LOKYA</Point>
-      <Point>EMSUR</Point>
-      <Point>AVBID</Point>
-      <Point>UPVEN</Point>
       <Point>OLTIN</Point>
+      <Point>KARDI</Point>
       <Point>MONDO</Point>
       <Point>LOWEP</Point>
       <Point>YAKKA</Point>
@@ -77,18 +155,15 @@
       <Point>EKIPU</Point>
       <Point>WLM NDB</Point>
       <Point>BANDA</Point>
-      <Point>BOYSY</Point>
-      <Point>IDSUP</Point>
+      <Point>KAPSA</Point>
+      <Point>RUSUM</Point>
+      <Point>SHABY</Point>
       <Point>EMROT</Point>
+      <Point>MUDGI</Point>
       <Point>UNSAR</Point>
       <Point>LASUD</Point>
       <Point>IDGIG</Point>
       <Point>IPGOK</Point>
-      <Point>IDOGI</Point>
-      <Point>LALIB</Point>
-      <Point>IGDAM</Point>
-      <Point>SADLO</Point>
-      <Point>BOREE</Point>
       <Point>EVONN</Point>
       <Point>GEROS</Point>
       <Point>PLUGA</Point>
@@ -98,10 +173,15 @@
       <Point>SAPOX</Point>
       <Point>RIKNI</Point>
       <Point>MARLN</Point>
-      <Point>SANAD</Point>
-      <Point>UBLOM</Point>
-      <Point>ISREV</Point>
-      <Point>DUUKE</Point>
+      <Point>BIKUS</Point>
+      <Point>TEEVE</Point>
+      <Point>POSUT</Point>
+      <Point>EKABO</Point>
+      <Point>TIABB</Point>
+      <Point>LATAB</Point>
+      <Point>DAGVA</Point>
+      <Point>UKDUL</Point>
+      <Point>UNTAV</Point>
       <Point>KAMBA</Point>
       <Point>TOOKI</Point>
       <Point>OVLUX</Point>
@@ -111,27 +191,34 @@
       <Point>EXETA</Point>
       <Point>BUNGO</Point>
       <Point>DUBUS</Point>
-      <Point>SOFAL</Point>
-      <Point>DU NDB</Point>
-      <Point>ENPAG</Point>
-      <Point>RUTOS</Point>
-      <Point>SCATZ</Point>
-      <Point>ANBAN</Point>
       <Point>MAKOR</Point>
-      <Point>WG VOR</Point>
-      <Point>HAPPI</Point>
-      <Point>AKMIR</Point>
-      <Point>WELSH</Point>
-      <Point>ODALE</Point>
       <Point>BTH NDB</Point>
+      <Point>NIXIM</Point>
+      <Point>RUPOG</Point>
+      <Point>TW VOR</Point>
+      <Point>ADMOD</Point>
+      <Point>IRPIR</Point>
+      <Point>IVTON</Point>
+      <Point>DABOG</Point>
+      <Point>BOREE</Point>
+      <Point>GUVBO</Point>
+      <Point>OMDOG</Point>
+      <Point>ENVOL</Point>
+      <Point>TOROB</Point>
+      <Point>REVKI</Point>
       <Point>EBONY</Point>
       <Point>ARRAN</Point>
       <Point>NONUP</Point>
       <Point>CULIN</Point>
       <Point>TARAL</Point>
+      <Point>ENLAD</Point>
       <Point>RIVET</Point>
       <Point>OPTIC</Point>
       <Point>TONIM</Point>
+      <Point>ATIRU</Point>
+      <Point>GORPU</Point>
+      <Point>WELSH</Point>
+      <Point>DAMID</Point>
     </Label>
   </Map>
 </Maps>

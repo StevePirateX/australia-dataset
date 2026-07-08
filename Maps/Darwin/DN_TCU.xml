@@ -153,6 +153,13 @@
       JULES/
       MOTRU
     </Line>
+    <!--(DN) TCU Airspace-->
+    <Line Name="(DN) TCU-DAE/DAW_Split_S" Width="2.7" Pattern="Dotted">
+      -122521.450+1305214.480/-130519.825+1305220.910
+    </Line>
+    <Line Name="(DN) TCU-DAE/DAW_Split_N" Width="2.7" Pattern="Dotted">
+      -122431.830+1305214.350/-114603.395+1305208.162
+    </Line>
   </Map>
   <Map Type="System2" Name="DN_VFR" Priority="1" Center="-12.414722+130.876667">
     <Symbol Type="HollowSquare">
@@ -215,23 +222,23 @@
       <Point Name="ROUTE_5">BYNO</Point>
     </Label>
     <!--ROUTE_1-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       CGR/JAC/LPT/-122430.045+1305216.201
     </Line>
     <!--ROUTE_2-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       ADRM/JAC/LPT/-122430.045+1305216.201
     </Line>
     <!--ROUTE_3-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       ADB/LAD/CHI/-122519.586+1305216.327
     </Line>
     <!--ROUTE_4-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       MTD/LAD/CHI/-122519.586+1305216.327
     </Line>
     <!--ROUTE_5-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       BYNO/CHI/-122519.586+1305216.327
     </Line>
   </Map>

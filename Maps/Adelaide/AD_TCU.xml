@@ -158,7 +158,7 @@
       NOGIP
     </Line>
     <!--(AD) TCU Airspace-->
-    <Line Name="(AD) TCU-AAW/AAE_Split" Width="1.7" Pattern="Dotted">
+    <Line Name="(AD) TCU-AAW/AAE_Split" Width="2.7" Pattern="Dotted">
       -343354.000+1390513.000/-350947.000+1381254.000/-351055.733+1381413.495/-351258.320+1381708.063/-351328.000+1381805.000/-352645.000+1380716.000
     </Line>
   </Map>
@@ -291,31 +291,31 @@
       <Point Name="OUT_SUBSTATION">-344544.954+1384033.480</Point>
     </Label>
     <!--IN_DAM_WALL-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       DMW/-344608.133+1384055.354
     </Line>
     <!--IN_HOPE_VALLEY-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       PNL/MLIT/WTC/-345144.000+1384234.000
     </Line>
     <!--IN_OUTER_HARBOR-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       OHB/-344742.820+1383306.502
     </Line>
     <!--IN_PORT_ADELAIDE-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -344931.000+1383340.000/PAL
     </Line>
     <!--OUT_HOPE_VALLEY-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -344924.336+1383932.821/-345144.000+1384234.000
     </Line>
     <!--OUT_ST_KILDA-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -344653.182+1383351.669/-344438.523+1383130.173
     </Line>
     <!--OUT_SUBSTATION-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -344544.954+1384033.480/SUB
     </Line>
   </Map>
