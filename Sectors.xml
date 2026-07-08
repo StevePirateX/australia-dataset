@@ -514,7 +514,7 @@
     <Sector FullName="Bankstown Approach" Frequency="125.800" Callsign="BK_APP" Name="SBA">
     <Volumes>SBA_1,SBA_2-3,SBA_BK</Volumes>
   </Sector>
-  <Sector FullName="Richmond Approach" Frequency="118.350" Callsign="RI_APP" Name="SRA">
+  <Sector FullName="Richmond Approach" Frequency="135.900" Callsign="RI_APP" Name="SRA">
     <Volumes>SRA</Volumes>
   </Sector>
   <Sector FullName="Tindal Approach" Frequency="120.950" Callsign="TN_APP" Name="TNA">
