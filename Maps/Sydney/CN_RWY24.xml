@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="CN_RWY24" Priority="1" Center="-34.040278+150.686667">
+    <!--YSCN-->
+    <Runway Name="06/24">
+      <Threshold Name="06" Position="-34.040619+150.680619" />
+      <Threshold Name="24" Position="-34.036186+150.691939" ExtendedCentrelineTrack="64.81" ExtendedCentrelineLength="3" ExtendedCentrelineTickInterval="3" />
+    </Runway>
+    <!--SIDs-->
+    <!--STARs-->
+    <Line>
+      <!--Rwy24 PRAWN1-->
+      PRAWN/
+      TESAT/
+      LURPA/
+      PIDEG
+    </Line>
+    <Symbol Type="HollowStar">
+      <Point>PRAWN</Point>
+      <Point>TESAT</Point>
+      <Point>LURPA</Point>
+      <Point>PIDEG</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="CN_RWY24_NAMES" Priority="2" Center="-34.040278+150.686667">
+    <Label>
+      <Point>PRAWN</Point>
+      <Point>TESAT</Point>
+      <Point>LURPA</Point>
+      <Point>PIDEG</Point>
+      <Point>KADOM</Point>
+      <Point>PKS VOR</Point>
+      <Point>NOBAR</Point>
+      <Point>ABARB</Point>
+      <Point>DIPSO</Point>
+      <Point>GUTIV</Point>
+      <Point>INVUS</Point>
+      <Point>ATNAT</Point>
+      <Point>SOTKI</Point>
+      <Point>WOL NDB</Point>
+      <Point>LEECE</Point>
+      <Point>CB VOR</Point>
+      <Point>OLTIN</Point>
+      <Point>KARDI</Point>
+      <Point>MONDO</Point>
+      <Point>LOWEP</Point>
+      <Point>YAKKA</Point>
+      <Point>MEPIL</Point>
+      <Point>OLSEM</Point>
+      <Point>UPNEX</Point>
+      <Point>EKIPU</Point>
+      <Point>WLM NDB</Point>
+      <Point>BANDA</Point>
+      <Point>KAPSA</Point>
+      <Point>RUSUM</Point>
+      <Point>SHABY</Point>
+      <Point>EMROT</Point>
+      <Point>MUDGI</Point>
+      <Point>UNSAR</Point>
+      <Point>LASUD</Point>
+      <Point>IDGIG</Point>
+      <Point>IPGOK</Point>
+      <Point>EVONN</Point>
+      <Point>GEROS</Point>
+      <Point>PLUGA</Point>
+      <Point>CAWLY</Point>
+      <Point>AKALU</Point>
+      <Point>NONID</Point>
+      <Point>SAPOX</Point>
+      <Point>RIKNI</Point>
+      <Point>MARLN</Point>
+      <Point>BIKUS</Point>
+      <Point>TEEVE</Point>
+      <Point>POSUT</Point>
+      <Point>EKABO</Point>
+      <Point>TIABB</Point>
+      <Point>LATAB</Point>
+      <Point>DAGVA</Point>
+      <Point>UKDUL</Point>
+      <Point>UNTAV</Point>
+      <Point>KAMBA</Point>
+      <Point>TOOKI</Point>
+      <Point>OVLUX</Point>
+      <Point>LATUT</Point>
+      <Point>CFS VOR</Point>
+      <Point>PEGSU</Point>
+      <Point>EXETA</Point>
+      <Point>BUNGO</Point>
+      <Point>DUBUS</Point>
+      <Point>MAKOR</Point>
+      <Point>BTH NDB</Point>
+      <Point>NIXIM</Point>
+      <Point>RUPOG</Point>
+      <Point>TW VOR</Point>
+      <Point>ADMOD</Point>
+      <Point>IRPIR</Point>
+      <Point>IVTON</Point>
+      <Point>DABOG</Point>
+      <Point>BOREE</Point>
+      <Point>GUVBO</Point>
+      <Point>OMDOG</Point>
+      <Point>ENVOL</Point>
+      <Point>RUPEM</Point>
+      <Point>TOROB</Point>
+      <Point>REVKI</Point>
+      <Point>EBONY</Point>
+      <Point>ARRAN</Point>
+      <Point>NONUP</Point>
+      <Point>CULIN</Point>
+      <Point>TARAL</Point>
+      <Point>ENLAD</Point>
+      <Point>RIVET</Point>
+      <Point>OPTIC</Point>
+      <Point>TONIM</Point>
+      <Point>ATIRU</Point>
+      <Point>GORPU</Point>
+      <Point>WELSH</Point>
+      <Point>DAMID</Point>
+    </Label>
+  </Map>
+</Maps>

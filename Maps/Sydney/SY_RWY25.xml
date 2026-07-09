@@ -7,16 +7,101 @@
       <Threshold Name="25" Position="-33.937775+151.188908" ExtendedCentrelineTrack="74.2" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
     </Runway>
     <!--SIDs-->
+    <Line>
+      <!--Rwy25 ANKUB1-->
+      ANKUB/
+      IKORO/
+      NB523/
+      NB524
+    </Line>
+    <Line>
+      <!--Rwy25 ANKUB1.BENBU-->
+      NB524/
+      NB525/
+      NB526/
+      DUBSU/
+      BENBU
+    </Line>
+    <Line>
+      <!--Rwy25 ANKUB1.KADOM-->
+      NB524/
+      NB540/
+      KADOM
+    </Line>
+    <Line>
+      <!--Rwy25 AVMOV1-->
+      -335637.460+1510949.060/
+      -335727.491+1510603.813/
+      SS500/
+      SS504/
+      OGESO/
+      AVMOV
+    </Line>
+    <Line>
+      <!--Rwy25 AVMOV1.CAWLY-->
+      AVMOV/
+      MANFA/
+      CAWLY
+    </Line>
+    <Line>
+      <!--Rwy25 AVMOV1.DIPSO-->
+      AVMOV/
+      DIPSO
+    </Line>
+    <Line>
+      <!--Rwy25 AVMOV1.EVONN-->
+      MANFA/
+      EVONN
+    </Line>
+    <Line>
+      <!--Rwy25 AVMOV1.NOBAR-->
+      AVMOV/
+      NOBAR
+    </Line>
+    <Line>
+      <!--Rwy25 AVMOV1.OLSEM-->
+      AVMOV/
+      OLSEM
+    </Line>
+    <Line>
+      <!--Rwy25 AVMOV1.OPTIC-->
+      MANFA/
+      OPTIC
+    </Line>
+    <Line>
+      <!--Rwy25 KADOM2-->
+      SS500/
+      SS501/
+      SS502/
+      SS503/
+      KADOM
+    </Line>
+    <Line>
+      <!--Rwy25 STUIE1-->
+      SS500/
+      URDOS/
+      STUIE
+    </Line>
     <!--STARs-->
     <Line>
-      <!--Rwy25 BORE4A-->
+      <!--Rwy25 AKMIR1-->
+      AKMIR/
+      UDODU/
+      MUBDI/
+      MITSA/
+      GURSI/
+      ANKUB
+    </Line>
+    <Line>
+      <!--Rwy25 BORE5A-->
       BOREE/
       VASRA/
+      KAFRI/
       BEROW/
       OVILS
     </Line>
     <Line>
-      <!--Rwy25 MARLN5-->
+      <!--Rwy25 MARLN6-->
       MARLN/
       BIKUS/
       VENUL/
@@ -24,31 +109,25 @@
       JELLI
     </Line>
     <Line>
-      <!--Rwy25 MEPIL3.SANAD-->
+      <!--Rwy25 MEPIL4.SANAD-->
       SANAD/
       OLTIN/
       YAKKA/
       MEPIL
     </Line>
     <Line>
-      <!--Rwy25 MEPIL3-->
+      <!--Rwy25 MEPIL4-->
       MEPIL/
       LANOL/
       TESAT
     </Line>
     <Line>
-      <!--Rwy25 ODALE7-->
-      ODALE/
-      KABLO/
-      MITSA/
-      ANKUB/
-      TESAT
-    </Line>
-    <Line>
-      <!--Rwy25 RIVET4-->
+      <!--Rwy25 RIVET5-->
       RIVET/
+      POMEL/
       BIGEM/
       TAMMI/
+      TAXAT/
       BOOGI/
       TESAT
     </Line>
@@ -56,8 +135,40 @@
       <Point>JELLI</Point>
     </Symbol>
     <Symbol Type="HollowStar">
+      <Point>ANKUB</Point>
+      <Point>IKORO</Point>
+      <Point>NB523</Point>
+      <Point>NB524</Point>
+      <Point>NB525</Point>
+      <Point>NB526</Point>
+      <Point>DUBSU</Point>
+      <Point>BENBU</Point>
+      <Point>NB540</Point>
+      <Point>KADOM</Point>
+      <Point>SS500</Point>
+      <Point>SS504</Point>
+      <Point>OGESO</Point>
+      <Point>AVMOV</Point>
+      <Point>MANFA</Point>
+      <Point>CAWLY</Point>
+      <Point>DIPSO</Point>
+      <Point>EVONN</Point>
+      <Point>NOBAR</Point>
+      <Point>OLSEM</Point>
+      <Point>OPTIC</Point>
+      <Point>SS501</Point>
+      <Point>SS502</Point>
+      <Point>SS503</Point>
+      <Point>URDOS</Point>
+      <Point>STUIE</Point>
+      <Point>AKMIR</Point>
+      <Point>UDODU</Point>
+      <Point>MUBDI</Point>
+      <Point>MITSA</Point>
+      <Point>GURSI</Point>
       <Point>BOREE</Point>
       <Point>VASRA</Point>
+      <Point>KAFRI</Point>
       <Point>BEROW</Point>
       <Point>OVILS</Point>
       <Point>MARLN</Point>
@@ -70,33 +181,43 @@
       <Point>SANAD</Point>
       <Point>OLTIN</Point>
       <Point>YAKKA</Point>
-      <Point>ODALE</Point>
-      <Point>KABLO</Point>
-      <Point>MITSA</Point>
-      <Point>ANKUB</Point>
       <Point>RIVET</Point>
+      <Point>POMEL</Point>
       <Point>BIGEM</Point>
       <Point>TAMMI</Point>
+      <Point>TAXAT</Point>
       <Point>BOOGI</Point>
     </Symbol>
     <!--(SY) RWY25 Airspace-->
-    <Line Name="(SY) RWY25" Width="1.7" Pattern="Dotted">
-      -331422.000+1505212.000/-333257.000+1510119.000/-333424.330+1510145.758/-333626.206+1510158.889/-333828.131+1510146.410/-334026.396+1510108.670/-334033.000+1510102.000/-334533.000+1510525.000/-335358.000+1510720.000/-335416.000+1511004.000/-335217.000+1511817.000/-334429.000+1512040.000/-334537.000+1511635.000/-334340.000+1511350.000/-333839.000+1511345.000/-331210.000+1511816.000
+    <Line Name="(SY) RWY25_RICHMOND_APPROACH" Width="2.7" Pattern="Dotted">
+      -331422.000+1505212.000/-333139.000+1505948.000/-333309.000+1510030.000/-333430.712+1510056.130/-333625.298+1510108.457/-333819.927+1510056.706/-334011.113+1510021.208/-334104.000+1505953.000/-334401.000+1505535.000/-334505.000+1505400.000/-334257.000+1503844.000/-334211.000+1503641.000/-334114.000+1503427.000/-333208.000+1502909.000/-332512.000+1502508.000
     </Line>
-    <Line Name="(SY) RWY25_1" Width="1.7" Pattern="Dotted">
+    <Line Name="(SY) RWY25_WALTON_APPROACH" Width="2.7" Pattern="Dotted">
+      -334505.000+1505400.000/-335342.000+1510004.000/-335619.000+1505921.000/-335800.000+1505443.000/-340522.000+1502837.000/-340805.800+1501829.800/-340739.000+1501216.000
+    </Line>
+    <Line Name="(SY) RWY25_WALTON_APPROACH-SAS SHELF" Width="2.7" Pattern="Dotted">
+      -340522.000+1502837.000/-341653.000+1503146.000/-342025.000+1502454.000
+    </Line>
+    <Line Name="(SY) RWY25_1_SDN_WEST_EDGE" Width="2.7" Pattern="Dotted">
+      -331205.000+1511918.000/-332158.000+1511719.000/-332655.000+1511619.000/-332814.000+1511603.000/-334340.000+1511350.000/-334537.000+1511635.000/-334436.000+1512016.000
+    </Line>
+    <Line Name="(SY) RWY25_2_SDN_WEST_EDGE2" Width="2.7" Pattern="Dotted">
+      -335637.460+1510949.060/-335727.491+1510603.813/-335619.000+1505921.000
+    </Line>
+    <Line Name="(SY) RWY25_3_SOUTHWEST" Width="2.7" Pattern="Dotted">
+      -341653.000+1503146.000/-341230.000+1504017.000/-340507.000+1505643.000/-340650.000+1511027.000/-340617.000+1511300.000/-335751.350+1511050.330
+    </Line>
+    <Line Name="(SY) RWY25_4_WEST" Width="2.7" Pattern="Dotted">
       -340617.000+1511300.000/-340108.000+1513639.000/-340401.000+1520420.000
     </Line>
-    <Line Name="(SY) RWY25_2" Width="1.7" Pattern="Dotted">
-      -335959.000+1520455.000/-335810.111+1514529.951/-335353.013+1513448.304
+    <Line Name="(SY) RWY25_5" Width="2.7" Pattern="Dotted">
+      -334436.000+1512016.000/-334229.000+1512750.000/-334345.282+1512922.308/-334636.244+1513147.262/-334945.506+1513334.449/-335307.346+1513440.556/-335817.000+1514547.000/-335959.000+1520455.000
     </Line>
-    <Line Name="(SY) RWY25_MARLN" Width="1.7" Pattern="Dotted">
-      -340540.000+1501753.000/-335753.000+1505719.000/-335358.000+1510720.000/-335416.000+1511004.000/-340617.000+1511300.000/-340650.000+1511027.000/-340509.000+1505704.000/-342008.000+1502443.000
+    <Line Name="(SY) RWY25_6_STUIE" Width="2.7" Pattern="Dotted">
+      -335727.491+1510603.813/-334954.100+1510039.500/-334351.000+1505550.000
     </Line>
-    <Line Name="(SY) RWY25_3" Width="1.7" Pattern="Dotted">
-      -334429.000+1512040.000/-334229.000+1512750.000/-334345.282+1512922.308/-334636.244+1513147.262/-334945.506+1513334.449/-335307.346+1513440.556/-335353.013+1513448.304
-    </Line>
-    <Line Name="(SY) RWY25_4" Width="1.7" Pattern="Dotted">
-      -333220.000+1502535.000/-335417.000+1510631.000
+    <Line Name="(SY) RWY25_7_STUIE" Width="2.7" Pattern="Dotted">
+      -335548.350+1511018.420/-335449.744+1511003.152/-335038.000+1510455.000/-334333.000+1505617.000
     </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
       <!--(SY) RWY25 Labels-->
@@ -104,21 +225,54 @@
       <Point Name="SAN">-34.046111+152.028889</Point>
       <Point Name="SAN/SDN">-33.489167+151.139167</Point>
       <Point Name="SAN/SFE">-33.936944+151.468333</Point>
-      <Point Name="SAS">-34.169444+150.455833</Point>
       <Point Name="SAS/SDS">-34.100000+150.729444</Point>
       <Point Name="SDN">-33.423611+151.588333</Point>
-      <Point Name="SDN">-33.435000+150.675833</Point>
       <Point Name="SDN">-33.771667+151.910278</Point>
-      <Point Name="SDS">-33.826944+150.432500</Point>
+      <Point Name="SDN">-33.820556+151.039167</Point>
       <Point Name="SDS">-34.234444+151.864167</Point>
       <Point Name="SDS">-34.451389+150.782778</Point>
       <Point Name="SDS">-34.464167+151.596944</Point>
+      <Point Name="SRA">-33.435000+150.675833</Point>
+      <Point Name="SWA">-33.826944+150.432500</Point>
+      <Point Name="SWA/SAS">-34.216389+150.302500</Point>
     </Label>
   </Map>
   <Map Type="System" Name="SY_RWY25_NAMES" Priority="2" Center="-33.946111+151.177222">
     <Label>
+      <Point>ANKUB</Point>
+      <Point>IKORO</Point>
+      <Point>NB523</Point>
+      <Point>NB524</Point>
+      <Point>NB525</Point>
+      <Point>NB526</Point>
+      <Point>DUBSU</Point>
+      <Point>BENBU</Point>
+      <Point>NB540</Point>
+      <Point>KADOM</Point>
+      <Point>SS500</Point>
+      <Point>SS504</Point>
+      <Point>OGESO</Point>
+      <Point>AVMOV</Point>
+      <Point>MANFA</Point>
+      <Point>CAWLY</Point>
+      <Point>DIPSO</Point>
+      <Point>EVONN</Point>
+      <Point>NOBAR</Point>
+      <Point>OLSEM</Point>
+      <Point>OPTIC</Point>
+      <Point>SS501</Point>
+      <Point>SS502</Point>
+      <Point>SS503</Point>
+      <Point>URDOS</Point>
+      <Point>STUIE</Point>
+      <Point>AKMIR</Point>
+      <Point>UDODU</Point>
+      <Point>MUBDI</Point>
+      <Point>MITSA</Point>
+      <Point>GURSI</Point>
       <Point>BOREE</Point>
       <Point>VASRA</Point>
+      <Point>KAFRI</Point>
       <Point>BEROW</Point>
       <Point>OVILS</Point>
       <Point>MARLN</Point>
@@ -132,19 +286,14 @@
       <Point>MEPIL</Point>
       <Point>LANOL</Point>
       <Point>TESAT</Point>
-      <Point>ODALE</Point>
-      <Point>KABLO</Point>
-      <Point>MITSA</Point>
-      <Point>ANKUB</Point>
       <Point>RIVET</Point>
+      <Point>POMEL</Point>
       <Point>BIGEM</Point>
       <Point>TAMMI</Point>
+      <Point>TAXAT</Point>
       <Point>BOOGI</Point>
-      <Point>KADOM</Point>
       <Point>PKS VOR</Point>
-      <Point>NOBAR</Point>
       <Point>ABARB</Point>
-      <Point>DIPSO</Point>
       <Point>GUTIV</Point>
       <Point>INVUS</Point>
       <Point>ATNAT</Point>
@@ -152,40 +301,36 @@
       <Point>WOL NDB</Point>
       <Point>LEECE</Point>
       <Point>CB VOR</Point>
-      <Point>LOKYA</Point>
-      <Point>EMSUR</Point>
-      <Point>AVBID</Point>
-      <Point>UPVEN</Point>
+      <Point>KARDI</Point>
       <Point>MONDO</Point>
       <Point>LOWEP</Point>
-      <Point>OLSEM</Point>
       <Point>UPNEX</Point>
       <Point>EKIPU</Point>
       <Point>WLM NDB</Point>
       <Point>BANDA</Point>
-      <Point>BOYSY</Point>
-      <Point>IDSUP</Point>
+      <Point>KAPSA</Point>
+      <Point>RUSUM</Point>
+      <Point>SHABY</Point>
       <Point>EMROT</Point>
       <Point>MUDGI</Point>
       <Point>UNSAR</Point>
       <Point>LASUD</Point>
       <Point>IDGIG</Point>
       <Point>IPGOK</Point>
-      <Point>IDOGI</Point>
-      <Point>LALIB</Point>
-      <Point>IGDAM</Point>
-      <Point>SADLO</Point>
-      <Point>EVONN</Point>
       <Point>GEROS</Point>
       <Point>PLUGA</Point>
-      <Point>CAWLY</Point>
       <Point>AKALU</Point>
       <Point>NONID</Point>
       <Point>SAPOX</Point>
       <Point>RIKNI</Point>
-      <Point>UBLOM</Point>
-      <Point>ISREV</Point>
-      <Point>DUUKE</Point>
+      <Point>TEEVE</Point>
+      <Point>POSUT</Point>
+      <Point>EKABO</Point>
+      <Point>TIABB</Point>
+      <Point>LATAB</Point>
+      <Point>DAGVA</Point>
+      <Point>UKDUL</Point>
+      <Point>UNTAV</Point>
       <Point>KAMBA</Point>
       <Point>TOOKI</Point>
       <Point>OVLUX</Point>
@@ -195,25 +340,32 @@
       <Point>EXETA</Point>
       <Point>BUNGO</Point>
       <Point>DUBUS</Point>
-      <Point>SOFAL</Point>
-      <Point>DU NDB</Point>
-      <Point>ENPAG</Point>
-      <Point>RUTOS</Point>
-      <Point>SCATZ</Point>
-      <Point>ANBAN</Point>
       <Point>MAKOR</Point>
-      <Point>WG VOR</Point>
-      <Point>HAPPI</Point>
-      <Point>AKMIR</Point>
-      <Point>WELSH</Point>
       <Point>BTH NDB</Point>
+      <Point>NIXIM</Point>
+      <Point>RUPOG</Point>
+      <Point>TW VOR</Point>
+      <Point>ADMOD</Point>
+      <Point>IRPIR</Point>
+      <Point>IVTON</Point>
+      <Point>DABOG</Point>
+      <Point>GUVBO</Point>
+      <Point>OMDOG</Point>
+      <Point>ENVOL</Point>
+      <Point>RUPEM</Point>
+      <Point>TOROB</Point>
+      <Point>REVKI</Point>
       <Point>EBONY</Point>
       <Point>ARRAN</Point>
       <Point>NONUP</Point>
       <Point>CULIN</Point>
       <Point>TARAL</Point>
-      <Point>OPTIC</Point>
+      <Point>ENLAD</Point>
       <Point>TONIM</Point>
+      <Point>ATIRU</Point>
+      <Point>GORPU</Point>
+      <Point>WELSH</Point>
+      <Point>DAMID</Point>
     </Label>
   </Map>
 </Maps>

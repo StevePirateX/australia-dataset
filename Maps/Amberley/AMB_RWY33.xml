@@ -44,6 +44,18 @@
       BN VOR
     </Line>
     <Line>
+      <!--Rwy33 JEDA5A-->
+      -273311.856+1523915.228/
+      RUDEY/
+      JEDDA
+    </Line>
+    <Line>
+      <!--Rwy33 JEDA5T-->
+      -273311.856+1523915.228/
+      -273243.000+1523438.000/
+      JEDDA
+    </Line>
+    <Line>
       <!--Rwy33 MESE5A-->
       -273311.856+1523915.228/
       IMATI/
@@ -73,9 +85,9 @@
       <!--Rwy33 BYRON2-->
       SEMAJ/
       LOTMA/
-      ZANET/
+      -274747.000+1532530.000/
       LAGOB/
-      TUGUN/
+      -274537.000+1525050.000/
       AMB TAC/
       BIGIX
     </Line>
@@ -145,15 +157,15 @@
     <Symbol Type="HollowStar">
       <Point>DEBEE</Point>
       <Point>BOBOP</Point>
+      <Point>RUDEY</Point>
+      <Point>JEDDA</Point>
       <Point>IMATI</Point>
       <Point>MESED</Point>
       <Point>ENLIP</Point>
       <Point>TATEN</Point>
       <Point>SEMAJ</Point>
       <Point>LOTMA</Point>
-      <Point>ZANET</Point>
       <Point>LAGOB</Point>
-      <Point>TUGUN</Point>
       <Point>AMB TAC</Point>
       <Point>VIRGE</Point>
       <Point>BOBED</Point>
@@ -170,15 +182,15 @@
       <Point>DEBEE</Point>
       <Point>BOBOP</Point>
       <Point>BN VOR</Point>
+      <Point>RUDEY</Point>
+      <Point>JEDDA</Point>
       <Point>IMATI</Point>
       <Point>MESED</Point>
       <Point>ENLIP</Point>
       <Point>TATEN</Point>
       <Point>SEMAJ</Point>
       <Point>LOTMA</Point>
-      <Point>ZANET</Point>
       <Point>LAGOB</Point>
-      <Point>TUGUN</Point>
       <Point>AMB TAC</Point>
       <Point>BIGIX</Point>
       <Point>VIRGE</Point>
@@ -189,7 +201,6 @@
       <Point>LESKO</Point>
       <Point>MOSSI</Point>
       <Point>UNVAT</Point>
-      <Point>JEDDA</Point>
       <Point>GOMOL</Point>
       <Point>BNA NDB</Point>
       <Point>CFS VOR</Point>
@@ -200,6 +211,7 @@
       <Point>OVENS</Point>
       <Point>VONDO</Point>
       <Point>MASMI</Point>
+      <Point>POSUT</Point>
       <Point>TW VOR</Point>
       <Point>ATVAV</Point>
       <Point>DEJAY</Point>

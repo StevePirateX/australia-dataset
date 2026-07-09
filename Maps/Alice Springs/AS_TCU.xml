@@ -113,43 +113,43 @@
       <Point Name="ROUTE_3">MBST</Point>
     </Label>
     <!--ROUTE_1-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -231208.884+1334539.835/-233504.594+1335248.609/-233643.032+1335253.536/-233808.825+1335209.890/-234144.657+1335307.879/-234750.958+1335312.006
     </Line>
     <!--ROUTE_10-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       KNO/SSG/YBAS
     </Line>
     <!--ROUTE_2-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       MBST/EMY/YBAS
     </Line>
     <!--ROUTE_3-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       MBST/MUO/YBAS
     </Line>
     <!--ROUTE_4-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       STT/OOR/EWI/YBAS
     </Line>
     <!--ROUTE_5-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       DPW/OOR/EWI/YBAS
     </Line>
     <!--ROUTE_6-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       HGR/-241230.845+1332855.348/-240631.889+1333308.071/GWTR/YBAS
     </Line>
     <!--ROUTE_7-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       LWG/GWTR/YBAS
     </Line>
     <!--ROUTE_8-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       OWS/GWTR/YBAS
     </Line>
     <!--ROUTE_9-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       JCK/SSG/YBAS
     </Line>
   </Map>

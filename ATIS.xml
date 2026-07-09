@@ -10,6 +10,7 @@
     <Frequency Airport="YBHM" Frequency="128.35" />
     <Frequency Airport="YBMK" Frequency="128.0" />
     <Frequency Airport="YBOK" Frequency="124.3" />
+    <Frequency Airport="YBNA" Frequency="128.65" />
     <Frequency Airport="YBRK" Frequency="128.5" />
     <Frequency Airport="YBRM" Frequency="128.2" />
     <Frequency Airport="YBSU" Frequency="119.8" />
@@ -40,6 +41,7 @@
     <Frequency Airport="YSRI" Frequency="126.3" />
     <Frequency Airport="YSSY" Frequency="118.55" />
     <Frequency Airport="YSTW" Frequency="123.8" />
+    <Frequency Airport="YSWS" Frequency="127.0" />
     <Frequency Airport="YWLM" Frequency="134.45" />
     <Frequency Airport="YBSG" Frequency="132.25" />
     <Frequency Airport="YCIN" Frequency="134.8" />
@@ -69,6 +71,7 @@
     <Translation String="Cairns" Spoken="kɛrns" Alphabet="IPA" FallbackSpoken="Cans"/>
     <Translation String="YBHM" Spoken="Hamilton Island" />
     <Translation String="YBMK" Spoken="Mackay" />
+    <Translation String="YBNA" Spoken="Ballina" />
     <Translation String="YBOK" Spoken="Oakey" />
     <Translation String="YBRK" Spoken="Rocky" />
     <Translation String="YBRM" Spoken="Broome" />
@@ -105,6 +108,7 @@
     <Translation String="YSRI" Spoken="Richmond" />
     <Translation String="YSSY" Spoken="Sydney" />
     <Translation String="YSTW" Spoken="Tamworth" />
+    <Translation String="YSWS" Spoken="Nancy Bird Walton" />
     <Translation String="YWLM" Spoken="Willy" />
     <Translation String="YMMM" Spoken="Melbourne" />
     <Translation String="YBBB" Spoken="Brisbane" />
@@ -284,6 +288,8 @@
     <Translation String="CLR" Spoken="clearance" />
     <Translation String="RWY" Spoken="runway" />
     <Translation String="RWYS" Spoken="runways" />
+    <Translation String="SY CTA" Spoken="Sydney C T A" />
+    <Translation String="WS CTR" Spoken="Nancy Bird Walton Control Zone" />
 	
     <!--Changes xxx.xxx to xxx decimal xxx for frequencies -->
     <Translation Regex="(\d{3})\.(\d{1,3})" Spoken="$1 decimal $2" />

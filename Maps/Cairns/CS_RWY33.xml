@@ -216,14 +216,14 @@
       <Point>IGMOL</Point>
     </Symbol>
     <!--(CS) RWY33 Airspace-->
-    <Line Name="(CS) RWY33" Width="1.7" Pattern="Dotted">
+    <Line Name="(CS) RWY33" Width="2.7" Pattern="Dotted">
       -172404.000+1455916.000/-165331.090+1454519.410/-165156.940+1454436.850/-164013.000+1453917.000/-162349.572+1452001.845
     </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
       <!--(CS) RWY33 Labels-->
-      <Point Name="APP">-16.484167+146.055833</Point>
-      <Point Name="DEP">-17.101111+145.369444</Point>
-      <Point Name="DEP BCTA">-16.619167+146.167222</Point>
+      <Point Name="CS1">-16.484167+146.055833</Point>
+      <Point Name="CS2">-17.101111+145.369444</Point>
+      <Point Name="CS2 BCTA">-16.619167+146.167222</Point>
     </Label>
   </Map>
   <Map Type="System" Name="CS_RWY33_NAMES" Priority="2" Center="-16.885833+145.755278">

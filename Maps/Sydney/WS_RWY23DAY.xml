@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="WS_RWY23DAY" Priority="1" Center="-33.890833+150.718333">
+    <!--YSWS-->
+    <Runway Name="05/23">
+      <Threshold Name="05" Position="-33.891850+150.695731" />
+      <Threshold Name="23" Position="-33.875036+150.730267" ExtendedCentrelineTrack="59.74" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy23 BENB1D-->
+      -335330.660+1504144.630/
+      NB523/
+      NB524/
+      NB525/
+      NB526/
+      DUBSU/
+      BENBU
+    </Line>
+    <Line>
+      <!--Rwy23 LEKI1D-->
+      -335330.660+1504144.630/
+      -335400.997+1504042.322/
+      -335406.819+1504025.837/
+      -335408.864+1504008.079/
+      -335407.025+1503950.289/
+      -335401.425+1503933.679/
+      -335352.448+1503919.381/
+      -335348.112+1503914.664/
+      MIKOM/
+      NB596/
+      LEKID
+    </Line>
+    <Line>
+      <!--Rwy23 MELI1H-->
+      -335330.660+1504144.630/
+      NB590/
+      UPDID/
+      REGER/
+      MELIT
+    </Line>
+    <Line>
+      <!--Rwy23 MELI1H.LEECE-->
+      MELIT/
+      LEECE
+    </Line>
+    <Line>
+      <!--Rwy23 MELI1H.NWA-->
+      MELIT/
+      NWA NDB
+    </Line>
+    <Line>
+      <!--Rwy23 PKS1D-->
+      NB524/
+      DULAX/
+      NB528/
+      TEEVE/
+      PKS VOR
+    </Line>
+    <Line>
+      <!--Rwy23 REGE1D-->
+    </Line>
+    <Line>
+      <!--Rwy23 REGE1D.EXETA-->
+      REGER/
+      EXETA
+    </Line>
+    <Line>
+      <!--Rwy23 REGE1D.NWA-->
+      REGER/
+      NWA NDB
+    </Line>
+    <Line>
+      <!--Rwy23 REGE1D.WOL-->
+      REGER/
+      WOL NDB
+    </Line>
+    <Line>
+      <!--Rwy23 TEVE1D-->
+    </Line>
+    <Line>
+      <!--Rwy23 TESA1D-->
+      NB524/
+      NB529/
+      NB530/
+      NB531/
+      NB532/
+      KAKNU/
+      IDEKI/
+      TESAT
+    </Line>
+    <Line>
+      <!--Rwy23 TESA1D.CAWLY-->
+      TESAT/
+      CAWLY
+    </Line>
+    <Line>
+      <!--Rwy23 TESA1D.DIPSO-->
+      TESAT/
+      DIPSO
+    </Line>
+    <Line>
+      <!--Rwy23 TESA1D.EVONN-->
+      TESAT/
+      EVONN
+    </Line>
+    <Line>
+      <!--Rwy23 TESA1D.NOBAR-->
+      TESAT/
+      NOBAR
+    </Line>
+    <Line>
+      <!--Rwy23 TESA1D.OLSEM-->
+      TESAT/
+      OLSEM
+    </Line>
+    <Line>
+      <!--Rwy23 TESA1D.OPTIC-->
+      TESAT/
+      OPTIC
+    </Line>
+    <Line>
+      <!--Rwy23 TONT1D-->
+      KAKNU/
+      LAVEB/
+      TONTO
+    </Line>
+    <Line>
+      <!--Rwy23 TONT1D.LEECE-->
+      TONTO/
+      LEECE
+    </Line>
+    <Line>
+      <!--Rwy23 TONT1D.NWA-->
+      TONTO/
+      NWA NDB
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy23 BIKU1A-->
+      BIKUS/
+      DIPPA/
+      TESAT/
+      LURPA/
+      PIDEG/
+      NB603/
+      BAVOB/
+      KIKEL/
+      PIBIX
+    </Line>
+    <Line>
+      <!--Rwy23 REVK1A-->
+      REVKI/
+      GUPKO/
+      MIKOM/
+      BAVOB
+    </Line>
+    <Line>
+      <!--Rwy23 UNTA1A-->
+      UNTAV/
+      NB600/
+      TASIK/
+      DOLPA/
+      ORIXI/
+      PIBIX
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>PIBIX</Point>
+    </Symbol>
+    <Symbol Type="Circle">
+      <Point>NWA NDB</Point>
+      <Point>PKS VOR</Point>
+      <Point>WOL NDB</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>NB523</Point>
+      <Point>NB524</Point>
+      <Point>NB525</Point>
+      <Point>NB526</Point>
+      <Point>DUBSU</Point>
+      <Point>BENBU</Point>
+      <Point>MIKOM</Point>
+      <Point>NB596</Point>
+      <Point>LEKID</Point>
+      <Point>NB590</Point>
+      <Point>UPDID</Point>
+      <Point>REGER</Point>
+      <Point>MELIT</Point>
+      <Point>LEECE</Point>
+      <Point>DULAX</Point>
+      <Point>NB528</Point>
+      <Point>TEEVE</Point>
+      <Point>EXETA</Point>
+      <Point>NB529</Point>
+      <Point>NB530</Point>
+      <Point>NB531</Point>
+      <Point>NB532</Point>
+      <Point>KAKNU</Point>
+      <Point>IDEKI</Point>
+      <Point>TESAT</Point>
+      <Point>CAWLY</Point>
+      <Point>DIPSO</Point>
+      <Point>EVONN</Point>
+      <Point>NOBAR</Point>
+      <Point>OLSEM</Point>
+      <Point>OPTIC</Point>
+      <Point>LAVEB</Point>
+      <Point>TONTO</Point>
+      <Point>BIKUS</Point>
+      <Point>DIPPA</Point>
+      <Point>LURPA</Point>
+      <Point>PIDEG</Point>
+      <Point>NB603</Point>
+      <Point>BAVOB</Point>
+      <Point>KIKEL</Point>
+      <Point>REVKI</Point>
+      <Point>GUPKO</Point>
+      <Point>UNTAV</Point>
+      <Point>NB600</Point>
+      <Point>TASIK</Point>
+      <Point>DOLPA</Point>
+      <Point>ORIXI</Point>
+    </Symbol>
+    <!--(WS) RWY23DAY Airspace-->
+    <Line Name="(WS) RWY23DAY_RICHMOND_APPROACH" Width="2.7" Pattern="Dotted">
+      -331422.000+1505212.000/-333139.000+1505948.000/-333309.000+1510030.000/-333430.712+1510056.130/-333625.298+1510108.457/-333819.927+1510056.706/-334011.113+1510021.208/-334104.000+1505953.000/-334401.000+1505535.000/-334505.000+1505400.000/-334257.000+1503844.000/-334211.000+1503641.000/-334114.000+1503427.000/-333208.000+1502909.000/-332512.000+1502508.000
+    </Line>
+    <Line Name="(WS) RWY23DAY_WALTON_APPROACH" Width="2.7" Pattern="Dotted">
+      -334505.000+1505400.000/-335342.000+1510004.000/-335619.000+1505921.000/-335800.000+1505443.000/-340522.000+1502837.000/-340805.800+1501829.800/-340739.000+1501216.000
+    </Line>
+    <Line Name="(WS) RWY23DAY_WALTON_APPROACH-SAS SHELF" Width="2.7" Pattern="Dotted">
+      -340522.000+1502837.000/-341653.000+1503146.000/-342025.000+1502454.000
+    </Line>
+  </Map>
+  <Map Type="System" Name="WS_RWY23DAY_NAMES" Priority="2" Center="-33.890833+150.718333">
+    <Label>
+      <Point>NB523</Point>
+      <Point>NB524</Point>
+      <Point>NB525</Point>
+      <Point>NB526</Point>
+      <Point>DUBSU</Point>
+      <Point>BENBU</Point>
+      <Point>MIKOM</Point>
+      <Point>NB596</Point>
+      <Point>LEKID</Point>
+      <Point>NB590</Point>
+      <Point>UPDID</Point>
+      <Point>REGER</Point>
+      <Point>MELIT</Point>
+      <Point>LEECE</Point>
+      <Point>NWA NDB</Point>
+      <Point>DULAX</Point>
+      <Point>NB528</Point>
+      <Point>TEEVE</Point>
+      <Point>PKS VOR</Point>
+      <Point>EXETA</Point>
+      <Point>WOL NDB</Point>
+      <Point>NB529</Point>
+      <Point>NB530</Point>
+      <Point>NB531</Point>
+      <Point>NB532</Point>
+      <Point>KAKNU</Point>
+      <Point>IDEKI</Point>
+      <Point>TESAT</Point>
+      <Point>CAWLY</Point>
+      <Point>DIPSO</Point>
+      <Point>EVONN</Point>
+      <Point>NOBAR</Point>
+      <Point>OLSEM</Point>
+      <Point>OPTIC</Point>
+      <Point>LAVEB</Point>
+      <Point>TONTO</Point>
+      <Point>BIKUS</Point>
+      <Point>DIPPA</Point>
+      <Point>LURPA</Point>
+      <Point>PIDEG</Point>
+      <Point>NB603</Point>
+      <Point>BAVOB</Point>
+      <Point>KIKEL</Point>
+      <Point>PIBIX</Point>
+      <Point>REVKI</Point>
+      <Point>GUPKO</Point>
+      <Point>UNTAV</Point>
+      <Point>NB600</Point>
+      <Point>TASIK</Point>
+      <Point>DOLPA</Point>
+      <Point>ORIXI</Point>
+      <Point>KADOM</Point>
+      <Point>ABARB</Point>
+      <Point>GUTIV</Point>
+      <Point>INVUS</Point>
+      <Point>ATNAT</Point>
+      <Point>SOTKI</Point>
+      <Point>CB VOR</Point>
+      <Point>OLTIN</Point>
+      <Point>KARDI</Point>
+      <Point>MONDO</Point>
+      <Point>LOWEP</Point>
+      <Point>YAKKA</Point>
+      <Point>MEPIL</Point>
+      <Point>UPNEX</Point>
+      <Point>EKIPU</Point>
+      <Point>WLM NDB</Point>
+      <Point>BANDA</Point>
+      <Point>KAPSA</Point>
+      <Point>RUSUM</Point>
+      <Point>SHABY</Point>
+      <Point>EMROT</Point>
+      <Point>MUDGI</Point>
+      <Point>UNSAR</Point>
+      <Point>LASUD</Point>
+      <Point>IDGIG</Point>
+      <Point>IPGOK</Point>
+      <Point>GEROS</Point>
+      <Point>PLUGA</Point>
+      <Point>AKALU</Point>
+      <Point>NONID</Point>
+      <Point>SAPOX</Point>
+      <Point>RIKNI</Point>
+      <Point>MARLN</Point>
+      <Point>POSUT</Point>
+      <Point>EKABO</Point>
+      <Point>TIABB</Point>
+      <Point>LATAB</Point>
+      <Point>DAGVA</Point>
+      <Point>UKDUL</Point>
+      <Point>KAMBA</Point>
+      <Point>TOOKI</Point>
+      <Point>OVLUX</Point>
+      <Point>LATUT</Point>
+      <Point>CFS VOR</Point>
+      <Point>PEGSU</Point>
+      <Point>BUNGO</Point>
+      <Point>DUBUS</Point>
+      <Point>MAKOR</Point>
+      <Point>BTH NDB</Point>
+      <Point>NIXIM</Point>
+      <Point>RUPOG</Point>
+      <Point>TW VOR</Point>
+      <Point>ADMOD</Point>
+      <Point>IRPIR</Point>
+      <Point>IVTON</Point>
+      <Point>DABOG</Point>
+      <Point>BOREE</Point>
+      <Point>GUVBO</Point>
+      <Point>OMDOG</Point>
+      <Point>ENVOL</Point>
+      <Point>RUPEM</Point>
+      <Point>TOROB</Point>
+      <Point>EBONY</Point>
+      <Point>ARRAN</Point>
+      <Point>NONUP</Point>
+      <Point>CULIN</Point>
+      <Point>TARAL</Point>
+      <Point>ENLAD</Point>
+      <Point>RIVET</Point>
+      <Point>TONIM</Point>
+      <Point>ATIRU</Point>
+      <Point>GORPU</Point>
+      <Point>WELSH</Point>
+      <Point>DAMID</Point>
+    </Label>
+  </Map>
+</Maps>

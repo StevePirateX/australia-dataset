@@ -8,7 +8,28 @@
     </Runway>
     <!--SIDs-->
     <Line>
-      <!--Rwy16R GROOK1-->
+      <!--Rwy16R ANKUB1-->
+      ANKUB/
+      IKORO/
+      NB523/
+      NB524
+    </Line>
+    <Line>
+      <!--Rwy16R ANKUB1.BENBU-->
+      NB524/
+      NB525/
+      NB526/
+      DUBSU/
+      BENBU
+    </Line>
+    <Line>
+      <!--Rwy16R ANKUB1.KADOM-->
+      NB524/
+      NB540/
+      KADOM
+    </Line>
+    <Line>
+      <!--Rwy16R GROOK2-->
       -335751.350+1511050.330/
       -335759.243+1511051.980/
       DUNES/
@@ -16,7 +37,7 @@
       GROOK
     </Line>
     <Line>
-      <!--Rwy16R GROOK1.KADOM-->
+      <!--Rwy16R GROOK2.KADOM-->
       GROOK/
       OLVAG/
       GUSPU/
@@ -25,22 +46,32 @@
       KADOM
     </Line>
     <Line>
-      <!--Rwy16R GROOK1.RIC-->
+      <!--Rwy16R GROOK2.STUIE-->
       ANKUB/
       UPMAR/
-      RIC NDB
+      STUIE
     </Line>
     <Line>
-      <!--Rwy16R GROOK1.WOL-->
+      <!--Rwy16R GROOK2.WOL-->
       OLVAG/
       ISBEX/
       WOL NDB
     </Line>
     <!--STARs-->
     <Line>
-      <!--Rwy34L BORE4A-->
+      <!--Rwy34L AKMIR1-->
+      AKMIR/
+      UDODU/
+      MUBDI/
+      MITSA/
+      GURSI/
+      ANKUB
+    </Line>
+    <Line>
+      <!--Rwy34L BORE5A-->
       BOREE/
       VASRA/
+      KAFRI/
       BEROW/
       OVILS/
       JENTL/
@@ -49,7 +80,7 @@
       NASHO
     </Line>
     <Line>
-      <!--Rwy34L MARLN5-->
+      <!--Rwy34L MARLN6-->
       MARLN/
       BIKUS/
       WHALE/
@@ -57,31 +88,25 @@
       TESAT
     </Line>
     <Line>
-      <!--Rwy34L MEPIL3.SANAD-->
+      <!--Rwy34L MEPIL4.SANAD-->
       SANAD/
       OLTIN/
       YAKKA/
       MEPIL
     </Line>
     <Line>
-      <!--Rwy34L MEPIL3-->
+      <!--Rwy34L MEPIL4-->
       MEPIL/
       LANOL/
       TESAT
     </Line>
     <Line>
-      <!--Rwy34L ODALE7-->
-      ODALE/
-      KABLO/
-      MITSA/
-      ANKUB/
-      TESAT
-    </Line>
-    <Line>
-      <!--Rwy34L RIVET4-->
+      <!--Rwy34L RIVET5-->
       RIVET/
+      POMEL/
       BIGEM/
       TAMMI/
+      TAXAT/
       BOOGI/
       DUDOK
     </Line>
@@ -89,25 +114,39 @@
       <Point>SOSIJ</Point>
     </Symbol>
     <Symbol Type="SolidStar">
-      <Point>GROOK</Point>
-      <Point>KADOM</Point>
       <Point>NASHO</Point>
     </Symbol>
     <Symbol Type="Circle">
-      <Point>RIC NDB</Point>
       <Point>WOL NDB</Point>
     </Symbol>
     <Symbol Type="HollowStar">
+      <Point>ANKUB</Point>
+      <Point>IKORO</Point>
+      <Point>NB523</Point>
+      <Point>NB524</Point>
+      <Point>NB525</Point>
+      <Point>NB526</Point>
+      <Point>DUBSU</Point>
+      <Point>BENBU</Point>
+      <Point>NB540</Point>
+      <Point>KADOM</Point>
       <Point>DUNES</Point>
       <Point>DEENA</Point>
+      <Point>GROOK</Point>
       <Point>OLVAG</Point>
       <Point>GUSPU</Point>
       <Point>EGOPO</Point>
-      <Point>ANKUB</Point>
       <Point>UPMAR</Point>
+      <Point>STUIE</Point>
       <Point>ISBEX</Point>
+      <Point>AKMIR</Point>
+      <Point>UDODU</Point>
+      <Point>MUBDI</Point>
+      <Point>MITSA</Point>
+      <Point>GURSI</Point>
       <Point>BOREE</Point>
       <Point>VASRA</Point>
+      <Point>KAFRI</Point>
       <Point>BEROW</Point>
       <Point>OVILS</Point>
       <Point>JENTL</Point>
@@ -123,31 +162,44 @@
       <Point>SANAD</Point>
       <Point>OLTIN</Point>
       <Point>YAKKA</Point>
-      <Point>ODALE</Point>
-      <Point>KABLO</Point>
-      <Point>MITSA</Point>
       <Point>RIVET</Point>
+      <Point>POMEL</Point>
       <Point>BIGEM</Point>
       <Point>TAMMI</Point>
+      <Point>TAXAT</Point>
       <Point>BOOGI</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="SY_RWYCURFEW_NAMES" Priority="2" Center="-33.946111+151.177222">
     <Label>
+      <Point>ANKUB</Point>
+      <Point>IKORO</Point>
+      <Point>NB523</Point>
+      <Point>NB524</Point>
+      <Point>NB525</Point>
+      <Point>NB526</Point>
+      <Point>DUBSU</Point>
+      <Point>BENBU</Point>
+      <Point>NB540</Point>
+      <Point>KADOM</Point>
       <Point>DUNES</Point>
       <Point>DEENA</Point>
       <Point>GROOK</Point>
       <Point>OLVAG</Point>
       <Point>GUSPU</Point>
       <Point>EGOPO</Point>
-      <Point>ANKUB</Point>
-      <Point>KADOM</Point>
       <Point>UPMAR</Point>
-      <Point>RIC NDB</Point>
+      <Point>STUIE</Point>
       <Point>ISBEX</Point>
       <Point>WOL NDB</Point>
+      <Point>AKMIR</Point>
+      <Point>UDODU</Point>
+      <Point>MUBDI</Point>
+      <Point>MITSA</Point>
+      <Point>GURSI</Point>
       <Point>BOREE</Point>
       <Point>VASRA</Point>
+      <Point>KAFRI</Point>
       <Point>BEROW</Point>
       <Point>OVILS</Point>
       <Point>JENTL</Point>
@@ -164,12 +216,11 @@
       <Point>YAKKA</Point>
       <Point>MEPIL</Point>
       <Point>LANOL</Point>
-      <Point>ODALE</Point>
-      <Point>KABLO</Point>
-      <Point>MITSA</Point>
       <Point>RIVET</Point>
+      <Point>POMEL</Point>
       <Point>BIGEM</Point>
       <Point>TAMMI</Point>
+      <Point>TAXAT</Point>
       <Point>BOOGI</Point>
       <Point>PKS VOR</Point>
       <Point>NOBAR</Point>
@@ -181,10 +232,7 @@
       <Point>SOTKI</Point>
       <Point>LEECE</Point>
       <Point>CB VOR</Point>
-      <Point>LOKYA</Point>
-      <Point>EMSUR</Point>
-      <Point>AVBID</Point>
-      <Point>UPVEN</Point>
+      <Point>KARDI</Point>
       <Point>MONDO</Point>
       <Point>LOWEP</Point>
       <Point>OLSEM</Point>
@@ -192,18 +240,15 @@
       <Point>EKIPU</Point>
       <Point>WLM NDB</Point>
       <Point>BANDA</Point>
-      <Point>BOYSY</Point>
-      <Point>IDSUP</Point>
+      <Point>KAPSA</Point>
+      <Point>RUSUM</Point>
+      <Point>SHABY</Point>
       <Point>EMROT</Point>
       <Point>MUDGI</Point>
       <Point>UNSAR</Point>
       <Point>LASUD</Point>
       <Point>IDGIG</Point>
       <Point>IPGOK</Point>
-      <Point>IDOGI</Point>
-      <Point>LALIB</Point>
-      <Point>IGDAM</Point>
-      <Point>SADLO</Point>
       <Point>EVONN</Point>
       <Point>GEROS</Point>
       <Point>PLUGA</Point>
@@ -212,9 +257,14 @@
       <Point>NONID</Point>
       <Point>SAPOX</Point>
       <Point>RIKNI</Point>
-      <Point>UBLOM</Point>
-      <Point>ISREV</Point>
-      <Point>DUUKE</Point>
+      <Point>TEEVE</Point>
+      <Point>POSUT</Point>
+      <Point>EKABO</Point>
+      <Point>TIABB</Point>
+      <Point>LATAB</Point>
+      <Point>DAGVA</Point>
+      <Point>UKDUL</Point>
+      <Point>UNTAV</Point>
       <Point>KAMBA</Point>
       <Point>TOOKI</Point>
       <Point>OVLUX</Point>
@@ -224,25 +274,33 @@
       <Point>EXETA</Point>
       <Point>BUNGO</Point>
       <Point>DUBUS</Point>
-      <Point>SOFAL</Point>
-      <Point>DU NDB</Point>
-      <Point>ENPAG</Point>
-      <Point>RUTOS</Point>
-      <Point>SCATZ</Point>
-      <Point>ANBAN</Point>
       <Point>MAKOR</Point>
-      <Point>WG VOR</Point>
-      <Point>HAPPI</Point>
-      <Point>AKMIR</Point>
-      <Point>WELSH</Point>
       <Point>BTH NDB</Point>
+      <Point>NIXIM</Point>
+      <Point>RUPOG</Point>
+      <Point>TW VOR</Point>
+      <Point>ADMOD</Point>
+      <Point>IRPIR</Point>
+      <Point>IVTON</Point>
+      <Point>DABOG</Point>
+      <Point>GUVBO</Point>
+      <Point>OMDOG</Point>
+      <Point>ENVOL</Point>
+      <Point>RUPEM</Point>
+      <Point>TOROB</Point>
+      <Point>REVKI</Point>
       <Point>EBONY</Point>
       <Point>ARRAN</Point>
       <Point>NONUP</Point>
       <Point>CULIN</Point>
       <Point>TARAL</Point>
+      <Point>ENLAD</Point>
       <Point>OPTIC</Point>
       <Point>TONIM</Point>
+      <Point>ATIRU</Point>
+      <Point>GORPU</Point>
+      <Point>WELSH</Point>
+      <Point>DAMID</Point>
       <Point>SOSIJ</Point>
     </Label>
   </Map>

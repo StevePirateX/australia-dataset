@@ -43,41 +43,47 @@
         </Label>
         <!-- Darwin -->
         <Symbol Type="SolidTriangle">
-          <Point>-1246.900+13107.500</Point>
-          <Point>-1250.000+13059.200</Point>
-          <Point>-1250.400+13052.600</Point>
-          <Point>-1249.300+13046.500</Point>
-          <Point>-1247.300+13042.000</Point>
-          <Point>-1244.300+13037.600</Point>
-          <Point>-1240.100+13033.700</Point>
+          <Point>-1259.380+13116.210</Point>
+          <Point>-1304.600+13103.300</Point>
+          <Point>-1305.380+13050.440</Point>
+          <Point>-1300.270+13034.060</Point>
+          <Point>-1250.550+13022.480</Point>
           <Point>-1232.300+13029.800</Point>
           <Point>-1225.800+13028.800</Point>
-          <Point>-1217.200+13030.200</Point>
+          <Point>-1220.130+13029.400</Point>
           <Point>-1200.300+13055.300</Point>
           <Point>-1202.400+13104.700</Point>
           <Point>-1205.300+13109.700</Point>
           <Point>-1212.400+13116.300</Point>
           <Point>-1218.000+13118.800</Point>
+          <Point>-1145.280+13056.700</Point>
+          <Point>-1147.900+13109.050</Point>
+          <Point>-1153.760+13119.560</Point>
+          <Point>-1203.150+13128.400</Point>
+          <Point>-1214.090+13133.590</Point>
           <Point>-1149.000+13112.000</Point> <!-- WIZZOS -->
           <Point>-1153.000+13119.000</Point> <!-- MONNIES -->
           <Point>-1205.000+13130.000</Point> <!-- SHAGS -->
         </Symbol>
         <Label HasLeader="True" LabelOrientation="NE">
-          <Point Name="1">-1246.900+13107.500</Point>
-          <Point Name="2">-1250.000+13059.200</Point>
-          <Point Name="3">-1250.400+13052.600</Point>
-          <Point Name="4">-1249.300+13046.500</Point>
-          <Point Name="5">-1247.300+13042.000</Point>
-          <Point Name="6">-1244.300+13037.600</Point>
-          <Point Name="7">-1240.100+13033.700</Point>
-          <Point Name="8">-1232.300+13029.800</Point>
-          <Point Name="9">-1225.800+13028.800</Point>
-          <Point Name="10">-1217.200+13030.200</Point>
-          <Point Name="A">-1200.300+13055.300</Point>
-          <Point Name="B">-1202.400+13104.700</Point>
-          <Point Name="C">-1205.300+13109.700</Point>
-          <Point Name="D">-1212.400+13116.300</Point>
-          <Point Name="E">-1218.000+13118.800</Point>
+          <Point Name="1">-1259.380+13116.210</Point>
+          <Point Name="2">-1304.600+13103.300</Point>
+          <Point Name="3">-1305.380+13050.440</Point>
+          <Point Name="4">-1300.270+13034.060</Point>
+          <Point Name="5">-1250.550+13022.480</Point>
+          <Point Name="6">-1232.300+13029.800</Point>
+          <Point Name="7">-1225.800+13028.800</Point>
+          <Point Name="8">-1220.130+13029.400</Point>
+          <Point Name="A-25">-1200.300+13055.300</Point>
+          <Point Name="B-25">-1202.400+13104.700</Point>
+          <Point Name="C-25">-1205.300+13109.700</Point>
+          <Point Name="D-25">-1212.400+13116.300</Point>
+          <Point Name="E-25">-1218.000+13118.800</Point>
+          <Point Name="A-40">-1145.280+13056.700</Point>
+          <Point Name="B-40">-1147.900+13109.050</Point>
+          <Point Name="C-40">-1153.760+13119.560</Point>
+          <Point Name="D-40">-1203.150+13128.400</Point>
+          <Point Name="E-40">-1214.090+13133.590</Point>
           <Point Name="WIZZOS">-1149.000+13112.000</Point>
           <Point Name="MONNIES">-1153.000+13119.000</Point>
           <Point Name="SHAGS">-1205.000+13130.000</Point>

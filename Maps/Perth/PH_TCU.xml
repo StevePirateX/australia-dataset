@@ -211,39 +211,39 @@
       <Point Name="VICTOR_66">TLMI</Point>
     </Label>
     <!--IN_BOATYARD-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       BOAT/ADWD
     </Line>
     <!--IN_OAKFORD-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       OAKF/FDL
     </Line>
     <!--IN_POWER_HOUSE-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       POWR/ADWD/-320543.000+1154920.000
     </Line>
     <!--IN_RUSSLE-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       RUSS/FDL/-320820.000+1155449.000
     </Line>
     <!--OUT_FREM-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -320413.321+1155056.525/FREM
     </Line>
     <!--OUT_SHOPS-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       -320641.000+1155614.000/SHOP
     </Line>
     <!--OUT_YANGEBUP-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       YGB/TOML
     </Line>
     <!--VICTOR_65-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       CTE/-315805.336+1155235.328/-315758.225+1155251.595/-315745.152+1155301.475/-315729.640+1155302.325/-315715.845+1155253.921/-315707.463+1155238.513/-315706.833+1155235.712/HKE
     </Line>
     <!--VICTOR_66-->
-    <Line Pattern="Dotted">
+    <Line Width="1.0" Pattern="Dotted">
       TLMI/HRR/CDM
     </Line>
   </Map>

@@ -112,22 +112,22 @@
       <Point>AGTEV</Point>
     </Symbol>
     <!--(ML) RWY09 Airspace-->
-    <Line Name="(ML) RWY09_MDN_1" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY09_MDN_1" Width="2.7" Pattern="Dotted">
       -373911.450+1445005.690/-372912.000+1444810.000/-372802.000+1445629.000/-372806.000+1450018.000/-372813.000+1450944.000/-372825.000+1452534.000
     </Line>
-    <Line Name="(ML) RWY09_MDS_1" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY09_MDS_1" Width="2.7" Pattern="Dotted">
       -373718.000+1441245.000/-373938.700+1444920.110
     </Line>
-    <Line Name="(ML) RWY09_MDS_2" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY09_MDS_2" Width="2.7" Pattern="Dotted">
       -373944.120+1445053.130/-374054.000+1451137.000/-373247.700+1452717.900
     </Line>
-    <Line Name="(ML) RWY09_MAE_ARBEY-R" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY09_MAE_ARBEY-R" Width="2.7" Pattern="Dotted">
       -370949.000+1444728.000/-371944.000+1444844.000
     </Line>
-    <Line Name="(ML) RWY09_MAE_ARBEY-L" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY09_MAE_ARBEY-L" Width="2.7" Pattern="Dotted">
       -372010.298+1444416.106/-371044.822+1444033.511
     </Line>
-    <Line Name="(ML) RWY09_MAE-BOO-BOY" Width="1.7" Pattern="Dotted">
+    <Line Name="(ML) RWY09_MAE-BOO-BOY" Width="2.7" Pattern="Dotted">
       -372029.000+1451938.000/-372139.000+1451348.000/-372228.000+1450947.000/-372808.000+1450325.000
     </Line>
     <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
