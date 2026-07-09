@@ -71,8 +71,8 @@ jobs:
       id: update-custom-profile
       if: steps.is_current.outputs.exists == 'false'
       run: |
-        git checkout origin/custom-setup -- apply_custom_changes.py Colours-Custom.xml README.md ./WorldMagneticModel
         git merge --no-commit master --strategy=ort --strategy-option=theirs
+        git checkout origin/custom-setup -- apply_custom_changes.py Colours-Custom.xml README.md ./WorldMagneticModel
 
     - name: Process python file
       id: process-python-file
