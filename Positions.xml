@@ -290,14 +290,14 @@
         <Map Name="Launceston/ASMGCS_YMLT_BLD" />
       </Maps>
     </Position>
-    <Position Name="YBNA" Type="ASMGCS" ASMGCSAirport="YBNA" DefaultCenter="-285004.000+1533343.000" DefaultRange="1" MagneticVariation="-11.7" Rotation="28.3">
-    <Maps>
-      <Map Name="Gold Coast/ASMGCS_YBNA_RWY" />
-      <Map Name="Gold Coast/ASMGCS_YBNA_APR" />
-      <Map Name="Gold Coast/ASMGCS_YBNA_TWY" />
-      <Map Name="Gold Coast/ASMGCS_YBNA_BLD" />
-    </Maps>
-  </Position>
+    <Position Name="YBNA" Type="ASMGCS" ASMGCSAirport="YBNA" DefaultCenter="-285004.000+1533343.000" DefaultRange="1" MagneticVariation="-11.7" Rotation="28">
+      <Maps>
+        <Map Name="Gold Coast/ASMGCS_YBNA_RWY" />
+        <Map Name="Gold Coast/ASMGCS_YBNA_APR" />
+        <Map Name="Gold Coast/ASMGCS_YBNA_TWY" />
+        <Map Name="Gold Coast/ASMGCS_YBNA_BLD" />
+      </Maps>
+    </Position>
   </Group>
   <Group Name="Procedural">
     <Position Name="YMAY" Type="ASMGCS" ASMGCSAirport="YMAY" DefaultCenter="-36.069444+146.960000" DefaultRange="1" MagneticVariation="-11.9" Rotation="21">
