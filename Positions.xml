@@ -63,14 +63,14 @@
       <Map Name="Sydney/ASMGCS_YSRI_TWY" />
       <Map Name="Sydney/ASMGCS_YSRI_BLD" />
     </Maps>
-    <Position Name="YSWS" Type="ASMGCS" ASMGCSAirport="YSWS" DefaultCenter="-335318.000+1504241.654" DefaultRange="3" MagneticVariation="-12.6" Rotation="42.8">
+  </Position>
+  <Position Name="YSWS" Type="ASMGCS" ASMGCSAirport="YSWS" DefaultCenter="-335318.000+1504241.654" DefaultRange="3" MagneticVariation="-12.6" Rotation="42.8">
     <Maps>
       <Map Name="Sydney/ASMGCS_YSWS_RWY" />
       <Map Name="Sydney/ASMGCS_YSWS_APR" />
       <Map Name="Sydney/ASMGCS_YSWS_TWY" />
       <Map Name="Sydney/ASMGCS_YSWS_BLD" />
     </Maps>
-  </Position>
   </Position>
   <Position Name="YBBN" Type="ASMGCS" ASMGCSAirport="YBBN" DefaultCenter="-27.3942+153.1218" DefaultRange="5" MagneticVariation="-11" Rotation="-15">
     <Maps>
