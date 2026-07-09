@@ -204,6 +204,8 @@
       <Aerodrome>YPPF</Aerodrome>
       <Aerodrome>YBRK</Aerodrome>
       <Aerodrome>YMMB</Aerodrome>
+	  <Aerodrome>YBNA</Aerodrome>
+
     </AerodromeList>
     <AerodromeList Type="Proc">
       <Aerodrome>YMAY</Aerodrome>
