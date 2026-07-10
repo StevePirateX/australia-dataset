@@ -850,6 +850,7 @@
                 <Type>BAY_COORDINATOR</Type>
             </Bay>
             <Bay Name="Taxi">
+                <Type>BAY_PUSHED</Type>
                 <Type>BAY_TAXI</Type>
             </Bay>
             <Bay Name="Holding Point">
