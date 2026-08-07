@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Positions>
-  <Position Name="YPAD" Type="ASMGCS" ASMGCSAirport="YPAD" DefaultCenter="-34.945000+138.526389" DefaultRange="2" MagneticVariation="-8.09" Rotation="0">
+  <Position Name="YPAD" Type="ASMGCS" ASMGCSAirport="YPAD" DefaultCenter="-34.945000+138.526389" DefaultRange="2" MagneticVariation="-8.1" Rotation="0">
     <Maps>
       <Map Name="Adelaide/ASMGCS_YPAD_RWY" />
       <Map Name="Adelaide/ASMGCS_YPAD_TWY" />
@@ -48,7 +48,7 @@
       <Map Name="Melbourne/ASMGCS_YMML_APR" />
     </Maps>
   </Position>
-  <Position Name="YSSY" Type="ASMGCS" ASMGCSAirport="YSSY" DefaultCenter="-33.950833+151.179722" DefaultRange="3" MagneticVariation="-12.84" Rotation="0">
+  <Position Name="YSSY" Type="ASMGCS" ASMGCSAirport="YSSY" DefaultCenter="-33.950833+151.179722" DefaultRange="3" MagneticVariation="-12.85" Rotation="0">
     <Maps>
       <Map Name="Sydney/ASMGCS_YSSY_RWY" />
       <Map Name="Sydney/ASMGCS_YSSY_TWY" />
@@ -120,7 +120,7 @@
       <Map Name="Cairns/ASMGCS_YBCS_BLD" />
     </Maps>
   </Position>
-  <Position Name="YBTL" Type="ASMGCS" ASMGCSAirport="YBTL" DefaultCenter="-19.248889+146.765833" DefaultRange="2" MagneticVariation="-7.23" Rotation="0">
+  <Position Name="YBTL" Type="ASMGCS" ASMGCSAirport="YBTL" DefaultCenter="-19.248889+146.765833" DefaultRange="2" MagneticVariation="-7.22" Rotation="0">
     <Maps>
       <Map Name="Townsville/ASMGCS_YBTL_RWY" />
       <Map Name="Townsville/ASMGCS_YBTL_TWY" />
@@ -144,7 +144,7 @@
       <Map Name="Darwin/ASMGCS_YPDN_BLD" />
     </Maps>
   </Position>
-  <Position Name="YWLM" Type="ASMGCS" ASMGCSAirport="YWLM" DefaultCenter="-32.793611+151.836667" DefaultRange="2" MagneticVariation="-12.6" Rotation="0">
+  <Position Name="YWLM" Type="ASMGCS" ASMGCSAirport="YWLM" DefaultCenter="-32.793611+151.836667" DefaultRange="2" MagneticVariation="-12.61" Rotation="0">
     <Maps>
       <Map Name="Williamtown/ASMGCS_YWLM_RWY" />
       <Map Name="Williamtown/ASMGCS_YWLM_APR" />
@@ -176,7 +176,7 @@
       <Map Name="Pearce/ASMGCS_YGIG_BLD" />
     </Maps>
   </Position>
-  <Position Name="YBSG" Type="ASMGCS" ASMGCSAirport="YBSG" DefaultCenter="-123733.000+1420511.000" DefaultRange="3" MagneticVariation="-4.78" Rotation="0">
+  <Position Name="YBSG" Type="ASMGCS" ASMGCSAirport="YBSG" DefaultCenter="-123733.000+1420511.000" DefaultRange="3" MagneticVariation="-4.77" Rotation="0">
     <Maps>
       <Map Name="Scherger/ASMGCS_YBSG_RWY" />
       <Map Name="Scherger/ASMGCS_YBSG_APR" />
@@ -209,7 +209,7 @@
         <Map Name="Brisbane/ASMGCS_YBAF_BLD" />
       </Maps>
     </Position>
-    <Position Name="YMAV" Type="ASMGCS" ASMGCSAirport="YMAV" DefaultCenter="-38.038056+144.474722" DefaultRange="3" MagneticVariation="-11.81" Rotation="0">
+    <Position Name="YMAV" Type="ASMGCS" ASMGCSAirport="YMAV" DefaultCenter="-38.038056+144.474722" DefaultRange="3" MagneticVariation="-11.82" Rotation="0">
       <Maps>
         <Map Name="Melbourne/ASMGCS_YMAV_RWY" />
         <Map Name="Melbourne/ASMGCS_YMAV_APR" />
@@ -217,7 +217,7 @@
         <Map Name="Melbourne/ASMGCS_YMAV_BLD" />
       </Maps>
     </Position>
-    <Position Name="YMMB" Type="ASMGCS" ASMGCSAirport="YMMB" DefaultCenter="-37.977778+145.096944" DefaultRange="1" MagneticVariation="-12.07" Rotation="0">
+    <Position Name="YMMB" Type="ASMGCS" ASMGCSAirport="YMMB" DefaultCenter="-37.977778+145.096944" DefaultRange="1" MagneticVariation="-12.08" Rotation="0">
       <Maps>
         <Map Name="Melbourne/ASMGCS_YMMB_RWY" />
         <Map Name="Melbourne/ASMGCS_YMMB_APR" />
@@ -249,7 +249,7 @@
         <Map Name="Sydney/ASMGCS_YSBK_BLD" />
       </Maps>
     </Position>
-    <Position Name="YSCN" Type="ASMGCS" ASMGCSAirport="YSCN" DefaultCenter="-34.041111+150.687778" DefaultRange="1" MagneticVariation="-12.7" Rotation="0">
+    <Position Name="YSCN" Type="ASMGCS" ASMGCSAirport="YSCN" DefaultCenter="-34.041111+150.687778" DefaultRange="1" MagneticVariation="-12.71" Rotation="0">
       <Maps>
         <Map Name="Sydney/ASMGCS_YSCN_RWY" />
         <Map Name="Sydney/ASMGCS_YSCN_APR" />
@@ -273,7 +273,7 @@
         <Map Name="Rockhampton/ASMGCS_YBRK_BLD" />
       </Maps>
     </Position>
-    <Position Name="YMHB" Type="ASMGCS" ASMGCSAirport="YMHB" DefaultCenter="-42.838889+147.510278" DefaultRange="2" MagneticVariation="-15.69" Rotation="0">
+    <Position Name="YMHB" Type="ASMGCS" ASMGCSAirport="YMHB" DefaultCenter="-42.838889+147.510278" DefaultRange="2" MagneticVariation="-15.7" Rotation="0">
       <Maps>
         <Map Name="Hobart/ASMGCS_YMHB_RWY" />
         <Map Name="Hobart/ASMGCS_YMHB_APR" />
@@ -308,7 +308,7 @@
         <Map Name="Albury/ASMGCS_YMAY_BLD" />
       </Maps>
     </Position>
-    <Position Name="YBAS" Type="ASMGCS" ASMGCSAirport="YBAS" DefaultCenter="-23.805833+133.898056" DefaultRange="2" MagneticVariation="-4.37" Rotation="0">
+    <Position Name="YBAS" Type="ASMGCS" ASMGCSAirport="YBAS" DefaultCenter="-23.805833+133.898056" DefaultRange="2" MagneticVariation="-4.36" Rotation="0">
       <Maps>
         <Map Name="Alice Springs/ASMGCS_YBAS_RWY" />
         <Map Name="Alice Springs/ASMGCS_YBAS_APR" />
@@ -558,7 +558,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Huon" Type="ASD" DefaultCenter="-40.859861+146.245167" DefaultRange="730" VisibilityRange="600" MagneticVariation="-13.95" Rotation="0">
+    <Position Name="Huon" Type="ASD" DefaultCenter="-40.859861+146.245167" DefaultRange="730" VisibilityRange="600" MagneticVariation="-13.96" Rotation="0">
       <Sectors>
         <Sector Name="HUO" />
         <Sector Name="WON" />
@@ -951,7 +951,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Territory" Type="ASD" DefaultCenter="-1600.000+12700.000" DefaultRange="2000" VisibilityRange="600" MagneticVariation="-1.96" Rotation="0">
+    <Position Name="Territory" Type="ASD" DefaultCenter="-1600.000+12700.000" DefaultRange="2000" VisibilityRange="600" MagneticVariation="-1.95" Rotation="0">
       <Sectors>
         <Sector Name="TRT" />
         <Sector Name="ASH" />
@@ -1095,7 +1095,7 @@
     </Position>
   </Group>
   <Group Name="TCU">
-    <Position Name="Adelaide TCU" Type="ASD" DefaultCenter="-34.947+138.525" DefaultRange="200" VisibilityRange="100" MagneticVariation="-8.09" Rotation="0">
+    <Position Name="Adelaide TCU" Type="ASD" DefaultCenter="-34.947+138.525" DefaultRange="200" VisibilityRange="100" MagneticVariation="-8.1" Rotation="0">
       <Sectors>
         <Sector Name="AAE" />
         <Sector Name="AAW" />
@@ -1137,7 +1137,7 @@
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
-      <ControllerInfo Callsign="AD-R_DEP">
+      <ControllerInfo Callsign="AD-R_APP">
         <Line>Adelaide Centre | Class G services</Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
@@ -1205,7 +1205,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Melbourne TCU" Type="ASD" DefaultCenter="-3740.4+14450.6" DefaultRange="150" VisibilityRange="100" MagneticVariation="-11.83" Rotation="0">
+    <Position Name="Melbourne TCU" Type="ASD" DefaultCenter="-3740.4+14450.6" DefaultRange="150" VisibilityRange="100" MagneticVariation="-11.84" Rotation="0">
       <Sectors>
         <Sector Name="MAE" />
         <Sector Name="MDN" />
@@ -1256,7 +1256,7 @@
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
-      <ControllerInfo Callsign="ML-R_DEP">
+      <ControllerInfo Callsign="ML-R_APP">
         <Line>Melbourne Centre | Class G services</Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
@@ -1420,7 +1420,7 @@
         <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
-      <ControllerInfo Callsign="SY-R_DEP">
+      <ControllerInfo Callsign="SY-R_APP">
         <Line>Sydney Centre | Class G services</Line>
         <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
         <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
@@ -1504,7 +1504,7 @@
         <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
-	  <ControllerInfo Callsign="BN-R_DEP">
+	  <ControllerInfo Callsign="BN-R_APP">
         <Line>Brisbane (Radar) Centre | Class G services </Line>
         <Line>Airspace and Charts - vats.im/pac/tools | Pilot Procs - vats.im/pac/pilot</Line>
         <Line>** New AIRAC Procedures in Place - Ensure Current Data **</Line>
@@ -1514,7 +1514,7 @@
 	<Position Name="Gold Coast TCU" Type="ASD" DefaultCenter="-282819.000+1533029.000" DefaultRange="250" VisibilityRange="100" MagneticVariation="-11.56" Rotation="0">
       <Sectors>
         <Sector Name="BAC" />
-        <Sector Name="BAA" />
+        <Sector Name="BAB" />
       </Sectors>
       <ManualVisibility>
         <Point>-27.3942+153.1218</Point>
@@ -1559,7 +1559,7 @@
     </Position>
     <Position Name="Ballina TCU" Type="ASD" DefaultCenter="-285727.000+1532617.000" DefaultRange="145" VisibilityRange="100" MagneticVariation="-11.7" Rotation="0">
       <Sectors>
-        <Sector Name="BAA" />
+        <Sector Name="BAB" />
       </Sectors>
       <ManualVisibility>
         <Point>-285727.000+1532617.000</Point>
@@ -1592,7 +1592,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Canberra TCU" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="150" VisibilityRange="100" MagneticVariation="-12.67" Rotation="0">
+    <Position Name="Canberra TCU" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="150" VisibilityRange="100" MagneticVariation="-12.68" Rotation="0">
       <Sectors>
         <Sector Name="CBE" />
         <Sector Name="CBW" />
@@ -1604,7 +1604,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Canberra/CB_COAST" />
         <Map Name="Canberra/CB_TCU" />
-        <Map Name="Canberra/CB_RWY1712" />
+        <Map Name="Canberra/CB_RWY3530" />
         <Map Name="ALL_SECTORS" />
         <Map Name="TMA_LL_LABELS" />
       </Maps>
@@ -1709,7 +1709,7 @@
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
-      <ControllerInfo Callsign="PH-R_DEP">
+      <ControllerInfo Callsign="PH-R_APP">
         <Line>Perth Centre | Class G services </Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
@@ -1755,7 +1755,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Townsville TCU" Type="ASD" DefaultCenter="-19.2525+146.765278" DefaultRange="150" MagneticVariation="-7.23" Rotation="0">
+    <Position Name="Townsville TCU" Type="ASD" DefaultCenter="-19.2525+146.765278" DefaultRange="150" MagneticVariation="-7.22" Rotation="0">
       <Sectors>
         <Sector Name="TLA" />
       </Sectors>
@@ -1857,7 +1857,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Williamtown TCU" Type="ASD" DefaultCenter="-32.795+151.834444" DefaultRange="120" MagneticVariation="-12.6" Rotation="0">
+    <Position Name="Williamtown TCU" Type="ASD" DefaultCenter="-32.795+151.834444" DefaultRange="120" MagneticVariation="-12.61" Rotation="0">
       <Sectors>
         <Sector Name="WAL" />
       </Sectors>
@@ -1956,7 +1956,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Hobart TCU" Type="ASD" DefaultCenter="-424958.000+1473038.400" DefaultRange="319" VisibilityRange="150" MagneticVariation="-15.69" Rotation="0">
+    <Position Name="Hobart TCU" Type="ASD" DefaultCenter="-424958.000+1473038.400" DefaultRange="319" VisibilityRange="150" MagneticVariation="-15.7" Rotation="0">
       <Sectors>
         <Sector Name="HBA" />
       </Sectors>
@@ -2015,13 +2015,13 @@
         <AdditionalLevels>3200,3700,4200,5100,5600,5800,6300</AdditionalLevels>
       </CFL>
       <ControllerInfo>
-        <Line>Launceston Approach | ATIS available on 134.75</Line>
+        <Line>Launy Approach | ATIS available on 134.75</Line>
         <Line>Airspace, Charts, Tools - vats.im/pac/tools</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Mackay TCU" Type="ASD" DefaultCenter="-21.293889+149.171667" DefaultRange="150" MagneticVariation="-8.33" Rotation="0">
+    <Position Name="Mackay TCU" Type="ASD" DefaultCenter="-21.293889+149.171667" DefaultRange="150" VisibilityRange="150" MagneticVariation="-8.33" Rotation="0">
       <Sectors>
         <Sector Name="MKA" />
       </Sectors>
@@ -2057,7 +2057,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Rockhampton TCU" Type="ASD" DefaultCenter="-23.381944+150.475278" DefaultRange="180" MagneticVariation="-9.19" Rotation="0">
+    <Position Name="Rockhampton TCU" Type="ASD" DefaultCenter="-23.381944+150.475278" DefaultRange="180" VisibilityRange="150" MagneticVariation="-9.19" Rotation="0">
       <Sectors>
         <Sector Name="RKA" />
       </Sectors>
@@ -2156,7 +2156,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Scherger TCU" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="150" VisibilityRange="100" MagneticVariation="-4.78" Rotation="0">
+    <Position Name="Scherger TCU" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="150" VisibilityRange="100" MagneticVariation="-4.77" Rotation="0">
       <Sectors>
         <Sector Name="SGA" />
       </Sectors>
@@ -2189,7 +2189,7 @@
     </Position>
   </Group>
   <Group Name="Class C TWR">
-    <Position Name="Adelaide Tower" Type="ASD" DefaultCenter="-34.947+138.525" DefaultRange="60" MagneticVariation="-8.09" DynamicInfill="false" Rotation="0">
+    <Position Name="Adelaide Tower" Type="ASD" DefaultCenter="-34.947+138.525" DefaultRange="60" MagneticVariation="-8.1" DynamicInfill="false" Rotation="0">
       <Sectors>
         <Sector Name="AD ADC" />
         <Sector Name="AD SMC" />
@@ -2330,7 +2330,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Melbourne Tower" Type="ASD" DefaultCenter="-3740.4+14450.6" DefaultRange="60" MagneticVariation="-11.83" DynamicInfill="false" Rotation="0">
+    <Position Name="Melbourne Tower" Type="ASD" DefaultCenter="-3740.4+14450.6" DefaultRange="60" MagneticVariation="-11.84" DynamicInfill="false" Rotation="0">
       <Sectors>
         <Sector Name="ML ADC" />
         <Sector Name="ML SMC" />
@@ -2484,7 +2484,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Canberra Tower" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="60" MagneticVariation="-12.67" Rotation="0">
+    <Position Name="Canberra Tower" Type="ASD" DefaultCenter="-35.306944+149.195" DefaultRange="60" MagneticVariation="-12.68" Rotation="0">
       <Sectors>
         <Sector Name="CB ADC" />
         <Sector Name="CB SMC" />
@@ -2493,7 +2493,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Canberra/CB_COAST" />
         <Map Name="Canberra/CB_TCU" />
-        <Map Name="Canberra/CB_RWY1712" />
+        <Map Name="Canberra/CB_RWY3530" />
       </Maps>
       <ATIS>
         <Editor Airport="YSCB" Frequency="127.45" />
@@ -2598,7 +2598,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Townsville Tower" Type="ASD" DefaultCenter="-19.2525+146.765278" DefaultRange="60" MagneticVariation="-7.23" Rotation="0">
+    <Position Name="Townsville Tower" Type="ASD" DefaultCenter="-19.2525+146.765278" DefaultRange="60" MagneticVariation="-7.22" Rotation="0">
       <Sectors>
         <Sector Name="TL ADC" />
         <Sector Name="TL SMC" />
@@ -2710,7 +2710,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Williamtown Tower" Type="ASD" DefaultCenter="-32.795+151.834444" DefaultRange="60" MagneticVariation="-12.6" Rotation="0">
+    <Position Name="Williamtown Tower" Type="ASD" DefaultCenter="-32.795+151.834444" DefaultRange="60" MagneticVariation="-12.61" Rotation="0">
       <Sectors>
         <Sector Name="WLM ADC" />
         <Sector Name="WLM SMC" />
@@ -2821,7 +2821,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Edinburgh Tower" Type="ASD" DefaultCenter="-34.702500+138.620833" DefaultRange="60" MagneticVariation="-8.07" Rotation="0">
+    <Position Name="Edinburgh Tower" Type="ASD" DefaultCenter="-34.702500+138.620833" DefaultRange="60" MagneticVariation="-8.08" Rotation="0">
       <Sectors>
         <Sector Name="ED ADC" />
         <Sector Name="ED SMC" />
@@ -2875,7 +2875,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Gold Coast Tower" Type="ASD" DefaultCenter="-28.164444+153.504722" DefaultRange="45" MagneticVariation="-11.45" Rotation="0">
+    <Position Name="Gold Coast Tower" Type="ASD" DefaultCenter="-28.164444+153.504722" DefaultRange="45" MagneticVariation="-11.46" Rotation="0">
       <Sectors>
         <Sector Name="CG ADC" />
         <Sector Name="CG SMC" />
@@ -3050,7 +3050,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Scherger Tower" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="50" MagneticVariation="-4.78" DynamicInfill="false" Rotation="0">
+    <Position Name="Scherger Tower" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="50" MagneticVariation="-4.77" DynamicInfill="false" Rotation="0">
       <Sectors>
         <Sector Name="SG ADC" />
         <Sector Name="SG SMC" />
@@ -3082,7 +3082,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Walton Tower" Type="ASD" DefaultCenter="-335327.000+1504306.000" DefaultRange="60" MagneticVariation="-12.65" DynamicInfill="false" Rotation="0">
+    <Position Name="Walton Tower" Type="ASD" DefaultCenter="-335327.000+1504306.000" DefaultRange="60" MagneticVariation="-12.66" DynamicInfill="false" Rotation="0">
       <Sectors>
         <Sector Name="WS ADC" />
         <Sector Name="WS SMC" />
@@ -3122,7 +3122,7 @@
     </Position>
   </Group>
   <Group Name="Procedural TWR">
-    <Position Name="Albury Tower" Type="ASD" DefaultCenter="-36.067778+146.958056" DefaultRange="95" MagneticVariation="-12.09" Rotation="0">
+    <Position Name="Albury Tower" Type="ASD" DefaultCenter="-36.067778+146.958056" DefaultRange="95" MagneticVariation="-12.1" Rotation="0">
       <Sectors>
         <Sector Name="AY ADC" />
         <Sector Name="AY SMC" />
@@ -3517,7 +3517,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Camden Tower" Type="ASD" DefaultCenter="-34.040278+150.686667" DefaultRange="30" MagneticVariation="-12.7" Rotation="0">
+    <Position Name="Camden Tower" Type="ASD" DefaultCenter="-34.040278+150.686667" DefaultRange="30" MagneticVariation="-12.71" Rotation="0">
       <Sectors>
         <Sector Name="CN ADC" />
         <Sector Name="CN SMC" />
@@ -3547,7 +3547,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Hobart Tower" Type="ASD" DefaultCenter="-42.836111+147.510278" DefaultRange="65" MagneticVariation="-15.69" Rotation="0">
+    <Position Name="Hobart Tower" Type="ASD" DefaultCenter="-42.836111+147.510278" DefaultRange="65" MagneticVariation="-15.7" Rotation="0">
       <Sectors>
         <Sector Name="HB ADC" />
         <Sector Name="HB SMC" />
@@ -3796,7 +3796,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Melbourne Flow" Type="ASD" DefaultCenter="-37.6739+144.8431" DefaultRange="700" VisibilityRange="600" DynamicInfill="false" MagneticVariation="-11.83" Rotation="0">
+    <Position Name="Melbourne Flow" Type="ASD" DefaultCenter="-37.6739+144.8431" DefaultRange="700" VisibilityRange="600" DynamicInfill="false" MagneticVariation="-11.84" Rotation="0">
       <Sectors>
         <Sector Name="ML FMP" />
       </Sectors>
@@ -3871,7 +3871,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Adelaide Flow" Type="ASD" DefaultCenter="-34.947+138.525" DefaultRange="500" VisibilityRange="600" DynamicInfill="false" MagneticVariation="-8.09" Rotation="0">
+    <Position Name="Adelaide Flow" Type="ASD" DefaultCenter="-34.947+138.525" DefaultRange="500" VisibilityRange="600" DynamicInfill="false" MagneticVariation="-8.1" Rotation="0">
       <Sectors>
         <Sector Name="AD FMP" />
       </Sectors>
@@ -3896,7 +3896,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Canberra Flow" Type="ASD" DefaultCenter="-35.306111+149.195833" DefaultRange="500" VisibilityRange="600" DynamicInfill="false" MagneticVariation="-12.67" Rotation="0">
+    <Position Name="Canberra Flow" Type="ASD" DefaultCenter="-35.306111+149.195833" DefaultRange="500" VisibilityRange="600" DynamicInfill="false" MagneticVariation="-12.68" Rotation="0">
       <Sectors>
         <Sector Name="CB FMP" />
       </Sectors>
