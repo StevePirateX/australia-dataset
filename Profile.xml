@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Profile Name="Custom Australia" FullName="Custom Eurocat Australia (YMMM/YBBB)">
-	<Version AIRAC="2608" Revision="a" PublishDate="20260806" UpdateURL="" />
+	<Version AIRAC="2610" Revision="b" PublishDate="20261002" UpdateURL="" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />
 		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
-		<SweatBox url="sweatbox01-training.vatpac.org" />
-		<SweatBox2 url="sweatbox02-training.vatpac.org" />
-        <LocalHost url="server-training.vatpac.org" />
+		<SweatBox url="sweatbox1.vatpac.org" />
+		<SweatBox2 url="sweatbox2.vatpac.org" />
 	</Servers>	
 </Profile>
