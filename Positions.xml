@@ -56,7 +56,7 @@
       <Map Name="Sydney/ASMGCS_YSSY_APR" />
     </Maps>
   </Position>
-  <Position Name="YSRI" Type="ASMGCS" ASMGCSAirport="YSRI" DefaultCenter="-33.601667+150.782500" DefaultRange="2" MagneticVariation="-12.56" Rotation="0">
+  <Position Name="YSRI" Type="ASMGCS" ASMGCSAirport="YSRI" DefaultCenter="-33.601667+150.782500" DefaultRange="2" MagneticVariation="-12.57" Rotation="0">
     <Maps>
       <Map Name="Sydney/ASMGCS_YSRI_RWY" />
       <Map Name="Sydney/ASMGCS_YSRI_APR" />
@@ -176,7 +176,7 @@
       <Map Name="Pearce/ASMGCS_YGIG_BLD" />
     </Maps>
   </Position>
-  <Position Name="YBSG" Type="ASMGCS" ASMGCSAirport="YBSG" DefaultCenter="-123733.000+1420511.000" DefaultRange="3" MagneticVariation="-4.77" Rotation="0">
+  <Position Name="YBSG" Type="ASMGCS" ASMGCSAirport="YBSG" DefaultCenter="-123733.000+1420511.000" DefaultRange="3" MagneticVariation="-4.76" Rotation="0">
     <Maps>
       <Map Name="Scherger/ASMGCS_YBSG_RWY" />
       <Map Name="Scherger/ASMGCS_YBSG_APR" />
@@ -192,7 +192,7 @@
       <Map Name="Curtin/ASMGCS_YCIN_BLD" />
     </Maps>
   </Position>
-  <Position Name="YPLM" Type="ASMGCS" ASMGCSAirport="YPLM" DefaultCenter="-221408.000+1140519.000" DefaultRange="3" MagneticVariation="-0.29" Rotation="0">
+  <Position Name="YPLM" Type="ASMGCS" ASMGCSAirport="YPLM" DefaultCenter="-221408.000+1140519.000" DefaultRange="3" MagneticVariation="-0.3" Rotation="0">
     <Maps>
       <Map Name="Learmonth/ASMGCS_YPLM_RWY" />
       <Map Name="Learmonth/ASMGCS_YPLM_APR" />
@@ -553,7 +553,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Huon" Type="ASD" DefaultCenter="-40.859861+146.245167" DefaultRange="730" VisibilityRange="600" MagneticVariation="-13.96" Rotation="0">
+    <Position Name="Huon" Type="ASD" DefaultCenter="-40.859861+146.245167" DefaultRange="730" VisibilityRange="600" MagneticVariation="-13.97" Rotation="0">
       <Sectors>
         <Sector Name="HUO" />
         <Sector Name="WON" />
@@ -900,7 +900,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Snowy" Type="ASD" DefaultCenter="-37.497333+149.972889" DefaultRange="800" VisibilityRange="600" MagneticVariation="-13.97" Rotation="0">
+    <Position Name="Snowy" Type="ASD" DefaultCenter="-37.497333+149.972889" DefaultRange="800" VisibilityRange="600" MagneticVariation="-13.98" Rotation="0">
       <Sectors>
         <Sector Name="SNO" />
         <Sector Name="WOL" />
@@ -935,7 +935,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Tailem Bend" Type="ASD" DefaultCenter="-343343.9975+1374743.4216" DefaultRange="800" VisibilityRange="600" MagneticVariation="-7.68" Rotation="0">
+    <Position Name="Tailem Bend" Type="ASD" DefaultCenter="-343343.9975+1374743.4216" DefaultRange="800" VisibilityRange="600" MagneticVariation="-7.69" Rotation="0">
       <Sectors>
         <Sector Name="TBD" />
         <Sector Name="AUG" />
@@ -1045,7 +1045,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Indian Oceanic" Type="ASD" DefaultCenter="-155400.0+0971040.0" DefaultRange="5000" MagneticVariation="2.29" Rotation="0">
+    <Position Name="Indian Oceanic" Type="ASD" DefaultCenter="-155400.0+0971040.0" DefaultRange="5000" MagneticVariation="2.28" Rotation="0">
       <Sectors>
         <Sector Name="IND" />
         <Sector Name="INS" />
@@ -1278,7 +1278,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Walton TCU" Type="ASD" DefaultCenter="-33.883611+150.711389" DefaultRange="180" VisibilityRange="100" MagneticVariation="-12.65" Rotation="0">
+    <Position Name="Walton TCU" Type="ASD" DefaultCenter="-33.883611+150.711389" DefaultRange="180" VisibilityRange="100" MagneticVariation="-12.66" Rotation="0">
       <Sectors>
         <Sector Name="SWA" />
         <Sector Name="SRA" />
@@ -1612,7 +1612,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Pearce TCU" Type="ASD" DefaultCenter="-31.330278+115.900000" DefaultRange="150" VisibilityRange="100" MagneticVariation="1.26" Rotation="0">
+    <Position Name="Pearce TCU" Type="ASD" DefaultCenter="-31.330278+115.900000" DefaultRange="150" VisibilityRange="100" MagneticVariation="1.25" Rotation="0">
       <Sectors>
         <Sector Name="PEA" />
       </Sectors>
@@ -1798,7 +1798,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Darwin TCU" Type="ASD" DefaultCenter="-12.414722+130.876667" DefaultRange="200" MagneticVariation="-2.13" Rotation="0">
+    <Position Name="Darwin TCU" Type="ASD" DefaultCenter="-12.414722+130.876667" DefaultRange="200" MagneticVariation="-2.12" Rotation="0">
       <Sectors>
         <Sector Name="DAE" />
         <Sector Name="DAW" />
@@ -1969,7 +1969,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Launceston TCU" Type="ASD" DefaultCenter="-413237.800+1471247.700" DefaultRange="319" VisibilityRange="150" MagneticVariation="-14.81" Rotation="0">
+    <Position Name="Launceston TCU" Type="ASD" DefaultCenter="-413237.800+1471247.700" DefaultRange="319" VisibilityRange="150" MagneticVariation="-14.82" Rotation="0">
       <Sectors>
         <Sector Name="LTA" />
       </Sectors>
@@ -2104,7 +2104,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Learmonth TCU" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="150" VisibilityRange="100" MagneticVariation="-0.29" Rotation="0">
+    <Position Name="Learmonth TCU" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="150" VisibilityRange="100" MagneticVariation="-0.3" Rotation="0">
       <Sectors>
         <Sector Name="LMA" />
       </Sectors>
@@ -2135,7 +2135,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Scherger TCU" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="150" VisibilityRange="100" MagneticVariation="-4.77" Rotation="0">
+    <Position Name="Scherger TCU" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="150" VisibilityRange="100" MagneticVariation="-4.76" Rotation="0">
       <Sectors>
         <Sector Name="SGA" />
       </Sectors>
@@ -2648,7 +2648,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Darwin Tower" Type="ASD" DefaultCenter="-12.414722+130.876667" DefaultRange="60" MagneticVariation="-2.13" Rotation="0">
+    <Position Name="Darwin Tower" Type="ASD" DefaultCenter="-12.414722+130.876667" DefaultRange="60" MagneticVariation="-2.12" Rotation="0">
       <Sectors>
         <Sector Name="DN ADC" />
         <Sector Name="DN SMC" />
@@ -2924,7 +2924,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Richmond Tower" Type="ASD" DefaultCenter="-33.600556+150.780833" DefaultRange="40" MagneticVariation="-12.56" Rotation="0">
+    <Position Name="Richmond Tower" Type="ASD" DefaultCenter="-33.600556+150.780833" DefaultRange="40" MagneticVariation="-12.57" Rotation="0">
       <Sectors>
         <Sector Name="RI ADC" />
         <Sector Name="RI SMC" />
@@ -2992,7 +2992,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Learmonth Tower" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="50" MagneticVariation="-0.29" Rotation="0">
+    <Position Name="Learmonth Tower" Type="ASD" DefaultCenter="-22.23556+114.08861" DefaultRange="50" MagneticVariation="-0.3" Rotation="0">
       <Sectors>
         <Sector Name="LM ADC" />
         <Sector Name="LM SMC" />
@@ -3024,7 +3024,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Scherger Tower" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="50" MagneticVariation="-4.77" DynamicInfill="false" Rotation="0">
+    <Position Name="Scherger Tower" Type="ASD" DefaultCenter="-12.62389+142.08722" DefaultRange="50" MagneticVariation="-4.76" DynamicInfill="false" Rotation="0">
       <Sectors>
         <Sector Name="SG ADC" />
         <Sector Name="SG SMC" />
@@ -3593,7 +3593,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Launceston Tower" Type="ASD" DefaultCenter="-41.545278+147.214167" DefaultRange="65" MagneticVariation="-14.81" Rotation="0">
+    <Position Name="Launceston Tower" Type="ASD" DefaultCenter="-41.545278+147.214167" DefaultRange="65" MagneticVariation="-14.82" Rotation="0">
       <Sectors>
         <Sector Name="LT ADC" />
       </Sectors>
@@ -3648,7 +3648,7 @@
         <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     </Position>
-    <Position Name="Moorabbin Tower" Type="ASD" DefaultCenter="-37.975833+145.102222" DefaultRange="30" MagneticVariation="-12.08" Rotation="0">
+    <Position Name="Moorabbin Tower" Type="ASD" DefaultCenter="-37.975833+145.102222" DefaultRange="30" MagneticVariation="-12.09" Rotation="0">
       <Sectors>
         <Sector Name="MB ADC" />
         <Sector Name="MB ADCW" />
